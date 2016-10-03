@@ -8,7 +8,17 @@
 
 #include <stdio.h>
 
+
 int main(int argc, const char * argv[]) {
 
+    int a[5];
+    printf("请输入五个个数：\n");
+    for (int i = 0; i < 5; i++) {
+        scanf("%d",&a[i]);
+    }
+    int temp;
+    temp = singleNumber(a, 5);
+    printf("%d",temp);
+    
     return 0;
 }
