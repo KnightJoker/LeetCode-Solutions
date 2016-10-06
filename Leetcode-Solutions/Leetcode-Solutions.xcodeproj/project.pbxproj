@@ -11,6 +11,7 @@
 		2278E4421D9E674100771F08 /* ReverseString-344.c in Sources */ = {isa = PBXBuildFile; fileRef = 2278E4411D9E674100771F08 /* ReverseString-344.c */; };
 		229DBF231DA2337C004B4FA3 /* NimGame-292.c in Sources */ = {isa = PBXBuildFile; fileRef = 229DBF221DA2337C004B4FA3 /* NimGame-292.c */; };
 		229DBF251DA23BC1004B4FA3 /* SingleNumber-136.c in Sources */ = {isa = PBXBuildFile; fileRef = 229DBF241DA23BC1004B4FA3 /* SingleNumber-136.c */; };
+		229DBF2A1DA4E3A2004B4FA3 /* SumOfTwoIntegers-371.c in Sources */ = {isa = PBXBuildFile; fileRef = 229DBF291DA4E3A2004B4FA3 /* SumOfTwoIntegers-371.c */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -31,6 +32,7 @@
 		2278E4411D9E674100771F08 /* ReverseString-344.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "ReverseString-344.c"; sourceTree = "<group>"; };
 		229DBF221DA2337C004B4FA3 /* NimGame-292.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "NimGame-292.c"; sourceTree = "<group>"; };
 		229DBF241DA23BC1004B4FA3 /* SingleNumber-136.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "SingleNumber-136.c"; sourceTree = "<group>"; };
+		229DBF291DA4E3A2004B4FA3 /* SumOfTwoIntegers-371.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "SumOfTwoIntegers-371.c"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,6 +69,7 @@
 				2278E4411D9E674100771F08 /* ReverseString-344.c */,
 				229DBF221DA2337C004B4FA3 /* NimGame-292.c */,
 				229DBF241DA23BC1004B4FA3 /* SingleNumber-136.c */,
+				229DBF291DA4E3A2004B4FA3 /* SumOfTwoIntegers-371.c */,
 			);
 			path = "Leetcode-Solutions";
 			sourceTree = "<group>";
@@ -128,6 +131,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				2278E4311D9E5E6900771F08 /* main.c in Sources */,
+				229DBF2A1DA4E3A2004B4FA3 /* SumOfTwoIntegers-371.c in Sources */,
 				229DBF251DA23BC1004B4FA3 /* SingleNumber-136.c in Sources */,
 				2278E4421D9E674100771F08 /* ReverseString-344.c in Sources */,
 				229DBF231DA2337C004B4FA3 /* NimGame-292.c in Sources */,

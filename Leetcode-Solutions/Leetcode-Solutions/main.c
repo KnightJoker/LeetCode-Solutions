@@ -11,14 +11,11 @@
 
 int main(int argc, const char * argv[]) {
 
-    int a[5];
-    printf("请输入五个个数：\n");
-    for (int i = 0; i < 5; i++) {
-        scanf("%d",&a[i]);
-    }
-    int temp;
-    temp = singleNumber(a, 5);
-    printf("%d",temp);
-    
+    int a = 1;
+    int b = 9;
+    int c;
+    c = a^b;
+    int d = ~1;
+    printf("%d\n",d);
     return 0;
 }
