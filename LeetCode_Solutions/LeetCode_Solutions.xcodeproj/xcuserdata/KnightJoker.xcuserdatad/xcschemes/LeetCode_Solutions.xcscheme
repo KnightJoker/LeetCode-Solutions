@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "2278E42C1D9E5E6900771F08"
-               BuildableName = "Leetcode-Solutions"
-               BlueprintName = "Leetcode-Solutions"
-               ReferencedContainer = "container:Leetcode-Solutions.xcodeproj">
+               BlueprintIdentifier = "229DBF351DA77E98004B4FA3"
+               BuildableName = "LeetCode_Solutions"
+               BlueprintName = "LeetCode_Solutions"
+               ReferencedContainer = "container:LeetCode_Solutions.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,10 +32,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "2278E42C1D9E5E6900771F08"
-            BuildableName = "Leetcode-Solutions"
-            BlueprintName = "Leetcode-Solutions"
-            ReferencedContainer = "container:Leetcode-Solutions.xcodeproj">
+            BlueprintIdentifier = "229DBF351DA77E98004B4FA3"
+            BuildableName = "LeetCode_Solutions"
+            BlueprintName = "LeetCode_Solutions"
+            ReferencedContainer = "container:LeetCode_Solutions.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -55,10 +55,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "2278E42C1D9E5E6900771F08"
-            BuildableName = "Leetcode-Solutions"
-            BlueprintName = "Leetcode-Solutions"
-            ReferencedContainer = "container:Leetcode-Solutions.xcodeproj">
+            BlueprintIdentifier = "229DBF351DA77E98004B4FA3"
+            BuildableName = "LeetCode_Solutions"
+            BlueprintName = "LeetCode_Solutions"
+            ReferencedContainer = "container:LeetCode_Solutions.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -74,10 +74,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "2278E42C1D9E5E6900771F08"
-            BuildableName = "Leetcode-Solutions"
-            BlueprintName = "Leetcode-Solutions"
-            ReferencedContainer = "container:Leetcode-Solutions.xcodeproj">
+            BlueprintIdentifier = "229DBF351DA77E98004B4FA3"
+            BuildableName = "LeetCode_Solutions"
+            BlueprintName = "LeetCode_Solutions"
+            ReferencedContainer = "container:LeetCode_Solutions.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
