@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		229DBF3A1DA77E98004B4FA3 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 229DBF391DA77E98004B4FA3 /* main.m */; };
 		229DBF451DA783CD004B4FA3 /* ReverseString_344.m in Sources */ = {isa = PBXBuildFile; fileRef = 229DBF441DA783CD004B4FA3 /* ReverseString_344.m */; };
+		229DBF481DA8FD34004B4FA3 /* AddDigits_258.m in Sources */ = {isa = PBXBuildFile; fileRef = 229DBF471DA8FD34004B4FA3 /* AddDigits_258.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -28,6 +29,8 @@
 		229DBF391DA77E98004B4FA3 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		229DBF431DA783CD004B4FA3 /* ReverseString_344.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ReverseString_344.h; sourceTree = "<group>"; };
 		229DBF441DA783CD004B4FA3 /* ReverseString_344.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ReverseString_344.m; sourceTree = "<group>"; };
+		229DBF461DA8FD34004B4FA3 /* AddDigits_258.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AddDigits_258.h; sourceTree = "<group>"; };
+		229DBF471DA8FD34004B4FA3 /* AddDigits_258.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AddDigits_258.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +66,8 @@
 				229DBF391DA77E98004B4FA3 /* main.m */,
 				229DBF431DA783CD004B4FA3 /* ReverseString_344.h */,
 				229DBF441DA783CD004B4FA3 /* ReverseString_344.m */,
+				229DBF461DA8FD34004B4FA3 /* AddDigits_258.h */,
+				229DBF471DA8FD34004B4FA3 /* AddDigits_258.m */,
 			);
 			path = LeetCode_Solutions;
 			sourceTree = "<group>";
@@ -124,6 +129,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				229DBF3A1DA77E98004B4FA3 /* main.m in Sources */,
+				229DBF481DA8FD34004B4FA3 /* AddDigits_258.m in Sources */,
 				229DBF451DA783CD004B4FA3 /* ReverseString_344.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -245,6 +251,7 @@
 				229DBF3F1DA77E98004B4FA3 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

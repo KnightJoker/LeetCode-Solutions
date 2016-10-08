@@ -6,6 +6,16 @@
 //  Copyright © 2016年 KnightJoker. All rights reserved.
 //
 
+
+/*  问题描述
+ 
+ Write a function that takes a string as input and returns the string reversed.
+ 
+ Example:
+ Given s = "hello", return "olleh".
+ 
+ */
+
 #import "ReverseString_344.h"
 
 @implementation ReverseString_344
