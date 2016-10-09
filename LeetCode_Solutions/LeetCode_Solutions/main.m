@@ -8,16 +8,15 @@
 
 #import <Foundation/Foundation.h>
 
-#import "ReverseString_344.h"
+#import "AddDigits_258.h"
 
 int main(int argc, const char * argv[]) {
     @autoreleasepool {
         // insert code here...
-        NSString *s = [[NSString alloc] initWithFormat:@"abcda"];
-        NSString *temp = [[NSString alloc] init];
-        ReverseString_344 *a = [[ReverseString_344 alloc] init];
-        temp = [a reverseString:s];
-        NSLog(@"%@",temp);
+      
+        AddDigits_258 *a = [[AddDigits_258 alloc] init];
+        NSInteger temp = [a addDigits:321];
+        NSLog(@"%ld",temp);
     }
     return 0;
 }

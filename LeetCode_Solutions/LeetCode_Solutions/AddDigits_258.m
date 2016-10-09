@@ -35,8 +35,10 @@
 
 - (NSInteger) addDigits:(NSInteger)num {
 
-    
-    return 0;
+    while (num > 10) {
+        num = num /10 + num % 10;
+    }
+    return num;
 }
 
 @end

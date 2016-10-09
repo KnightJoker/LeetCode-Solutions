@@ -10,4 +10,6 @@
 
 @interface AddDigits_258 : NSObject
 
+- (NSInteger) addDigits:(NSInteger)num;
+
 @end
