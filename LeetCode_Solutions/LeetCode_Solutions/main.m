@@ -8,15 +8,15 @@
 
 #import <Foundation/Foundation.h>
 
-#import "AddDigits_258.h"
+#import "FindDifference_389.h"
 
 int main(int argc, const char * argv[]) {
     @autoreleasepool {
         // insert code here...
       
-        AddDigits_258 *a = [[AddDigits_258 alloc] init];
-        NSInteger temp = [a addDigits:321];
-        NSLog(@"%ld",temp);
+        FindDifference_389 *a = [[FindDifference_389 alloc] init];
+        unichar temp = [a findTheDifference:@"abcd" and:@"abcd"];
+        NSLog(@"%c",temp);
     }
     return 0;
 }
