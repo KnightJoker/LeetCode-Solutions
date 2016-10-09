@@ -11,6 +11,7 @@
 		229DBF451DA783CD004B4FA3 /* ReverseString_344.m in Sources */ = {isa = PBXBuildFile; fileRef = 229DBF441DA783CD004B4FA3 /* ReverseString_344.m */; };
 		229DBF481DA8FD34004B4FA3 /* AddDigits_258.m in Sources */ = {isa = PBXBuildFile; fileRef = 229DBF471DA8FD34004B4FA3 /* AddDigits_258.m */; };
 		229DBF4B1DAA0E23004B4FA3 /* FindDifference_389.m in Sources */ = {isa = PBXBuildFile; fileRef = 229DBF4A1DAA0E23004B4FA3 /* FindDifference_389.m */; };
+		229DBF4E1DAA1AFB004B4FA3 /* InvertBinaryTree_226.m in Sources */ = {isa = PBXBuildFile; fileRef = 229DBF4D1DAA1AFB004B4FA3 /* InvertBinaryTree_226.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -34,6 +35,8 @@
 		229DBF471DA8FD34004B4FA3 /* AddDigits_258.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AddDigits_258.m; sourceTree = "<group>"; };
 		229DBF491DAA0E23004B4FA3 /* FindDifference_389.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FindDifference_389.h; sourceTree = "<group>"; };
 		229DBF4A1DAA0E23004B4FA3 /* FindDifference_389.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FindDifference_389.m; sourceTree = "<group>"; };
+		229DBF4C1DAA1AFB004B4FA3 /* InvertBinaryTree_226.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = InvertBinaryTree_226.h; sourceTree = "<group>"; };
+		229DBF4D1DAA1AFB004B4FA3 /* InvertBinaryTree_226.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = InvertBinaryTree_226.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -73,6 +76,8 @@
 				229DBF471DA8FD34004B4FA3 /* AddDigits_258.m */,
 				229DBF491DAA0E23004B4FA3 /* FindDifference_389.h */,
 				229DBF4A1DAA0E23004B4FA3 /* FindDifference_389.m */,
+				229DBF4C1DAA1AFB004B4FA3 /* InvertBinaryTree_226.h */,
+				229DBF4D1DAA1AFB004B4FA3 /* InvertBinaryTree_226.m */,
 			);
 			path = LeetCode_Solutions;
 			sourceTree = "<group>";
@@ -137,6 +142,7 @@
 				229DBF481DA8FD34004B4FA3 /* AddDigits_258.m in Sources */,
 				229DBF4B1DAA0E23004B4FA3 /* FindDifference_389.m in Sources */,
 				229DBF451DA783CD004B4FA3 /* ReverseString_344.m in Sources */,
+				229DBF4E1DAA1AFB004B4FA3 /* InvertBinaryTree_226.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

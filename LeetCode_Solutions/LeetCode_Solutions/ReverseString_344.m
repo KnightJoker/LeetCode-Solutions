@@ -7,7 +7,7 @@
 //
 
 
-/*  问题描述
+/*  The description of question
  
  Write a function that takes a string as input and returns the string reversed.
  

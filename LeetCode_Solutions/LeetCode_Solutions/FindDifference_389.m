@@ -7,7 +7,7 @@
 //
 
 
-/*  question of description
+/*  The description of question
  
  Given two strings s and t which consist of only lowercase letters.
  
