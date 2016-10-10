@@ -13,6 +13,7 @@
 		229DBF4B1DAA0E23004B4FA3 /* FindDifference_389.m in Sources */ = {isa = PBXBuildFile; fileRef = 229DBF4A1DAA0E23004B4FA3 /* FindDifference_389.m */; };
 		229DBF4E1DAA1AFB004B4FA3 /* InvertBinaryTree_226.m in Sources */ = {isa = PBXBuildFile; fileRef = 229DBF4D1DAA1AFB004B4FA3 /* InvertBinaryTree_226.m */; };
 		22D796A31DAB314E00ADB02A /* MoveZeroes_283.m in Sources */ = {isa = PBXBuildFile; fileRef = 22D796A21DAB314E00ADB02A /* MoveZeroes_283.m */; };
+		22D796A61DAB438500ADB02A /* SumOfLeftLeaves_404.m in Sources */ = {isa = PBXBuildFile; fileRef = 22D796A51DAB438500ADB02A /* SumOfLeftLeaves_404.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -40,6 +41,8 @@
 		229DBF4D1DAA1AFB004B4FA3 /* InvertBinaryTree_226.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = InvertBinaryTree_226.m; sourceTree = "<group>"; };
 		22D796A11DAB314E00ADB02A /* MoveZeroes_283.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MoveZeroes_283.h; sourceTree = "<group>"; };
 		22D796A21DAB314E00ADB02A /* MoveZeroes_283.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MoveZeroes_283.m; sourceTree = "<group>"; };
+		22D796A41DAB438500ADB02A /* SumOfLeftLeaves_404.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SumOfLeftLeaves_404.h; sourceTree = "<group>"; };
+		22D796A51DAB438500ADB02A /* SumOfLeftLeaves_404.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SumOfLeftLeaves_404.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,6 +86,8 @@
 				229DBF4D1DAA1AFB004B4FA3 /* InvertBinaryTree_226.m */,
 				22D796A11DAB314E00ADB02A /* MoveZeroes_283.h */,
 				22D796A21DAB314E00ADB02A /* MoveZeroes_283.m */,
+				22D796A41DAB438500ADB02A /* SumOfLeftLeaves_404.h */,
+				22D796A51DAB438500ADB02A /* SumOfLeftLeaves_404.m */,
 			);
 			path = LeetCode_Solutions;
 			sourceTree = "<group>";
@@ -147,6 +152,7 @@
 				229DBF481DA8FD34004B4FA3 /* AddDigits_258.m in Sources */,
 				229DBF4B1DAA0E23004B4FA3 /* FindDifference_389.m in Sources */,
 				229DBF451DA783CD004B4FA3 /* ReverseString_344.m in Sources */,
+				22D796A61DAB438500ADB02A /* SumOfLeftLeaves_404.m in Sources */,
 				22D796A31DAB314E00ADB02A /* MoveZeroes_283.m in Sources */,
 				229DBF4E1DAA1AFB004B4FA3 /* InvertBinaryTree_226.m in Sources */,
 			);
