@@ -8,15 +8,19 @@
 
 #import <Foundation/Foundation.h>
 
-#import "FindDifference_389.h"
+#import "MoveZeroes_283.h"
 
 int main(int argc, const char * argv[]) {
     @autoreleasepool {
         // insert code here...
       
-        FindDifference_389 *a = [[FindDifference_389 alloc] init];
-        unichar temp = [a findTheDifference:@"abcd" and:@"abcd"];
-        NSLog(@"%c",temp);
+        MoveZeroes_283 *a = [[MoveZeroes_283 alloc] init];
+        NSArray *temp = [[NSArray alloc] init];
+        temp = @[@0,@0,@6,@3,@4,@0];
+        
+        NSArray *array = [[NSArray alloc] init];
+        array = [a moveZeroes:temp andNumsSize:6];
+        NSLog(@"%@",array);
     }
     return 0;
 }
