@@ -8,19 +8,15 @@
 
 #import <Foundation/Foundation.h>
 
-#import "MoveZeroes_283.h"
+#import "RansomNote_383.h"
 
 int main(int argc, const char * argv[]) {
     @autoreleasepool {
         // insert code here...
       
-        MoveZeroes_283 *a = [[MoveZeroes_283 alloc] init];
-        NSArray *temp = [[NSArray alloc] init];
-        temp = @[@0,@0,@6,@3,@4,@0];
-        
-        NSArray *array = [[NSArray alloc] init];
-        array = [a moveZeroes:temp andNumsSize:6];
-        NSLog(@"%@",array);
+        RansomNote_383 *a = [[RansomNote_383 alloc] init];
+
+        NSLog(@"%d",[a canConstruct:@"a" and:@"ab"]);
     }
     return 0;
 }
