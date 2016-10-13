@@ -10,6 +10,7 @@
 		227091E41DADC771001AB884 /* RansomNote_383.m in Sources */ = {isa = PBXBuildFile; fileRef = 227091E31DADC771001AB884 /* RansomNote_383.m */; };
 		227091E71DADCAF7001AB884 /* DeleteNodeInALinkedList_237.m in Sources */ = {isa = PBXBuildFile; fileRef = 227091E61DADCAF7001AB884 /* DeleteNodeInALinkedList_237.m */; };
 		227091EA1DAF2056001AB884 /* IntersectionOfTwoArrays_349.m in Sources */ = {isa = PBXBuildFile; fileRef = 227091E91DAF2056001AB884 /* IntersectionOfTwoArrays_349.m */; };
+		227091ED1DAF51D4001AB884 /* SameTree_100.m in Sources */ = {isa = PBXBuildFile; fileRef = 227091EC1DAF51D4001AB884 /* SameTree_100.m */; };
 		229DBF3A1DA77E98004B4FA3 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 229DBF391DA77E98004B4FA3 /* main.m */; };
 		229DBF451DA783CD004B4FA3 /* ReverseString_344.m in Sources */ = {isa = PBXBuildFile; fileRef = 229DBF441DA783CD004B4FA3 /* ReverseString_344.m */; };
 		229DBF481DA8FD34004B4FA3 /* AddDigits_258.m in Sources */ = {isa = PBXBuildFile; fileRef = 229DBF471DA8FD34004B4FA3 /* AddDigits_258.m */; };
@@ -39,6 +40,8 @@
 		227091E61DADCAF7001AB884 /* DeleteNodeInALinkedList_237.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DeleteNodeInALinkedList_237.m; sourceTree = "<group>"; };
 		227091E81DAF2056001AB884 /* IntersectionOfTwoArrays_349.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = IntersectionOfTwoArrays_349.h; sourceTree = "<group>"; };
 		227091E91DAF2056001AB884 /* IntersectionOfTwoArrays_349.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = IntersectionOfTwoArrays_349.m; sourceTree = "<group>"; };
+		227091EB1DAF51D4001AB884 /* SameTree_100.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SameTree_100.h; sourceTree = "<group>"; };
+		227091EC1DAF51D4001AB884 /* SameTree_100.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SameTree_100.m; sourceTree = "<group>"; };
 		229DBF361DA77E98004B4FA3 /* LeetCode_Solutions */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = LeetCode_Solutions; sourceTree = BUILT_PRODUCTS_DIR; };
 		229DBF391DA77E98004B4FA3 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		229DBF431DA783CD004B4FA3 /* ReverseString_344.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ReverseString_344.h; sourceTree = "<group>"; };
@@ -108,6 +111,8 @@
 				227091E61DADCAF7001AB884 /* DeleteNodeInALinkedList_237.m */,
 				227091E81DAF2056001AB884 /* IntersectionOfTwoArrays_349.h */,
 				227091E91DAF2056001AB884 /* IntersectionOfTwoArrays_349.m */,
+				227091EB1DAF51D4001AB884 /* SameTree_100.h */,
+				227091EC1DAF51D4001AB884 /* SameTree_100.m */,
 			);
 			path = LeetCode_Solutions;
 			sourceTree = "<group>";
@@ -171,6 +176,7 @@
 				227091EA1DAF2056001AB884 /* IntersectionOfTwoArrays_349.m in Sources */,
 				229DBF3A1DA77E98004B4FA3 /* main.m in Sources */,
 				229DBF481DA8FD34004B4FA3 /* AddDigits_258.m in Sources */,
+				227091ED1DAF51D4001AB884 /* SameTree_100.m in Sources */,
 				229DBF4B1DAA0E23004B4FA3 /* FindDifference_389.m in Sources */,
 				227091E71DADCAF7001AB884 /* DeleteNodeInALinkedList_237.m in Sources */,
 				229DBF451DA783CD004B4FA3 /* ReverseString_344.m in Sources */,
