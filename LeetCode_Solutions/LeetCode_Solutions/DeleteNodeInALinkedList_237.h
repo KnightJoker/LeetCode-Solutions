@@ -8,6 +8,14 @@
 
 #import <Foundation/Foundation.h>
 
+struct ListNode {
+    
+    int val;
+    struct ListNode *next;
+};
+
 @interface DeleteNodeInALinkedList_237 : NSObject
+
+- (void)deleteNode:(struct ListNode *)node;
 
 @end

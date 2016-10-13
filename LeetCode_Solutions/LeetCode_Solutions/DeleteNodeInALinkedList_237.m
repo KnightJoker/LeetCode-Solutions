@@ -18,11 +18,7 @@
 
 #import "DeleteNodeInALinkedList_237.h"
 
-struct ListNode {
 
-    int val;
-    struct ListNode *next;
-};
 
 @implementation DeleteNodeInALinkedList_237
 

@@ -8,15 +8,15 @@
 
 #import <Foundation/Foundation.h>
 
-#import "RansomNote_383.h"
+#import "IntersectionOfTwoArrays_349.h"
 
 int main(int argc, const char * argv[]) {
     @autoreleasepool {
         // insert code here...
       
-        RansomNote_383 *a = [[RansomNote_383 alloc] init];
+        IntersectionOfTwoArrays_349 *a = [[IntersectionOfTwoArrays_349 alloc] init];
 
-        NSLog(@"%d",[a canConstruct:@"a" and:@"ab"]);
+        NSLog(@"%@",[a intersection:@[@(1),@(2),@(3),@(1)] andNun2:@[@(2),@(1)]]);
     }
     return 0;
 }
