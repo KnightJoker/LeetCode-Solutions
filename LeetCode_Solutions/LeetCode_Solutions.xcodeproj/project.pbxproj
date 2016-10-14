@@ -11,6 +11,7 @@
 		227091E71DADCAF7001AB884 /* DeleteNodeInALinkedList_237.m in Sources */ = {isa = PBXBuildFile; fileRef = 227091E61DADCAF7001AB884 /* DeleteNodeInALinkedList_237.m */; };
 		227091EA1DAF2056001AB884 /* IntersectionOfTwoArrays_349.m in Sources */ = {isa = PBXBuildFile; fileRef = 227091E91DAF2056001AB884 /* IntersectionOfTwoArrays_349.m */; };
 		227091ED1DAF51D4001AB884 /* SameTree_100.m in Sources */ = {isa = PBXBuildFile; fileRef = 227091EC1DAF51D4001AB884 /* SameTree_100.m */; };
+		227091F01DB06FF9001AB884 /* ExcelSheetColumnNumber_171.m in Sources */ = {isa = PBXBuildFile; fileRef = 227091EF1DB06FF9001AB884 /* ExcelSheetColumnNumber_171.m */; };
 		229DBF3A1DA77E98004B4FA3 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 229DBF391DA77E98004B4FA3 /* main.m */; };
 		229DBF451DA783CD004B4FA3 /* ReverseString_344.m in Sources */ = {isa = PBXBuildFile; fileRef = 229DBF441DA783CD004B4FA3 /* ReverseString_344.m */; };
 		229DBF481DA8FD34004B4FA3 /* AddDigits_258.m in Sources */ = {isa = PBXBuildFile; fileRef = 229DBF471DA8FD34004B4FA3 /* AddDigits_258.m */; };
@@ -42,6 +43,8 @@
 		227091E91DAF2056001AB884 /* IntersectionOfTwoArrays_349.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = IntersectionOfTwoArrays_349.m; sourceTree = "<group>"; };
 		227091EB1DAF51D4001AB884 /* SameTree_100.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SameTree_100.h; sourceTree = "<group>"; };
 		227091EC1DAF51D4001AB884 /* SameTree_100.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SameTree_100.m; sourceTree = "<group>"; };
+		227091EE1DB06FF9001AB884 /* ExcelSheetColumnNumber_171.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ExcelSheetColumnNumber_171.h; sourceTree = "<group>"; };
+		227091EF1DB06FF9001AB884 /* ExcelSheetColumnNumber_171.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ExcelSheetColumnNumber_171.m; sourceTree = "<group>"; };
 		229DBF361DA77E98004B4FA3 /* LeetCode_Solutions */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = LeetCode_Solutions; sourceTree = BUILT_PRODUCTS_DIR; };
 		229DBF391DA77E98004B4FA3 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		229DBF431DA783CD004B4FA3 /* ReverseString_344.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ReverseString_344.h; sourceTree = "<group>"; };
@@ -113,6 +116,8 @@
 				227091E91DAF2056001AB884 /* IntersectionOfTwoArrays_349.m */,
 				227091EB1DAF51D4001AB884 /* SameTree_100.h */,
 				227091EC1DAF51D4001AB884 /* SameTree_100.m */,
+				227091EE1DB06FF9001AB884 /* ExcelSheetColumnNumber_171.h */,
+				227091EF1DB06FF9001AB884 /* ExcelSheetColumnNumber_171.m */,
 			);
 			path = LeetCode_Solutions;
 			sourceTree = "<group>";
@@ -183,6 +188,7 @@
 				227091E41DADC771001AB884 /* RansomNote_383.m in Sources */,
 				22D796A61DAB438500ADB02A /* SumOfLeftLeaves_404.m in Sources */,
 				22D796A91DAC82B000ADB02A /* LongestPalindrome_409.m in Sources */,
+				227091F01DB06FF9001AB884 /* ExcelSheetColumnNumber_171.m in Sources */,
 				22D796A31DAB314E00ADB02A /* MoveZeroes_283.m in Sources */,
 				229DBF4E1DAA1AFB004B4FA3 /* InvertBinaryTree_226.m in Sources */,
 			);

@@ -8,15 +8,15 @@
 
 #import <Foundation/Foundation.h>
 
-#import "IntersectionOfTwoArrays_349.h"
+#import "ExcelSheetColumnNumber_171.h"
 
 int main(int argc, const char * argv[]) {
     @autoreleasepool {
         // insert code here...
       
-        IntersectionOfTwoArrays_349 *a = [[IntersectionOfTwoArrays_349 alloc] init];
+        ExcelSheetColumnNumber_171 *a = [[ExcelSheetColumnNumber_171 alloc] init];
 
-        NSLog(@"%@",[a intersection:@[@(1),@(2),@(3),@(1)] andNun2:@[@(2),@(1)]]);
+        NSLog(@"%ld",[a titleToNumber:@"AB"]);
     }
     return 0;
 }
