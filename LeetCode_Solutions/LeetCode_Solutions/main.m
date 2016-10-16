@@ -16,7 +16,7 @@ int main(int argc, const char * argv[]) {
       
         ExcelSheetColumnNumber_171 *a = [[ExcelSheetColumnNumber_171 alloc] init];
 
-        NSLog(@"%ld",[a titleToNumber:@"AB"]);
+        NSLog(@"%ld",[a titleToNumber:@"Z"]);
     }
     return 0;
 }
