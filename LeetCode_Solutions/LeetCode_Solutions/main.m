@@ -8,15 +8,18 @@
 
 #import <Foundation/Foundation.h>
 
-#import "ExcelSheetColumnNumber_171.h"
+#import "ValidAnagram_242.h"
 
 int main(int argc, const char * argv[]) {
     @autoreleasepool {
         // insert code here...
-      
-        ExcelSheetColumnNumber_171 *a = [[ExcelSheetColumnNumber_171 alloc] init];
-
-        NSLog(@"%ld",[a titleToNumber:@"Z"]);
+        NSString *s = [[NSString alloc] init];
+        s = @"rat";
+        NSString *t = [[NSString alloc] init];
+        t = @"cat";
+        
+        ValidAnagram_242 *a = [[ValidAnagram_242 alloc] init];
+        NSLog(@"%d",[a isAnagram:s and:t]);
     }
     return 0;
 }

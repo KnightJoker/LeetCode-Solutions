@@ -10,4 +10,7 @@
 
 @interface ValidAnagram_242 : NSObject
 
+- (BOOL)isAnagram:(NSString *)s
+              and:(NSString *)t;
+
 @end
