@@ -8,18 +8,17 @@
 
 #import <Foundation/Foundation.h>
 
-#import "ValidAnagram_242.h"
+#import "MajorityElement_169.h"
 
 int main(int argc, const char * argv[]) {
     @autoreleasepool {
         // insert code here...
-        NSString *s = [[NSString alloc] init];
-        s = @"rat";
-        NSString *t = [[NSString alloc] init];
-        t = @"cat";
-        
-        ValidAnagram_242 *a = [[ValidAnagram_242 alloc] init];
-        NSLog(@"%d",[a isAnagram:s and:t]);
+        NSMutableArray *array = [[NSMutableArray alloc] init];
+        NSArray *array_temp = [[NSArray alloc] init];
+        array_temp = @[@(1),@(2),@(2),@(2),@(3),@(2),@(3)];
+        [array addObjectsFromArray:array_temp];
+        MajorityElement_169 *a = [[MajorityElement_169 alloc] init];
+        NSLog(@"%ld",[a majorityElement:array]);
     }
     return 0;
 }
