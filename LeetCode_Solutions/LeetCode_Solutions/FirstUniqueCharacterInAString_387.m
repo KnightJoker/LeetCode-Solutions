@@ -22,6 +22,7 @@
  
  */
 
+/// 这个题目还有有一点问题没有解决，关于Dictionary如何计算每次出现的总数，这会脑子要爆炸了额，明天再来解决这个问题~
 
 #import "FirstUniqueCharacterInAString_387.h"
 
@@ -29,18 +30,24 @@
 
 - (NSInteger)fristUniqChar:(NSString *)s {
     
-    NSMutableArray *array = [[NSMutableArray alloc] init];
-    NSMutableDictionary *dic = [[NSMutableDictionary alloc] init];
+
+    NSInteger count = 0;
+    NSMutableArray *stringArray = [[NSMutableArray alloc] init];
     for (int i = 0; i < s.length; i++) {
-        
-        
+        [stringArray addObject:@([s characterAtIndex:i])];
     }
     
-    for (int i = 0; i < array.count; i++) {
-        for (int j = 0; j < array.count && j != i; j++) {
+    NSMutableDictionary *stringDic = [[NSMutableDictionary alloc] init];
+    for (int i = 0; i < stringArray.count; i++) {
 
+        [stringDic addEntriesFromDictionary:@{stringArray[i]:@(count++)}];
+    }
+    for (int i = 0; i < stringArray.count; i++) {
+        if ([[stringDic objectForKey:stringArray[i]] integerValue] == 1) {
+            return i;
         }
     }
+    
     return -1;
 }
 
