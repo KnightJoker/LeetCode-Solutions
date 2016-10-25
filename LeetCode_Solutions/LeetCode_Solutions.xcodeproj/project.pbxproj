@@ -21,6 +21,7 @@
 		229DBF4B1DAA0E23004B4FA3 /* FindDifference_389.m in Sources */ = {isa = PBXBuildFile; fileRef = 229DBF4A1DAA0E23004B4FA3 /* FindDifference_389.m */; };
 		229DBF4E1DAA1AFB004B4FA3 /* InvertBinaryTree_226.m in Sources */ = {isa = PBXBuildFile; fileRef = 229DBF4D1DAA1AFB004B4FA3 /* InvertBinaryTree_226.m */; };
 		22D719A61DBEECD40058896B /* ContainsDuplicate_217.m in Sources */ = {isa = PBXBuildFile; fileRef = 22D719A51DBEECD40058896B /* ContainsDuplicate_217.m */; };
+		22D719A91DBEFB9B0058896B /* IntersectionOfTwoArraysII_350.m in Sources */ = {isa = PBXBuildFile; fileRef = 22D719A81DBEFB9B0058896B /* IntersectionOfTwoArraysII_350.m */; };
 		22D796A31DAB314E00ADB02A /* MoveZeroes_283.m in Sources */ = {isa = PBXBuildFile; fileRef = 22D796A21DAB314E00ADB02A /* MoveZeroes_283.m */; };
 		22D796A61DAB438500ADB02A /* SumOfLeftLeaves_404.m in Sources */ = {isa = PBXBuildFile; fileRef = 22D796A51DAB438500ADB02A /* SumOfLeftLeaves_404.m */; };
 		22D796A91DAC82B000ADB02A /* LongestPalindrome_409.m in Sources */ = {isa = PBXBuildFile; fileRef = 22D796A81DAC82B000ADB02A /* LongestPalindrome_409.m */; };
@@ -67,6 +68,8 @@
 		229DBF4D1DAA1AFB004B4FA3 /* InvertBinaryTree_226.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = InvertBinaryTree_226.m; sourceTree = "<group>"; };
 		22D719A41DBEECD40058896B /* ContainsDuplicate_217.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ContainsDuplicate_217.h; sourceTree = "<group>"; };
 		22D719A51DBEECD40058896B /* ContainsDuplicate_217.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ContainsDuplicate_217.m; sourceTree = "<group>"; };
+		22D719A71DBEFB9B0058896B /* IntersectionOfTwoArraysII_350.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = IntersectionOfTwoArraysII_350.h; sourceTree = "<group>"; };
+		22D719A81DBEFB9B0058896B /* IntersectionOfTwoArraysII_350.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = IntersectionOfTwoArraysII_350.m; sourceTree = "<group>"; };
 		22D796A11DAB314E00ADB02A /* MoveZeroes_283.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MoveZeroes_283.h; sourceTree = "<group>"; };
 		22D796A21DAB314E00ADB02A /* MoveZeroes_283.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MoveZeroes_283.m; sourceTree = "<group>"; };
 		22D796A41DAB438500ADB02A /* SumOfLeftLeaves_404.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SumOfLeftLeaves_404.h; sourceTree = "<group>"; };
@@ -138,6 +141,8 @@
 				227092341DB70715001AB884 /* FirstUniqueCharacterInAString_387.m */,
 				22D719A41DBEECD40058896B /* ContainsDuplicate_217.h */,
 				22D719A51DBEECD40058896B /* ContainsDuplicate_217.m */,
+				22D719A71DBEFB9B0058896B /* IntersectionOfTwoArraysII_350.h */,
+				22D719A81DBEFB9B0058896B /* IntersectionOfTwoArraysII_350.m */,
 			);
 			path = LeetCode_Solutions;
 			sourceTree = "<group>";
@@ -201,6 +206,7 @@
 				227091EA1DAF2056001AB884 /* IntersectionOfTwoArrays_349.m in Sources */,
 				227092191DB3CA25001AB884 /* ValidAnagram_242.m in Sources */,
 				229DBF3A1DA77E98004B4FA3 /* main.m in Sources */,
+				22D719A91DBEFB9B0058896B /* IntersectionOfTwoArraysII_350.m in Sources */,
 				229DBF481DA8FD34004B4FA3 /* AddDigits_258.m in Sources */,
 				227091ED1DAF51D4001AB884 /* SameTree_100.m in Sources */,
 				229DBF4B1DAA0E23004B4FA3 /* FindDifference_389.m in Sources */,

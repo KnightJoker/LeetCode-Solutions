@@ -8,16 +8,18 @@
 
 #import <Foundation/Foundation.h>
 
-#import "ContainsDuplicate_217.h"
+#import "IntersectionOfTwoArraysII_350.h"
 
 int main(int argc, const char * argv[]) {
     @autoreleasepool {
         // insert code here...
 
         NSArray *array = [[NSArray alloc] init];
-        array = @[@(1),@(2),@(5),@(3)];
-        ContainsDuplicate_217 *a = [[ContainsDuplicate_217 alloc] init];
-        NSLog(@"%d",[a containsDuplicate:array]);
+        array = @[@(1),@(2),@(2),@(1)];
+        NSArray *array1= [[NSArray alloc] init];
+        array1 = @[@(2),@(2)];
+        IntersectionOfTwoArraysII_350 *a = [[IntersectionOfTwoArraysII_350 alloc] init];
+        NSLog(@"%@",[a intersect:array and:array1]);
     }
     return 0;
 }
