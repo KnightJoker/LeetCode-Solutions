@@ -20,6 +20,7 @@
 		229DBF481DA8FD34004B4FA3 /* AddDigits_258.m in Sources */ = {isa = PBXBuildFile; fileRef = 229DBF471DA8FD34004B4FA3 /* AddDigits_258.m */; };
 		229DBF4B1DAA0E23004B4FA3 /* FindDifference_389.m in Sources */ = {isa = PBXBuildFile; fileRef = 229DBF4A1DAA0E23004B4FA3 /* FindDifference_389.m */; };
 		229DBF4E1DAA1AFB004B4FA3 /* InvertBinaryTree_226.m in Sources */ = {isa = PBXBuildFile; fileRef = 229DBF4D1DAA1AFB004B4FA3 /* InvertBinaryTree_226.m */; };
+		22D719A61DBEECD40058896B /* ContainsDuplicate_217.m in Sources */ = {isa = PBXBuildFile; fileRef = 22D719A51DBEECD40058896B /* ContainsDuplicate_217.m */; };
 		22D796A31DAB314E00ADB02A /* MoveZeroes_283.m in Sources */ = {isa = PBXBuildFile; fileRef = 22D796A21DAB314E00ADB02A /* MoveZeroes_283.m */; };
 		22D796A61DAB438500ADB02A /* SumOfLeftLeaves_404.m in Sources */ = {isa = PBXBuildFile; fileRef = 22D796A51DAB438500ADB02A /* SumOfLeftLeaves_404.m */; };
 		22D796A91DAC82B000ADB02A /* LongestPalindrome_409.m in Sources */ = {isa = PBXBuildFile; fileRef = 22D796A81DAC82B000ADB02A /* LongestPalindrome_409.m */; };
@@ -64,6 +65,8 @@
 		229DBF4A1DAA0E23004B4FA3 /* FindDifference_389.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FindDifference_389.m; sourceTree = "<group>"; };
 		229DBF4C1DAA1AFB004B4FA3 /* InvertBinaryTree_226.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = InvertBinaryTree_226.h; sourceTree = "<group>"; };
 		229DBF4D1DAA1AFB004B4FA3 /* InvertBinaryTree_226.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = InvertBinaryTree_226.m; sourceTree = "<group>"; };
+		22D719A41DBEECD40058896B /* ContainsDuplicate_217.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ContainsDuplicate_217.h; sourceTree = "<group>"; };
+		22D719A51DBEECD40058896B /* ContainsDuplicate_217.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ContainsDuplicate_217.m; sourceTree = "<group>"; };
 		22D796A11DAB314E00ADB02A /* MoveZeroes_283.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MoveZeroes_283.h; sourceTree = "<group>"; };
 		22D796A21DAB314E00ADB02A /* MoveZeroes_283.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MoveZeroes_283.m; sourceTree = "<group>"; };
 		22D796A41DAB438500ADB02A /* SumOfLeftLeaves_404.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SumOfLeftLeaves_404.h; sourceTree = "<group>"; };
@@ -133,6 +136,8 @@
 				227092311DB5F92E001AB884 /* MajorityElement_169.m */,
 				227092331DB70715001AB884 /* FirstUniqueCharacterInAString_387.h */,
 				227092341DB70715001AB884 /* FirstUniqueCharacterInAString_387.m */,
+				22D719A41DBEECD40058896B /* ContainsDuplicate_217.h */,
+				22D719A51DBEECD40058896B /* ContainsDuplicate_217.m */,
 			);
 			path = LeetCode_Solutions;
 			sourceTree = "<group>";
@@ -201,6 +206,7 @@
 				229DBF4B1DAA0E23004B4FA3 /* FindDifference_389.m in Sources */,
 				227091E71DADCAF7001AB884 /* DeleteNodeInALinkedList_237.m in Sources */,
 				229DBF451DA783CD004B4FA3 /* ReverseString_344.m in Sources */,
+				22D719A61DBEECD40058896B /* ContainsDuplicate_217.m in Sources */,
 				227092321DB5F92E001AB884 /* MajorityElement_169.m in Sources */,
 				227091E41DADC771001AB884 /* RansomNote_383.m in Sources */,
 				227092351DB70715001AB884 /* FirstUniqueCharacterInAString_387.m in Sources */,

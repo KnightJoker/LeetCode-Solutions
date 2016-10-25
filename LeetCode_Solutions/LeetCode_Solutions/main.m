@@ -8,16 +8,16 @@
 
 #import <Foundation/Foundation.h>
 
-#import "FirstUniqueCharacterInAString_387.h"
+#import "ContainsDuplicate_217.h"
 
 int main(int argc, const char * argv[]) {
     @autoreleasepool {
         // insert code here...
 
-        NSString *string = [[NSString alloc] init];
-        string = @"loveleetcode";
-        FirstUniqueCharacterInAString_387 *a = [[FirstUniqueCharacterInAString_387 alloc] init];
-        NSLog(@"%ld",[a fristUniqChar:string]);
+        NSArray *array = [[NSArray alloc] init];
+        array = @[@(1),@(2),@(5),@(3)];
+        ContainsDuplicate_217 *a = [[ContainsDuplicate_217 alloc] init];
+        NSLog(@"%d",[a containsDuplicate:array]);
     }
     return 0;
 }
