@@ -8,18 +8,16 @@
 
 #import <Foundation/Foundation.h>
 
-#import "IntersectionOfTwoArraysII_350.h"
+#import "RomanToInteger_13.h"
 
 int main(int argc, const char * argv[]) {
     @autoreleasepool {
         // insert code here...
 
-        NSArray *array = [[NSArray alloc] init];
-        array = @[@(1),@(2),@(2),@(1)];
-        NSArray *array1= [[NSArray alloc] init];
-        array1 = @[@(2),@(2)];
-        IntersectionOfTwoArraysII_350 *a = [[IntersectionOfTwoArraysII_350 alloc] init];
-        NSLog(@"%@",[a intersect:array and:array1]);
+        NSString *s = [[NSString alloc] init];
+        s = @"VII";
+        RomanToInteger_13 *a = [[RomanToInteger_13 alloc] init];
+        NSLog(@"%ld",[a romanToInt:s]);
     }
     return 0;
 }
