@@ -23,3 +23,4 @@ LeetCode
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)| [Objective-C](./LeetCode_Solutions/LeetCode_Solutions/ContainsDuplicate_217.m)|Easy|
 |350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | [Objective-C](./LeetCode_Solutions/LeetCode_Solutions/IntersectionOfTwoArraysII_350.m)|Easy|
 |13|[Roman to Integer](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | [Objective-C](./LeetCode_Solutions/LeetCode_Solutions/RomanToInteger_13.m)|Easy|
+|412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [Objective-C](./LeetCode_Solutions/LeetCode_Solutions/FizzBuzz.m)|Easy|
