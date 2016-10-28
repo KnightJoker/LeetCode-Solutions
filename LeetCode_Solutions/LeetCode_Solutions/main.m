@@ -8,16 +8,17 @@
 
 #import <Foundation/Foundation.h>
 
-#import "RomanToInteger_13.h"
+#import "FizzBuzz_412.h"
 
 int main(int argc, const char * argv[]) {
     @autoreleasepool {
         // insert code here...
 
-        NSString *s = [[NSString alloc] init];
-        s = @"VII";
-        RomanToInteger_13 *a = [[RomanToInteger_13 alloc] init];
-        NSLog(@"%ld",[a romanToInt:s]);
+
+        FizzBuzz_412 *a = [[FizzBuzz_412 alloc] init];
+        NSLog(@"%@",[a fizzBuzz:15]);
+        
+
     }
     return 0;
 }
