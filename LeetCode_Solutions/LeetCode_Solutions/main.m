@@ -8,16 +8,14 @@
 
 #import <Foundation/Foundation.h>
 
-#import "FizzBuzz_412.h"
+#import "AddStrings_415.h"
 
 int main(int argc, const char * argv[]) {
     @autoreleasepool {
         // insert code here...
 
-
-        FizzBuzz_412 *a = [[FizzBuzz_412 alloc] init];
-        NSLog(@"%@",[a fizzBuzz:15]);
-        
+        AddStrings_415 *a = [[AddStrings_415 alloc] init];
+        NSLog(@"%@",[a addStrings:@"123" and:@"32"]);
 
     }
     return 0;
