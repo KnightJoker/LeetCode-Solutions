@@ -8,14 +8,20 @@
 
 #import <Foundation/Foundation.h>
 
-#import "AddStrings_415.h"
+#import "ConvertANumberToHexadecimal_405.h"
 
 int main(int argc, const char * argv[]) {
     @autoreleasepool {
         // insert code here...
 
-        AddStrings_415 *a = [[AddStrings_415 alloc] init];
-        NSLog(@"%@",[a addStrings:@"123" and:@"32"]);
+//        NSArray *array = @[@"a",@"b",@"c"];
+//        NSString *string = [[NSString alloc] init];
+//        string = [array componentsJoinedByString:@""];
+//        NSLog(@"%@",string);
+//        
+        ConvertANumberToHexadecimal_405 *a = [[ConvertANumberToHexadecimal_405 alloc] init];
+        
+        NSLog(@"%@",[a toHex:123]);
 
     }
     return 0;

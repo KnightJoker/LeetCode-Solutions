@@ -10,4 +10,6 @@
 
 @interface ConvertANumberToHexadecimal_405 : NSObject
 
+- (NSString *)toHex:(NSInteger)num;
+
 @end
