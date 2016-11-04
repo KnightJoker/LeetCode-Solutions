@@ -8,7 +8,7 @@
 
 #import <Foundation/Foundation.h>
 
-#import "ConvertANumberToHexadecimal_405.h"
+#import "PowerOfTwo_231.h"
 
 int main(int argc, const char * argv[]) {
     @autoreleasepool {
@@ -19,9 +19,9 @@ int main(int argc, const char * argv[]) {
 //        string = [array componentsJoinedByString:@""];
 //        NSLog(@"%@",string);
 //        
-        ConvertANumberToHexadecimal_405 *a = [[ConvertANumberToHexadecimal_405 alloc] init];
+        PowerOfTwo_231 *a = [[PowerOfTwo_231 alloc] init];
         
-        NSLog(@"%@",[a toHex:123]);
+        NSLog(@"%d",[a isPowerOfTwo:8]);
 
     }
     return 0;
