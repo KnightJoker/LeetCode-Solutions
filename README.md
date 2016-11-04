@@ -27,4 +27,4 @@ LeetCode
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Objective-C](./LeetCode_Solutions/LeetCode_Solutions/ReverseLinkedList_206.m)|Easy|
 |415|[Add Strings](https://leetcode.com/problems/add-strings/) | [Objective-C](./LeetCode_Solutions/LeetCode_Solutions/AddStrings_415.m)|Easy|
 |405|[Convert a Number to Hexadecimal](https://leetcode.com/problems/convert-a-number-to-hexadecimal/) | [Objective-C](./LeetCode_Solutions/LeetCode_Solutions/ConvertANumberToHexadecimal_405.m)|Easy|
-|231|[Power of Two](https://leetcode.com/problems/power-of-two/) | [Objective-C](./LeetCode_Solutions/PowerOfTwo_231.m)|Easy|
+|231|[Power of Two](https://leetcode.com/problems/power-of-two/) | [Objective-C](./LeetCode_Solutions/LeetCode_Solutions/PowerOfTwo_231.m)|Easy|
