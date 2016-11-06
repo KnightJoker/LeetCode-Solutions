@@ -28,3 +28,4 @@ LeetCode
 |415|[Add Strings](https://leetcode.com/problems/add-strings/) | [Objective-C](./LeetCode_Solutions/LeetCode_Solutions/AddStrings_415.m)|Easy|
 |405|[Convert a Number to Hexadecimal](https://leetcode.com/problems/convert-a-number-to-hexadecimal/) | [Objective-C](./LeetCode_Solutions/LeetCode_Solutions/ConvertANumberToHexadecimal_405.m)|Easy|
 |231|[Power of Two](https://leetcode.com/problems/power-of-two/) | [Objective-C](./LeetCode_Solutions/LeetCode_Solutions/PowerOfTwo_231.m)|Easy|
+|326|[Power of Three](https://leetcode.com/problems/power-of-three/) | [Objective-C](./LeetCode_Solutions/LeetCode_Solutions/PowerOfThree_326.m)|Easy|

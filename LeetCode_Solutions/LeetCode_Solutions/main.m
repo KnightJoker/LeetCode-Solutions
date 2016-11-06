@@ -8,7 +8,7 @@
 
 #import <Foundation/Foundation.h>
 
-#import "PowerOfTwo_231.h"
+#import "PowerOfThree_326.h"
 
 int main(int argc, const char * argv[]) {
     @autoreleasepool {
@@ -19,9 +19,9 @@ int main(int argc, const char * argv[]) {
 //        string = [array componentsJoinedByString:@""];
 //        NSLog(@"%@",string);
 //        
-        PowerOfTwo_231 *a = [[PowerOfTwo_231 alloc] init];
+        PowerOfThree_326 *a = [[PowerOfThree_326 alloc] init];
         
-        NSLog(@"%d",[a isPowerOfTwo:8]);
+        NSLog(@"%d",[a isPowerOfThree:232]);
 
     }
     return 0;
