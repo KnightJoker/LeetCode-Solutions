@@ -8,7 +8,7 @@
 
 #import <Foundation/Foundation.h>
 
-#import "PowerOfThree_326.h"
+#import "HappyNumber_202.h"
 
 int main(int argc, const char * argv[]) {
     @autoreleasepool {
@@ -19,9 +19,9 @@ int main(int argc, const char * argv[]) {
 //        string = [array componentsJoinedByString:@""];
 //        NSLog(@"%@",string);
 //        
-        PowerOfThree_326 *a = [[PowerOfThree_326 alloc] init];
+        HappyNumber_202 *a = [[HappyNumber_202 alloc] init];
         
-        NSLog(@"%d",[a isPowerOfThree:232]);
+        NSLog(@"%d",[a isHappy:19]);
 
     }
     return 0;
