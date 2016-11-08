@@ -29,3 +29,4 @@ LeetCode
 |405|[Convert a Number to Hexadecimal](https://leetcode.com/problems/convert-a-number-to-hexadecimal/) | [Objective-C](./LeetCode_Solutions/LeetCode_Solutions/ConvertANumberToHexadecimal_405.m)|Easy|
 |231|[Power of Two](https://leetcode.com/problems/power-of-two/) | [Objective-C](./LeetCode_Solutions/LeetCode_Solutions/PowerOfTwo_231.m)|Easy|
 |326|[Power of Three](https://leetcode.com/problems/power-of-three/) | [Objective-C](./LeetCode_Solutions/LeetCode_Solutions/PowerOfThree_326.m)|Easy|
+|202|[Happy Number](https://leetcode.com/problems/happy-number/) | [Objective-C](./LeetCode_Solutions/LeetCode_Solutions/HappyNumber_202.m)|Easy|
