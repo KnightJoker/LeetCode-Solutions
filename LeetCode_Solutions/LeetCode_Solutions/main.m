@@ -8,7 +8,7 @@
 
 #import <Foundation/Foundation.h>
 
-#import "HappyNumber_202.h"
+#import "BestTimeToBuyAndSellStock_121.h"
 
 int main(int argc, const char * argv[]) {
     @autoreleasepool {
@@ -19,9 +19,9 @@ int main(int argc, const char * argv[]) {
 //        string = [array componentsJoinedByString:@""];
 //        NSLog(@"%@",string);
 //        
-        HappyNumber_202 *a = [[HappyNumber_202 alloc] init];
+        BestTimeToBuyAndSellStock_121 *a = [[BestTimeToBuyAndSellStock_121 alloc] init];
         
-        NSLog(@"%d",[a isHappy:19]);
+        NSLog(@"%ld",(long)[a maxProfit:@[@7,@6,@4,@3,@2,@1]]);
 
     }
     return 0;
