@@ -32,6 +32,7 @@
 		22D719F61DD048130058896B /* HappyNumber_202.m in Sources */ = {isa = PBXBuildFile; fileRef = 22D719F51DD048130058896B /* HappyNumber_202.m */; };
 		22D719F91DD2FFF00058896B /* BestTimeToBuyAndSellStock_121.m in Sources */ = {isa = PBXBuildFile; fileRef = 22D719F81DD2FFF00058896B /* BestTimeToBuyAndSellStock_121.m */; };
 		22D719FC1DD415C70058896B /* RemoveDuplicatesFromSortedList_83.m in Sources */ = {isa = PBXBuildFile; fileRef = 22D719FB1DD415C70058896B /* RemoveDuplicatesFromSortedList_83.m */; };
+		22D719FF1DD55D8B0058896B /* ClimbingStairs_70.m in Sources */ = {isa = PBXBuildFile; fileRef = 22D719FE1DD55D8B0058896B /* ClimbingStairs_70.m */; };
 		22D796A31DAB314E00ADB02A /* MoveZeroes_283.m in Sources */ = {isa = PBXBuildFile; fileRef = 22D796A21DAB314E00ADB02A /* MoveZeroes_283.m */; };
 		22D796A61DAB438500ADB02A /* SumOfLeftLeaves_404.m in Sources */ = {isa = PBXBuildFile; fileRef = 22D796A51DAB438500ADB02A /* SumOfLeftLeaves_404.m */; };
 		22D796A91DAC82B000ADB02A /* LongestPalindrome_409.m in Sources */ = {isa = PBXBuildFile; fileRef = 22D796A81DAC82B000ADB02A /* LongestPalindrome_409.m */; };
@@ -100,6 +101,8 @@
 		22D719F81DD2FFF00058896B /* BestTimeToBuyAndSellStock_121.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BestTimeToBuyAndSellStock_121.m; sourceTree = "<group>"; };
 		22D719FA1DD415C70058896B /* RemoveDuplicatesFromSortedList_83.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RemoveDuplicatesFromSortedList_83.h; sourceTree = "<group>"; };
 		22D719FB1DD415C70058896B /* RemoveDuplicatesFromSortedList_83.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RemoveDuplicatesFromSortedList_83.m; sourceTree = "<group>"; };
+		22D719FD1DD55D8B0058896B /* ClimbingStairs_70.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ClimbingStairs_70.h; sourceTree = "<group>"; };
+		22D719FE1DD55D8B0058896B /* ClimbingStairs_70.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ClimbingStairs_70.m; sourceTree = "<group>"; };
 		22D796A11DAB314E00ADB02A /* MoveZeroes_283.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MoveZeroes_283.h; sourceTree = "<group>"; };
 		22D796A21DAB314E00ADB02A /* MoveZeroes_283.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MoveZeroes_283.m; sourceTree = "<group>"; };
 		22D796A41DAB438500ADB02A /* SumOfLeftLeaves_404.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SumOfLeftLeaves_404.h; sourceTree = "<group>"; };
@@ -193,6 +196,8 @@
 				22D719F51DD048130058896B /* HappyNumber_202.m */,
 				22D719FA1DD415C70058896B /* RemoveDuplicatesFromSortedList_83.h */,
 				22D719FB1DD415C70058896B /* RemoveDuplicatesFromSortedList_83.m */,
+				22D719FD1DD55D8B0058896B /* ClimbingStairs_70.h */,
+				22D719FE1DD55D8B0058896B /* ClimbingStairs_70.m */,
 			);
 			path = LeetCode_Solutions;
 			sourceTree = "<group>";
@@ -265,6 +270,7 @@
 				22D719F61DD048130058896B /* HappyNumber_202.m in Sources */,
 				227091ED1DAF51D4001AB884 /* SameTree_100.m in Sources */,
 				229DBF4B1DAA0E23004B4FA3 /* FindDifference_389.m in Sources */,
+				22D719FF1DD55D8B0058896B /* ClimbingStairs_70.m in Sources */,
 				227091E71DADCAF7001AB884 /* DeleteNodeInALinkedList_237.m in Sources */,
 				229DBF451DA783CD004B4FA3 /* ReverseString_344.m in Sources */,
 				22D719A61DBEECD40058896B /* ContainsDuplicate_217.m in Sources */,

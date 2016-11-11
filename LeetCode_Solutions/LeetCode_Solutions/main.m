@@ -8,20 +8,15 @@
 
 #import <Foundation/Foundation.h>
 
-#import "BestTimeToBuyAndSellStock_121.h"
+#import "ClimbingStairs_70.h"
 
 int main(int argc, const char * argv[]) {
     @autoreleasepool {
         // insert code here...
-
-//        NSArray *array = @[@"a",@"b",@"c"];
-//        NSString *string = [[NSString alloc] init];
-//        string = [array componentsJoinedByString:@""];
-//        NSLog(@"%@",string);
-//        
-        BestTimeToBuyAndSellStock_121 *a = [[BestTimeToBuyAndSellStock_121 alloc] init];
+    
+        ClimbingStairs_70 *a = [[ClimbingStairs_70 alloc] init];
         
-        NSLog(@"%ld",(long)[a maxProfit:@[@7,@6,@4,@3,@2,@1]]);
+        NSLog(@"%ld",[a climbStairs:5]);
 
     }
     return 0;
