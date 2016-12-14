@@ -15,6 +15,7 @@
 		227092191DB3CA25001AB884 /* ValidAnagram_242.m in Sources */ = {isa = PBXBuildFile; fileRef = 227092181DB3CA25001AB884 /* ValidAnagram_242.m */; };
 		227092321DB5F92E001AB884 /* MajorityElement_169.m in Sources */ = {isa = PBXBuildFile; fileRef = 227092311DB5F92E001AB884 /* MajorityElement_169.m */; };
 		227092351DB70715001AB884 /* FirstUniqueCharacterInAString_387.m in Sources */ = {isa = PBXBuildFile; fileRef = 227092341DB70715001AB884 /* FirstUniqueCharacterInAString_387.m */; };
+		227CD63F1DD95BF200545B90 /* NumberOfOneBits_191.m in Sources */ = {isa = PBXBuildFile; fileRef = 227CD63E1DD95BF200545B90 /* NumberOfOneBits_191.m */; };
 		229DBF3A1DA77E98004B4FA3 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 229DBF391DA77E98004B4FA3 /* main.m */; };
 		229DBF451DA783CD004B4FA3 /* ReverseString_344.m in Sources */ = {isa = PBXBuildFile; fileRef = 229DBF441DA783CD004B4FA3 /* ReverseString_344.m */; };
 		229DBF481DA8FD34004B4FA3 /* AddDigits_258.m in Sources */ = {isa = PBXBuildFile; fileRef = 229DBF471DA8FD34004B4FA3 /* AddDigits_258.m */; };
@@ -36,6 +37,7 @@
 		22D796A31DAB314E00ADB02A /* MoveZeroes_283.m in Sources */ = {isa = PBXBuildFile; fileRef = 22D796A21DAB314E00ADB02A /* MoveZeroes_283.m */; };
 		22D796A61DAB438500ADB02A /* SumOfLeftLeaves_404.m in Sources */ = {isa = PBXBuildFile; fileRef = 22D796A51DAB438500ADB02A /* SumOfLeftLeaves_404.m */; };
 		22D796A91DAC82B000ADB02A /* LongestPalindrome_409.m in Sources */ = {isa = PBXBuildFile; fileRef = 22D796A81DAC82B000ADB02A /* LongestPalindrome_409.m */; };
+		22E1AF641E01801800044DEA /* MaximumDepthOfBinaryTree_104.m in Sources */ = {isa = PBXBuildFile; fileRef = 22E1AF631E01801800044DEA /* MaximumDepthOfBinaryTree_104.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -67,6 +69,8 @@
 		227092311DB5F92E001AB884 /* MajorityElement_169.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MajorityElement_169.m; sourceTree = "<group>"; };
 		227092331DB70715001AB884 /* FirstUniqueCharacterInAString_387.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FirstUniqueCharacterInAString_387.h; sourceTree = "<group>"; };
 		227092341DB70715001AB884 /* FirstUniqueCharacterInAString_387.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FirstUniqueCharacterInAString_387.m; sourceTree = "<group>"; };
+		227CD63D1DD95BF200545B90 /* NumberOfOneBits_191.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NumberOfOneBits_191.h; sourceTree = "<group>"; };
+		227CD63E1DD95BF200545B90 /* NumberOfOneBits_191.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NumberOfOneBits_191.m; sourceTree = "<group>"; };
 		229DBF361DA77E98004B4FA3 /* LeetCode_Solutions */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = LeetCode_Solutions; sourceTree = BUILT_PRODUCTS_DIR; };
 		229DBF391DA77E98004B4FA3 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		229DBF431DA783CD004B4FA3 /* ReverseString_344.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ReverseString_344.h; sourceTree = "<group>"; };
@@ -109,6 +113,8 @@
 		22D796A51DAB438500ADB02A /* SumOfLeftLeaves_404.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SumOfLeftLeaves_404.m; sourceTree = "<group>"; };
 		22D796A71DAC82B000ADB02A /* LongestPalindrome_409.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LongestPalindrome_409.h; sourceTree = "<group>"; };
 		22D796A81DAC82B000ADB02A /* LongestPalindrome_409.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LongestPalindrome_409.m; sourceTree = "<group>"; };
+		22E1AF621E01801800044DEA /* MaximumDepthOfBinaryTree_104.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MaximumDepthOfBinaryTree_104.h; sourceTree = "<group>"; };
+		22E1AF631E01801800044DEA /* MaximumDepthOfBinaryTree_104.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MaximumDepthOfBinaryTree_104.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -198,6 +204,10 @@
 				22D719FB1DD415C70058896B /* RemoveDuplicatesFromSortedList_83.m */,
 				22D719FD1DD55D8B0058896B /* ClimbingStairs_70.h */,
 				22D719FE1DD55D8B0058896B /* ClimbingStairs_70.m */,
+				227CD63D1DD95BF200545B90 /* NumberOfOneBits_191.h */,
+				227CD63E1DD95BF200545B90 /* NumberOfOneBits_191.m */,
+				22E1AF621E01801800044DEA /* MaximumDepthOfBinaryTree_104.h */,
+				22E1AF631E01801800044DEA /* MaximumDepthOfBinaryTree_104.m */,
 			);
 			path = LeetCode_Solutions;
 			sourceTree = "<group>";
@@ -258,6 +268,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				227CD63F1DD95BF200545B90 /* NumberOfOneBits_191.m in Sources */,
 				227091EA1DAF2056001AB884 /* IntersectionOfTwoArrays_349.m in Sources */,
 				227092191DB3CA25001AB884 /* ValidAnagram_242.m in Sources */,
 				229DBF3A1DA77E98004B4FA3 /* main.m in Sources */,
@@ -282,6 +293,7 @@
 				22D796A61DAB438500ADB02A /* SumOfLeftLeaves_404.m in Sources */,
 				22D796A91DAC82B000ADB02A /* LongestPalindrome_409.m in Sources */,
 				22D719AC1DC1978C0058896B /* RomanToInteger_13.m in Sources */,
+				22E1AF641E01801800044DEA /* MaximumDepthOfBinaryTree_104.m in Sources */,
 				227091F01DB06FF9001AB884 /* ExcelSheetColumnNumber_171.m in Sources */,
 				22D796A31DAB314E00ADB02A /* MoveZeroes_283.m in Sources */,
 				22D719F31DCF00D30058896B /* PowerOfThree_326.m in Sources */,
