@@ -34,3 +34,4 @@ LeetCode
 |83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [Objective-C](./LeetCode_Solutions/LeetCode_Solutions/RemoveDuplicatesFromSortedList_83.m)|Easy|
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Objective-C](./LeetCode_Solutions/LeetCode_Solutions/ClimbingStairs_70.m)|Easy|
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Objective-C](./LeetCode_Solutions/LeetCode_Solutions/MaximumDepthOfBinaryTree_104.m)|Easy|
+|461|[Hamming Distance](https://leetcode.com/problems/hamming-distance/#/description) | [Objective-C](./LeetCode_Solutions/LeetCode_Solutions/HammingDistance_461.m)|Easy|
