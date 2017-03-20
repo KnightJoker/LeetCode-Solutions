@@ -38,6 +38,7 @@
 		22D796A61DAB438500ADB02A /* SumOfLeftLeaves_404.m in Sources */ = {isa = PBXBuildFile; fileRef = 22D796A51DAB438500ADB02A /* SumOfLeftLeaves_404.m */; };
 		22D796A91DAC82B000ADB02A /* LongestPalindrome_409.m in Sources */ = {isa = PBXBuildFile; fileRef = 22D796A81DAC82B000ADB02A /* LongestPalindrome_409.m */; };
 		22E1AF641E01801800044DEA /* MaximumDepthOfBinaryTree_104.m in Sources */ = {isa = PBXBuildFile; fileRef = 22E1AF631E01801800044DEA /* MaximumDepthOfBinaryTree_104.m */; };
+		B51F0A7B1E7FFD9200C4BC9B /* NumberComplement_476.m in Sources */ = {isa = PBXBuildFile; fileRef = B51F0A7A1E7FFD9200C4BC9B /* NumberComplement_476.m */; };
 		B5954A971E7BF98800883AF7 /* HammingDistance_461.m in Sources */ = {isa = PBXBuildFile; fileRef = B5954A961E7BF98800883AF7 /* HammingDistance_461.m */; };
 /* End PBXBuildFile section */
 
@@ -116,6 +117,8 @@
 		22D796A81DAC82B000ADB02A /* LongestPalindrome_409.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LongestPalindrome_409.m; sourceTree = "<group>"; };
 		22E1AF621E01801800044DEA /* MaximumDepthOfBinaryTree_104.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MaximumDepthOfBinaryTree_104.h; sourceTree = "<group>"; };
 		22E1AF631E01801800044DEA /* MaximumDepthOfBinaryTree_104.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MaximumDepthOfBinaryTree_104.m; sourceTree = "<group>"; };
+		B51F0A791E7FFD9200C4BC9B /* NumberComplement_476.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NumberComplement_476.h; sourceTree = "<group>"; };
+		B51F0A7A1E7FFD9200C4BC9B /* NumberComplement_476.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NumberComplement_476.m; sourceTree = "<group>"; };
 		B5954A951E7BF98800883AF7 /* HammingDistance_461.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HammingDistance_461.h; sourceTree = "<group>"; };
 		B5954A961E7BF98800883AF7 /* HammingDistance_461.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HammingDistance_461.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -213,6 +216,8 @@
 				22E1AF631E01801800044DEA /* MaximumDepthOfBinaryTree_104.m */,
 				B5954A951E7BF98800883AF7 /* HammingDistance_461.h */,
 				B5954A961E7BF98800883AF7 /* HammingDistance_461.m */,
+				B51F0A791E7FFD9200C4BC9B /* NumberComplement_476.h */,
+				B51F0A7A1E7FFD9200C4BC9B /* NumberComplement_476.m */,
 			);
 			path = LeetCode_Solutions;
 			sourceTree = "<group>";
@@ -303,6 +308,7 @@
 				227091F01DB06FF9001AB884 /* ExcelSheetColumnNumber_171.m in Sources */,
 				22D796A31DAB314E00ADB02A /* MoveZeroes_283.m in Sources */,
 				22D719F31DCF00D30058896B /* PowerOfThree_326.m in Sources */,
+				B51F0A7B1E7FFD9200C4BC9B /* NumberComplement_476.m in Sources */,
 				229DBF4E1DAA1AFB004B4FA3 /* InvertBinaryTree_226.m in Sources */,
 				22D719B51DC8945C0058896B /* AddStrings_415.m in Sources */,
 			);
