@@ -42,6 +42,7 @@
 		B51F0A7B1E7FFD9200C4BC9B /* NumberComplement_476.m in Sources */ = {isa = PBXBuildFile; fileRef = B51F0A7A1E7FFD9200C4BC9B /* NumberComplement_476.m */; };
 		B5889D0C1E83CC4E00B6CD84 /* KeyboardRow_500.m in Sources */ = {isa = PBXBuildFile; fileRef = B5889D0B1E83CC4E00B6CD84 /* KeyboardRow_500.m */; };
 		B5954A971E7BF98800883AF7 /* HammingDistance_461.m in Sources */ = {isa = PBXBuildFile; fileRef = B5954A961E7BF98800883AF7 /* HammingDistance_461.m */; };
+		B5FD39241E8E6A6E0059A0F8 /* DetectCapital_520.m in Sources */ = {isa = PBXBuildFile; fileRef = B5FD39231E8E6A6E0059A0F8 /* DetectCapital_520.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -127,6 +128,8 @@
 		B5889D0B1E83CC4E00B6CD84 /* KeyboardRow_500.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = KeyboardRow_500.m; sourceTree = "<group>"; };
 		B5954A951E7BF98800883AF7 /* HammingDistance_461.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HammingDistance_461.h; sourceTree = "<group>"; };
 		B5954A961E7BF98800883AF7 /* HammingDistance_461.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HammingDistance_461.m; sourceTree = "<group>"; };
+		B5FD39221E8E6A6E0059A0F8 /* DetectCapital_520.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DetectCapital_520.h; sourceTree = "<group>"; };
+		B5FD39231E8E6A6E0059A0F8 /* DetectCapital_520.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DetectCapital_520.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -228,6 +231,8 @@
 				B5889D0B1E83CC4E00B6CD84 /* KeyboardRow_500.m */,
 				B510B63D1E8BB930001E1F5D /* NextGreaterElementI_496.h */,
 				B510B63E1E8BB930001E1F5D /* NextGreaterElementI_496.m */,
+				B5FD39221E8E6A6E0059A0F8 /* DetectCapital_520.h */,
+				B5FD39231E8E6A6E0059A0F8 /* DetectCapital_520.m */,
 			);
 			path = LeetCode_Solutions;
 			sourceTree = "<group>";
@@ -307,6 +312,7 @@
 				229DBF451DA783CD004B4FA3 /* ReverseString_344.m in Sources */,
 				22D719A61DBEECD40058896B /* ContainsDuplicate_217.m in Sources */,
 				22D719B21DC35E0F0058896B /* ReverseLinkedList_206.m in Sources */,
+				B5FD39241E8E6A6E0059A0F8 /* DetectCapital_520.m in Sources */,
 				227092321DB5F92E001AB884 /* MajorityElement_169.m in Sources */,
 				22D719FC1DD415C70058896B /* RemoveDuplicatesFromSortedList_83.m in Sources */,
 				227091E41DADC771001AB884 /* RansomNote_383.m in Sources */,

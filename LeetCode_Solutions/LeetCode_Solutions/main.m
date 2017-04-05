@@ -8,15 +8,15 @@
 
 #import <Foundation/Foundation.h>
 
-#import "ClimbingStairs_70.h"
+#import "DetectCapital_520.h"
 
 int main(int argc, const char * argv[]) {
     @autoreleasepool {
         // insert code here...
     
-        ClimbingStairs_70 *a = [[ClimbingStairs_70 alloc] init];
+        DetectCapital_520 *a = [[DetectCapital_520 alloc] init];
         
-        NSLog(@"%ld",[a climbStairs:5]);
+        NSLog(@"~~~~%hhd",[a detectCapitalUse:@"LeetcOde"]);
 
     }
     return 0;

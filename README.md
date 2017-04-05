@@ -37,3 +37,4 @@ LeetCode
 |461|[Hamming Distance](https://leetcode.com/problems/hamming-distance/#/description) | [Objective-C](./LeetCode_Solutions/LeetCode_Solutions/HammingDistance_461.m)|Easy|
 |476|[Number Complement](https://leetcode.com/problems/number-complement/#/description) | [Objective-C](./LeetCode_Solutions/LeetCode_Solutions/NumberComplement_476.m)|Easy|
 |496|[Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/#/description) | [Objective-C](./LeetCode_Solutions/LeetCode_Solutions/NextGreaterElement_496.m)|Easy|
+|520|[Detect Capital](https://leetcode.com/problems/detect-capital/#/description) | [Objective-C](./LeetCode_Solutions/LeetCode_Solutions/DetectCapital_520.m)|Easy|

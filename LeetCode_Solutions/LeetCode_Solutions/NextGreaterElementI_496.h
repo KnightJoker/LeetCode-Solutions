@@ -10,4 +10,7 @@
 
 @interface NextGreaterElementI_496 : NSObject
 
+- (NSMutableArray *)nextGreaterElement:(NSArray *)findNums
+                                  nums:(NSArray *)nums;
+
 @end
