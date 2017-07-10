@@ -39,3 +39,4 @@ LeetCode
 |496|[Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/#/description) | [Objective-C](./LeetCode_Solutions/LeetCode_Solutions/NextGreaterElement_496.m)|Easy|
 |520|[Detect Capital](https://leetcode.com/problems/detect-capital/#/description) | [Objective-C](./LeetCode_Solutions/LeetCode_Solutions/DetectCapital_520.m)|Easy|
 |371|[Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/#/description) | [Objective-C](./LeetCode_Solutions/LeetCode_Solutions/SumOfTwoIntegers_371.m)|Easy|
+|535|[Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/#/description) | [Objective-C](./LeetCode_Solutions/LeetCode_Solutions/EncodeAndDecodeTinyURL_535.m)|Medium|

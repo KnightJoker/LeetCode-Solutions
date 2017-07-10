@@ -43,6 +43,7 @@
 		B55F05411E9CEA1400B84B8F /* SumOfTwoIntegers_371.m in Sources */ = {isa = PBXBuildFile; fileRef = B55F05401E9CEA1400B84B8F /* SumOfTwoIntegers_371.m */; };
 		B5889D0C1E83CC4E00B6CD84 /* KeyboardRow_500.m in Sources */ = {isa = PBXBuildFile; fileRef = B5889D0B1E83CC4E00B6CD84 /* KeyboardRow_500.m */; };
 		B5954A971E7BF98800883AF7 /* HammingDistance_461.m in Sources */ = {isa = PBXBuildFile; fileRef = B5954A961E7BF98800883AF7 /* HammingDistance_461.m */; };
+		B5E093711F0F8A4600579137 /* EncodeAndDecodeTinyURL_535.m in Sources */ = {isa = PBXBuildFile; fileRef = B5E093701F0F8A4600579137 /* EncodeAndDecodeTinyURL_535.m */; };
 		B5FD39241E8E6A6E0059A0F8 /* DetectCapital_520.m in Sources */ = {isa = PBXBuildFile; fileRef = B5FD39231E8E6A6E0059A0F8 /* DetectCapital_520.m */; };
 /* End PBXBuildFile section */
 
@@ -131,6 +132,8 @@
 		B5889D0B1E83CC4E00B6CD84 /* KeyboardRow_500.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = KeyboardRow_500.m; sourceTree = "<group>"; };
 		B5954A951E7BF98800883AF7 /* HammingDistance_461.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HammingDistance_461.h; sourceTree = "<group>"; };
 		B5954A961E7BF98800883AF7 /* HammingDistance_461.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HammingDistance_461.m; sourceTree = "<group>"; };
+		B5E0936F1F0F8A4600579137 /* EncodeAndDecodeTinyURL_535.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EncodeAndDecodeTinyURL_535.h; sourceTree = "<group>"; };
+		B5E093701F0F8A4600579137 /* EncodeAndDecodeTinyURL_535.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EncodeAndDecodeTinyURL_535.m; sourceTree = "<group>"; };
 		B5FD39221E8E6A6E0059A0F8 /* DetectCapital_520.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DetectCapital_520.h; sourceTree = "<group>"; };
 		B5FD39231E8E6A6E0059A0F8 /* DetectCapital_520.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DetectCapital_520.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -238,6 +241,8 @@
 				B5FD39231E8E6A6E0059A0F8 /* DetectCapital_520.m */,
 				B55F053F1E9CEA1400B84B8F /* SumOfTwoIntegers_371.h */,
 				B55F05401E9CEA1400B84B8F /* SumOfTwoIntegers_371.m */,
+				B5E0936F1F0F8A4600579137 /* EncodeAndDecodeTinyURL_535.h */,
+				B5E093701F0F8A4600579137 /* EncodeAndDecodeTinyURL_535.m */,
 			);
 			path = LeetCode_Solutions;
 			sourceTree = "<group>";
@@ -329,6 +334,7 @@
 				22D796A91DAC82B000ADB02A /* LongestPalindrome_409.m in Sources */,
 				22D719AC1DC1978C0058896B /* RomanToInteger_13.m in Sources */,
 				22E1AF641E01801800044DEA /* MaximumDepthOfBinaryTree_104.m in Sources */,
+				B5E093711F0F8A4600579137 /* EncodeAndDecodeTinyURL_535.m in Sources */,
 				227091F01DB06FF9001AB884 /* ExcelSheetColumnNumber_171.m in Sources */,
 				22D796A31DAB314E00ADB02A /* MoveZeroes_283.m in Sources */,
 				22D719F31DCF00D30058896B /* PowerOfThree_326.m in Sources */,
