@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		B5A00CCD1F3177E30080BBF8 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5A00CCC1F3177E30080BBF8 /* main.swift */; };
 		B5A00CDC1F319F220080BBF8 /* ReverseString_344.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5A00CDB1F319F220080BBF8 /* ReverseString_344.swift */; };
+		B5A00CDE1F31AA210080BBF8 /* AddDigits_258.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5A00CDD1F31AA210080BBF8 /* AddDigits_258.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -27,6 +28,7 @@
 		B5A00CC91F3177E30080BBF8 /* LeetCode_Swift */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = LeetCode_Swift; sourceTree = BUILT_PRODUCTS_DIR; };
 		B5A00CCC1F3177E30080BBF8 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		B5A00CDB1F319F220080BBF8 /* ReverseString_344.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ReverseString_344.swift; sourceTree = "<group>"; };
+		B5A00CDD1F31AA210080BBF8 /* AddDigits_258.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AddDigits_258.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 			children = (
 				B5A00CCC1F3177E30080BBF8 /* main.swift */,
 				B5A00CDB1F319F220080BBF8 /* ReverseString_344.swift */,
+				B5A00CDD1F31AA210080BBF8 /* AddDigits_258.swift */,
 			);
 			path = LeetCode_Swift;
 			sourceTree = "<group>";
@@ -124,6 +127,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				B5A00CCD1F3177E30080BBF8 /* main.swift in Sources */,
+				B5A00CDE1F31AA210080BBF8 /* AddDigits_258.swift in Sources */,
 				B5A00CDC1F319F220080BBF8 /* ReverseString_344.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -256,6 +260,7 @@
 				B5A00CD21F3177E30080BBF8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

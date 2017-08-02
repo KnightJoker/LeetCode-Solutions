@@ -10,8 +10,8 @@ import Foundation
 
 print("Hello, World!")
 
-let a = ReverseString_344()
+let a = AddDigits_258()
 
-print(a.reverseString("abcdefg"))
+print(a.addDigits(38))
 
 
