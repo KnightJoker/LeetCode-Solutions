@@ -5,8 +5,8 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|344|[Reverse String](https://leetcode.com/problems/reverse-string/) | [Objective-C](./LeetCode_Solutions/LeetCode_Solutions/ReverseString_344.m)|Easy|
-|258|[Add Digits](https://leetcode.com/problems/add-digits/)| [Objective-C](./LeetCode_Solutions/LeetCode_Solutions/AddDigits_258.m)、[Swift](./LeetCode_Swift/LeetCode_Swift/ReverseString_344.swift)|Easy|
+|344|[Reverse String](https://leetcode.com/problems/reverse-string/) | [Objective-C](./LeetCode_Solutions/LeetCode_Solutions/ReverseString_344.m)、[Swift](./LeetCode_Swift/LeetCode_Swift/ReverseString_344.swift)|Easy|
+|258|[Add Digits](https://leetcode.com/problems/add-digits/)| [Objective-C](./LeetCode_Solutions/LeetCode_Solutions/AddDigits_258.m)|Easy|
 |389|[Find the Difference](https://leetcode.com/problems/find-the-difference/) | [Objective-C](./LeetCode_Solutions/LeetCode_Solutions/FindDifference_389.m)|Easy|
 |226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)| [Objective-C](./LeetCode_Solutions/LeetCode_Solutions/InvertBinaryTree_226.m)|Easy|
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)  | [Objective-C](./LeetCode_Solutions/LeetCode_Solutions/MoveZeroes_283.m)|Easy|
