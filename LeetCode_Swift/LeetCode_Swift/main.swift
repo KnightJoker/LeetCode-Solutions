@@ -32,7 +32,7 @@ print("Hello, World!")
  
  */
 
-let a = SumOfLeftLeaves_404()
+let a = LongestPalindrome_409()
 
 let tree = TreeNode.init(1)
 let tree1 = TreeNode.init(2)
@@ -48,6 +48,6 @@ tree1.right = tree4
 
 
 
-print(a.sumOfLeftLeaves(tree))
+print(a.longestPalindrome("abccccdd"))
 
 
