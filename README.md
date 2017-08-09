@@ -10,7 +10,7 @@ LeetCode
 |389|[Find the Difference](https://leetcode.com/problems/find-the-difference/) | [Objective-C](./LeetCode_Solutions/LeetCode_Solutions/FindDifference_389.m)、[Swift](./LeetCode_Swift/LeetCode_Swift/FindTheDifference_389.swift)|Easy|
 |226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)| [Objective-C](./LeetCode_Solutions/LeetCode_Solutions/InvertBinaryTree_226.m)、[Swift](./LeetCode_Swift/LeetCode_Swift/InvertBinaryTree_226.swift)|Easy|
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)  | [Objective-C](./LeetCode_Solutions/LeetCode_Solutions/MoveZeroes_283.m)、[Swift](./LeetCode_Swift/LeetCode_Swift/MoveZeroes_283.swift)|Easy|
-|404|[Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/)  | [Objective-C](./LeetCode_Solutions/LeetCode_Solutions/SumOfLeftLeaves_404.m)|Easy|
+|404|[Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/)  | [Objective-C](./LeetCode_Solutions/LeetCode_Solutions/SumOfLeftLeaves_404.m)、[Swift](./LeetCode_Swift/LeetCode_Swift/SumOfLeftLeaves_404.swift)|Easy|
 |409|[Longest Palindrome](https://leetcode.com/problems/longest-palindrome/)  | [Objective-C](./LeetCode_Solutions/LeetCode_Solutions/LongestPalindrome_409.m)|Easy|
 |383|[Ransom Note](https://leetcode.com/problems/ransom-note/) | [Objective-C](./LeetCode_Solutions/LeetCode_Solutions/RansomNote_383.m)|Easy|
 |237|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)| [Objective-C](./LeetCode_Solutions/LeetCode_Solutions/DeleteNodeInALinkedList_237.m)|Easy|

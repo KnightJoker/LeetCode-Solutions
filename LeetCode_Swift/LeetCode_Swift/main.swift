@@ -8,14 +8,46 @@
 
 import Foundation
 
+class TreeNode {
+    public var val: Int
+    public var left: TreeNode?
+    public var right: TreeNode?
+    public init(_ val: Int) {
+        self.val = val
+        self.left = nil
+        self.right = nil
+    }
+}
+
+
 print("Hello, World!")
 
-let a = MoveZeroes_283()
+/*
+ 
+ 3
+ / \
+ 9  20
+ /  \
+ 15   7
+ 
+ */
 
-var nums = [0, 1, 0, 3, 12,0,0,1,2,3]
+let a = SumOfLeftLeaves_404()
 
-a.moveZeroes(&nums)
+let tree = TreeNode.init(1)
+let tree1 = TreeNode.init(2)
+let tree2 = TreeNode.init(3)
+let tree3 = TreeNode.init(4)
+let tree4 = TreeNode.init(5)
 
-print(nums)
+tree.left = tree1
+tree.right = tree2
+tree1.left = tree3
+tree1.right = tree4
+
+
+
+
+print(a.sumOfLeftLeaves(tree))
 
 
