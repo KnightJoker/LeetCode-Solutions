@@ -32,7 +32,7 @@ print("Hello, World!")
  
  */
 
-let a = RansomNote_383()
+let a = IntersectionOfTwoArrays_349()
 
 let tree = TreeNode.init(1)
 let tree1 = TreeNode.init(2)
@@ -67,6 +67,6 @@ tree1.right = tree4
  */
 
 
-print(a.canConstruct("aa", "ab"))
+print(a.intersection([1, 2, 2, 1], [2, 2]))
 
 

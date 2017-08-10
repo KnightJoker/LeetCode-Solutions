@@ -30,7 +30,6 @@ public class RansomNote_383{
                 return false
             }
 
-
         }
         
     }
