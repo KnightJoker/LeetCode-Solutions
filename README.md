@@ -15,7 +15,7 @@ LeetCode
 |383|[Ransom Note](https://leetcode.com/problems/ransom-note/) | [Objective-C](./LeetCode_Solutions/LeetCode_Solutions/RansomNote_383.m)、[Swift](./LeetCode_Swift/LeetCode_Swift/RansomNote_383.swift)|Easy|
 |237|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)| [Objective-C](./LeetCode_Solutions/LeetCode_Solutions/DeleteNodeInALinkedList_237.m)|Easy|
 |349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | [Objective-C](./LeetCode_Solutions/LeetCode_Solutions/IntersectionOfTwoArrays_349.m)、[Swift](./LeetCode_Swift/LeetCode_Swift/IntersectionOfTwoArrays_349.swift)|Easy|
-|100|[Same Tree](https://oj.leetcode.com/problems/same-tree/)| [Objective-C](./LeetCode_Solutions/LeetCode_Solutions/SameTree_100.m)|Easy|
+|100|[Same Tree](https://oj.leetcode.com/problems/same-tree/)| [Objective-C](./LeetCode_Solutions/LeetCode_Solutions/SameTree_100.m)、[Swift](./LeetCode_Swift/LeetCode_Swift/SameTree_100.swift)|Easy|
 |171|[Excel Sheet Column Number](https://oj.leetcode.com/problems/excel-sheet-column-number/) | [Objective-C](./LeetCode_Solutions/LeetCode_Solutions/ExcelSheetColumnNumber_171.m)|Easy|
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)| [Objective-C](./LeetCode_Solutions/LeetCode_Solutions/ValidAnagram_242.m)|Easy|
 |169|[Majority Element](https://oj.leetcode.com/problems/majority-element/) | [Objective-C](./LeetCode_Solutions/LeetCode_Solutions/MajorityElement_169.m)|Easy|
