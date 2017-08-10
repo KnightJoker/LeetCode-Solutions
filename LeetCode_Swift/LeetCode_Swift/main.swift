@@ -32,7 +32,7 @@ print("Hello, World!")
  
  */
 
-let a = LongestPalindrome_409()
+let a = RansomNote_383()
 
 let tree = TreeNode.init(1)
 let tree1 = TreeNode.init(2)
@@ -46,8 +46,27 @@ tree1.left = tree3
 tree1.right = tree4
 
 
+//var students = ["Kofi", "Abena", "Peter", "Kweku", "Akosua"]
+//students.sort()
+//print(students)
+//
+//var ss = [String]()
+//var sss = Array<String>()
+//
+//ss.append("a")
+//ss.append("b")
+//
+//sss.sort()
+//
+//
+//
+//print(ss)
+/*
+ "fffbfg"
+ "effjfggbffjdgbjjhhdegh"
+ */
 
 
-print(a.longestPalindrome("abccccdd"))
+print(a.canConstruct("aa", "ab"))
 
 
