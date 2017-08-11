@@ -32,7 +32,7 @@ print("Hello, World!")
  
  */
 
-let a = ExcelSheetColumnNumber_171()
+let a = ValidAnagram_242()
 
 let tree = TreeNode.init(1)
 let tree1 = TreeNode.init(2)
@@ -67,6 +67,6 @@ tree1.right = tree4
  */
 
 
-print(a.titleToNumber("AA"))
+print(a.isAnagram("anagram", "nagara"))
 
 
