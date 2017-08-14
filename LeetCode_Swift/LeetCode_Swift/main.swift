@@ -32,7 +32,7 @@ print("Hello, World!")
  
  */
 
-let a = ValidAnagram_242()
+let a = MajorityElement_169()
 
 let tree = TreeNode.init(1)
 let tree1 = TreeNode.init(2)
@@ -67,6 +67,6 @@ tree1.right = tree4
  */
 
 
-print(a.isAnagram("anagram", "nagara"))
+print(a.majorityElement([3,2,2,2,3,3,2,3,2]))
 
 

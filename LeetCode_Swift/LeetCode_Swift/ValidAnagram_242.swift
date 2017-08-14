@@ -16,8 +16,7 @@ public class ValidAnagram_242 {
         } else {
             return false
         }
-        
-        
+                
     }
     
     func getArrayWithString(_ s:String) -> Array<Character> {
@@ -31,4 +30,5 @@ public class ValidAnagram_242 {
         return array.sorted()
     }
 }
+
 
