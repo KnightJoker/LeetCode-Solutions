@@ -19,7 +19,7 @@ LeetCode
 |171|[Excel Sheet Column Number](https://oj.leetcode.com/problems/excel-sheet-column-number/) | [Objective-C](./LeetCode_Solutions/LeetCode_Solutions/ExcelSheetColumnNumber_171.m)、[Swift](./LeetCode_Swift/LeetCode_Swift/ExcelSheetColumnNumber_171.swift)|Easy|
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)| [Objective-C](./LeetCode_Solutions/LeetCode_Solutions/ValidAnagram_242.m)、[Swift](./LeetCode_Swift/LeetCode_Swift/ValidAnagram_242.swift)|Easy|
 |169|[Majority Element](https://oj.leetcode.com/problems/majority-element/) | [Objective-C](./LeetCode_Solutions/LeetCode_Solutions/MajorityElement_169.m)、[Swift](./LeetCode_Swift/LeetCode_Swift/MajorityElement_169.swift)|Easy|
-|387|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [Objective-C](./LeetCode_Solutions/LeetCode_Solutions/FirstUniqueCharacterInAString_387.m)|Easy|
+|387|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [Objective-C](./LeetCode_Solutions/LeetCode_Solutions/FirstUniqueCharacterInAString_387.m)、[Swift](./LeetCode_Swift/LeetCode_Swift/FirstUniqueCharacterInAString_387.swift)|Easy|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)| [Objective-C](./LeetCode_Solutions/LeetCode_Solutions/ContainsDuplicate_217.m)|Easy|
 |350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | [Objective-C](./LeetCode_Solutions/LeetCode_Solutions/IntersectionOfTwoArraysII_350.m)|Easy|
 |13|[Roman to Integer](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | [Objective-C](./LeetCode_Solutions/LeetCode_Solutions/RomanToInteger_13.m)|Easy|
