@@ -28,3 +28,4 @@ class FirstUniqueCharacterInAString_387 {
         return ans == nil ? -1 : ans
     }
 }
+

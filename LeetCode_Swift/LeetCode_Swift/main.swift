@@ -32,7 +32,7 @@ print("Hello, World!")
  
  */
 
-let a = MajorityElement_169()
+let a = ContainsDuplicate_217()
 
 let tree = TreeNode.init(1)
 let tree1 = TreeNode.init(2)
@@ -67,6 +67,6 @@ tree1.right = tree4
  */
 
 
-print(a.majorityElement([3,2,2,2,3,3,2,3,2]))
+print(a.containsDuplicate([1,1,3,4,5,6]))
 
 
