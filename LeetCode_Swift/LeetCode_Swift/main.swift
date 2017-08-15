@@ -32,7 +32,7 @@ print("Hello, World!")
  
  */
 
-let a = ContainsDuplicate_217()
+let a = IntersectionOfTwoArraysII_350()
 
 let tree = TreeNode.init(1)
 let tree1 = TreeNode.init(2)
@@ -67,6 +67,6 @@ tree1.right = tree4
  */
 
 
-print(a.containsDuplicate([1,1,3,4,5,6]))
+print(a.intersect([1,2,2,1],[2,2]))
 
 
