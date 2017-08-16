@@ -32,7 +32,7 @@ print("Hello, World!")
  
  */
 
-let a = RomanToInteger_13()
+let a = FizzBuzz_412()
 
 let tree = TreeNode.init(1)
 let tree1 = TreeNode.init(2)
@@ -58,15 +58,14 @@ tree1.right = tree4
 //
 //sss.sort()
 //
-//
-//
+////
 //print(ss)
 /*
  "fffbfg"
  "effjfggbffjdgbjjhhdegh"
- */
+*/
 
 
-print(a.romanToInt("MCMXCVI"))
+print(a.fizzBuzz(15))
 
 
