@@ -41,7 +41,7 @@ print("Hello, World!")
  
  */
 
-let a = AddStrings_415()
+let a = ConvertANumberToHexadecimal_405()
 
 let tree = TreeNode.init(1)
 let tree1 = TreeNode.init(2)
@@ -59,6 +59,6 @@ tree1.right = tree4
  "6529364523802684779"
  */
 
-print(a.addStrings("3876620623801494171","6529364523802684779"))
+print(a.toHex(-1))
 
 
