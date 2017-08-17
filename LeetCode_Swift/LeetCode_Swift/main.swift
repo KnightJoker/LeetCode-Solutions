@@ -41,7 +41,7 @@ print("Hello, World!")
  
  */
 
-let a = FizzBuzz_412()
+let a = AddStrings_415()
 
 let tree = TreeNode.init(1)
 let tree1 = TreeNode.init(2)
@@ -54,27 +54,11 @@ tree.right = tree2
 tree1.left = tree3
 tree1.right = tree4
 
-
-//var students = ["Kofi", "Abena", "Peter", "Kweku", "Akosua"]
-//students.sort()
-//print(students)
-//
-//var ss = [String]()
-//var sss = Array<String>()
-//
-//ss.append("a")
-//ss.append("b")
-//
-//sss.sort()
-//
-////
-//print(ss)
 /*
- "fffbfg"
- "effjfggbffjdgbjjhhdegh"
-*/
+ "3876620623801494171"
+ "6529364523802684779"
+ */
 
-
-print(a.fizzBuzz(15))
+print(a.addStrings("3876620623801494171","6529364523802684779"))
 
 
