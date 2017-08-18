@@ -28,7 +28,7 @@ LeetCode
 |415|[Add Strings](https://leetcode.com/problems/add-strings/) | [Objective-C](./LeetCode_Solutions/LeetCode_Solutions/AddStrings_415.m)、[Swift](./LeetCode_Swift/LeetCode_Swift/AddStrings_415.swift)|Easy|
 |405|[Convert a Number to Hexadecimal](https://leetcode.com/problems/convert-a-number-to-hexadecimal/) | [Objective-C](./LeetCode_Solutions/LeetCode_Solutions/ConvertANumberToHexadecimal_405.m)、[Swift](./LeetCode_Swift/LeetCode_Swift/ConvertANumberToHexadecimal_405.swift)|Easy|
 |231|[Power of Two](https://leetcode.com/problems/power-of-two/) | [Objective-C](./LeetCode_Solutions/LeetCode_Solutions/PowerOfTwo_231.m)、[Swift](./LeetCode_Swift/LeetCode_Swift/PowerOfTwo_231.swift)|Easy|
-|326|[Power of Three](https://leetcode.com/problems/power-of-three/) | [Objective-C](./LeetCode_Solutions/LeetCode_Solutions/PowerOfThree_326.m)|Easy|
+|326|[Power of Three](https://leetcode.com/problems/power-of-three/) | [Objective-C](./LeetCode_Solutions/LeetCode_Solutions/PowerOfThree_326.m)、[Swift](./LeetCode_Swift/LeetCode_Swift/PowerOfThree_326.swift)|Easy|
 |202|[Happy Number](https://leetcode.com/problems/happy-number/) | [Objective-C](./LeetCode_Solutions/LeetCode_Solutions/HappyNumber_202.m)|Easy|
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Objective-C](./LeetCode_Solutions/LeetCode_Solutions/BestTimeToBuyAndSellStock_121.m)|Easy|
 |83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [Objective-C](./LeetCode_Solutions/LeetCode_Solutions/RemoveDuplicatesFromSortedList_83.m)|Easy|

@@ -41,7 +41,7 @@ print("Hello, World!")
  
  */
 
-let a = PowerOfTwo_231()
+let a = PowerOfThree_326()
 
 let tree = TreeNode.init(1)
 let tree1 = TreeNode.init(2)
@@ -59,6 +59,6 @@ tree1.right = tree4
  "6529364523802684779"
  */
 
-print(a.isPowerOfTwo(2))
+print(a.isPowerOfThree(9))
 
 
