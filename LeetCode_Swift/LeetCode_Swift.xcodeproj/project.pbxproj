@@ -29,6 +29,7 @@
 		B5A00CCD1F3177E30080BBF8 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5A00CCC1F3177E30080BBF8 /* main.swift */; };
 		B5A00CDC1F319F220080BBF8 /* ReverseString_344.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5A00CDB1F319F220080BBF8 /* ReverseString_344.swift */; };
 		B5A00CDE1F31AA210080BBF8 /* AddDigits_258.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5A00CDD1F31AA210080BBF8 /* AddDigits_258.swift */; };
+		B5A552001F4682A70032FE78 /* PowerOfTwo_231.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5A551FF1F4682A70032FE78 /* PowerOfTwo_231.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -67,6 +68,7 @@
 		B5A00CCC1F3177E30080BBF8 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		B5A00CDB1F319F220080BBF8 /* ReverseString_344.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ReverseString_344.swift; sourceTree = "<group>"; };
 		B5A00CDD1F31AA210080BBF8 /* AddDigits_258.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AddDigits_258.swift; sourceTree = "<group>"; };
+		B5A551FF1F4682A70032FE78 /* PowerOfTwo_231.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PowerOfTwo_231.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -121,6 +123,7 @@
 				B538FCD61F43EAAC00A1BC5C /* ReverseLinkedList_206.swift */,
 				B538FD1C1F452FB600A1BC5C /* AddStrings_415.swift */,
 				B538FD1E1F45450700A1BC5C /* ConvertANumberToHexadecimal_405.swift */,
+				B5A551FF1F4682A70032FE78 /* PowerOfTwo_231.swift */,
 			);
 			path = LeetCode_Swift;
 			sourceTree = "<group>";
@@ -205,6 +208,7 @@
 				B538FCD51F43E05200A1BC5C /* FizzBuzz_412.swift in Sources */,
 				B538FD1D1F452FB600A1BC5C /* AddStrings_415.swift in Sources */,
 				B538FC9F1F41485200A1BC5C /* FirstUniqueCharacterInAString_387.swift in Sources */,
+				B5A552001F4682A70032FE78 /* PowerOfTwo_231.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
