@@ -41,7 +41,7 @@ print("Hello, World!")
  
  */
 
-let a = PowerOfThree_326()
+let a = HappyNumber_202()
 
 let tree = TreeNode.init(1)
 let tree1 = TreeNode.init(2)
@@ -59,6 +59,6 @@ tree1.right = tree4
  "6529364523802684779"
  */
 
-print(a.isPowerOfThree(9))
+print(a.isHappy(19))
 
 
