@@ -33,6 +33,7 @@
 		B5A552001F4682A70032FE78 /* PowerOfTwo_231.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5A551FF1F4682A70032FE78 /* PowerOfTwo_231.swift */; };
 		B5A552021F4686A20032FE78 /* PowerOfThree_326.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5A552011F4686A20032FE78 /* PowerOfThree_326.swift */; };
 		B5A5520C1F4A7C920032FE78 /* BestTimeToBuyAndSellStock_121.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5A5520B1F4A7C920032FE78 /* BestTimeToBuyAndSellStock_121.swift */; };
+		B5A5520E1F4A84E80032FE78 /* RemoveDuplicatesFromSortedList_83.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5A5520D1F4A84E80032FE78 /* RemoveDuplicatesFromSortedList_83.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -75,6 +76,7 @@
 		B5A551FF1F4682A70032FE78 /* PowerOfTwo_231.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PowerOfTwo_231.swift; sourceTree = "<group>"; };
 		B5A552011F4686A20032FE78 /* PowerOfThree_326.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PowerOfThree_326.swift; sourceTree = "<group>"; };
 		B5A5520B1F4A7C920032FE78 /* BestTimeToBuyAndSellStock_121.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BestTimeToBuyAndSellStock_121.swift; sourceTree = "<group>"; };
+		B5A5520D1F4A84E80032FE78 /* RemoveDuplicatesFromSortedList_83.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RemoveDuplicatesFromSortedList_83.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -133,6 +135,7 @@
 				B5A552011F4686A20032FE78 /* PowerOfThree_326.swift */,
 				227914A01F487B590056FE38 /* HappyNumber_202.swift */,
 				B5A5520B1F4A7C920032FE78 /* BestTimeToBuyAndSellStock_121.swift */,
+				B5A5520D1F4A84E80032FE78 /* RemoveDuplicatesFromSortedList_83.swift */,
 			);
 			path = LeetCode_Swift;
 			sourceTree = "<group>";
@@ -208,6 +211,7 @@
 				B538FCD01F428F3800A1BC5C /* IntersectionOfTwoArraysII_350.swift in Sources */,
 				B538FC981F3D4F5C00A1BC5C /* ValidAnagram_242.swift in Sources */,
 				B5A00CDE1F31AA210080BBF8 /* AddDigits_258.swift in Sources */,
+				B5A5520E1F4A84E80032FE78 /* RemoveDuplicatesFromSortedList_83.swift in Sources */,
 				B538FCCE1F428B1500A1BC5C /* ContainsDuplicate_217.swift in Sources */,
 				B51B73651F34781F0082A8FB /* FindTheDifference_389.swift in Sources */,
 				227914A11F487B590056FE38 /* HappyNumber_202.swift in Sources */,
