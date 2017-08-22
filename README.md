@@ -32,7 +32,7 @@ LeetCode
 |202|[Happy Number](https://leetcode.com/problems/happy-number/) | [Objective-C](./LeetCode_Solutions/LeetCode_Solutions/HappyNumber_202.m)、[Swift](./LeetCode_Swift/LeetCode_Swift/HappyNumber_202.swift)|Easy|
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Objective-C](./LeetCode_Solutions/LeetCode_Solutions/BestTimeToBuyAndSellStock_121.m)、[Swift](./LeetCode_Swift/LeetCode_Swift/BestTimeToBuyAndSellStock_121.swift)|Easy|
 |83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [Objective-C](./LeetCode_Solutions/LeetCode_Solutions/RemoveDuplicatesFromSortedList_83.m)、[Swift](./LeetCode_Swift/LeetCode_Swift/RemoveDuplicatesFromSortedList_83.swift)|Easy|
-|70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Objective-C](./LeetCode_Solutions/LeetCode_Solutions/ClimbingStairs_70.m)|Easy|
+|70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Objective-C](./LeetCode_Solutions/LeetCode_Solutions/ClimbingStairs_70.m)、[Swift](./LeetCode_Swift/LeetCode_Swift/ClimbingStairs_70.swift)|Easy|
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Objective-C](./LeetCode_Solutions/LeetCode_Solutions/MaximumDepthOfBinaryTree_104.m)|Easy|
 |461|[Hamming Distance](https://leetcode.com/problems/hamming-distance/#/description) | [Objective-C](./LeetCode_Solutions/LeetCode_Solutions/HammingDistance_461.m)|Easy|
 |476|[Number Complement](https://leetcode.com/problems/number-complement/#/description) | [Objective-C](./LeetCode_Solutions/LeetCode_Solutions/NumberComplement_476.m)|Easy|
