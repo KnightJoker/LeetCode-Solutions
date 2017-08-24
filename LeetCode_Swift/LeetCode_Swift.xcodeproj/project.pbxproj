@@ -36,6 +36,7 @@
 		B5A5520E1F4A84E80032FE78 /* RemoveDuplicatesFromSortedList_83.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5A5520D1F4A84E80032FE78 /* RemoveDuplicatesFromSortedList_83.swift */; };
 		B5A5522A1F4C1E7A0032FE78 /* ClimbingStairs_70.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5A552291F4C1E7A0032FE78 /* ClimbingStairs_70.swift */; };
 		B5A5522C1F4E69500032FE78 /* MaximumDepthOfBinaryTree_104.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5A5522B1F4E69500032FE78 /* MaximumDepthOfBinaryTree_104.swift */; };
+		B5A5522E1F4E76EC0032FE78 /* HammingDistance_461.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5A5522D1F4E76EC0032FE78 /* HammingDistance_461.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -81,6 +82,7 @@
 		B5A5520D1F4A84E80032FE78 /* RemoveDuplicatesFromSortedList_83.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RemoveDuplicatesFromSortedList_83.swift; sourceTree = "<group>"; };
 		B5A552291F4C1E7A0032FE78 /* ClimbingStairs_70.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ClimbingStairs_70.swift; sourceTree = "<group>"; };
 		B5A5522B1F4E69500032FE78 /* MaximumDepthOfBinaryTree_104.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MaximumDepthOfBinaryTree_104.swift; sourceTree = "<group>"; };
+		B5A5522D1F4E76EC0032FE78 /* HammingDistance_461.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HammingDistance_461.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -142,6 +144,7 @@
 				B5A5520D1F4A84E80032FE78 /* RemoveDuplicatesFromSortedList_83.swift */,
 				B5A552291F4C1E7A0032FE78 /* ClimbingStairs_70.swift */,
 				B5A5522B1F4E69500032FE78 /* MaximumDepthOfBinaryTree_104.swift */,
+				B5A5522D1F4E76EC0032FE78 /* HammingDistance_461.swift */,
 			);
 			path = LeetCode_Swift;
 			sourceTree = "<group>";
@@ -210,6 +213,7 @@
 				B5A5522A1F4C1E7A0032FE78 /* ClimbingStairs_70.swift in Sources */,
 				B51B73741F3AAAB40082A8FB /* SumOfLeftLeaves_404.swift in Sources */,
 				B51B73761F3ABF260082A8FB /* LongestPalindrome_409.swift in Sources */,
+				B5A5522E1F4E76EC0032FE78 /* HammingDistance_461.swift in Sources */,
 				B5A00CCD1F3177E30080BBF8 /* main.swift in Sources */,
 				B538FC9D1F413E3800A1BC5C /* MajorityElement_169.swift in Sources */,
 				B538FD1F1F45450700A1BC5C /* ConvertANumberToHexadecimal_405.swift in Sources */,

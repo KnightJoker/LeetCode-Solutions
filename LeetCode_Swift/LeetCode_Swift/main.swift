@@ -41,7 +41,7 @@ print("Hello, World!")
  
  */
 
-let a = ClimbingStairs_70()
+let a = HammingDistance_461()
 
 let tree = TreeNode.init(1)
 let tree1 = TreeNode.init(2)
@@ -59,5 +59,5 @@ tree1.right = tree4
  "6529364523802684779"
  */
 
-print(a.climbStairs(44))
+print(a.hammingDistance(1, 4))
 
