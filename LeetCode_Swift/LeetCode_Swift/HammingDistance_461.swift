@@ -21,15 +21,3 @@ public class HammingDistance_461 {
         return res
     }
 }
-
-/*
- 
- NSInteger res = 0;
- NSInteger exc = x ^ y;
- while (exc) {
- ++res;
- exc &= (exc - 1);
- }
- return res;
- 
- */
