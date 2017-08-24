@@ -35,6 +35,7 @@
 		B5A5520C1F4A7C920032FE78 /* BestTimeToBuyAndSellStock_121.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5A5520B1F4A7C920032FE78 /* BestTimeToBuyAndSellStock_121.swift */; };
 		B5A5520E1F4A84E80032FE78 /* RemoveDuplicatesFromSortedList_83.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5A5520D1F4A84E80032FE78 /* RemoveDuplicatesFromSortedList_83.swift */; };
 		B5A5522A1F4C1E7A0032FE78 /* ClimbingStairs_70.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5A552291F4C1E7A0032FE78 /* ClimbingStairs_70.swift */; };
+		B5A5522C1F4E69500032FE78 /* MaximumDepthOfBinaryTree_104.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5A5522B1F4E69500032FE78 /* MaximumDepthOfBinaryTree_104.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -79,6 +80,7 @@
 		B5A5520B1F4A7C920032FE78 /* BestTimeToBuyAndSellStock_121.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BestTimeToBuyAndSellStock_121.swift; sourceTree = "<group>"; };
 		B5A5520D1F4A84E80032FE78 /* RemoveDuplicatesFromSortedList_83.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RemoveDuplicatesFromSortedList_83.swift; sourceTree = "<group>"; };
 		B5A552291F4C1E7A0032FE78 /* ClimbingStairs_70.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ClimbingStairs_70.swift; sourceTree = "<group>"; };
+		B5A5522B1F4E69500032FE78 /* MaximumDepthOfBinaryTree_104.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MaximumDepthOfBinaryTree_104.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -139,6 +141,7 @@
 				B5A5520B1F4A7C920032FE78 /* BestTimeToBuyAndSellStock_121.swift */,
 				B5A5520D1F4A84E80032FE78 /* RemoveDuplicatesFromSortedList_83.swift */,
 				B5A552291F4C1E7A0032FE78 /* ClimbingStairs_70.swift */,
+				B5A5522B1F4E69500032FE78 /* MaximumDepthOfBinaryTree_104.swift */,
 			);
 			path = LeetCode_Swift;
 			sourceTree = "<group>";
@@ -218,6 +221,7 @@
 				B5A5520E1F4A84E80032FE78 /* RemoveDuplicatesFromSortedList_83.swift in Sources */,
 				B538FCCE1F428B1500A1BC5C /* ContainsDuplicate_217.swift in Sources */,
 				B51B73651F34781F0082A8FB /* FindTheDifference_389.swift in Sources */,
+				B5A5522C1F4E69500032FE78 /* MaximumDepthOfBinaryTree_104.swift in Sources */,
 				227914A11F487B590056FE38 /* HappyNumber_202.swift in Sources */,
 				B538FC8F1F3B2F3A00A1BC5C /* RansomNote_383.swift in Sources */,
 				B538FC931F3C070300A1BC5C /* SameTree_100.swift in Sources */,
