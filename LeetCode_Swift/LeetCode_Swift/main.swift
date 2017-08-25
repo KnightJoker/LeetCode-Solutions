@@ -41,7 +41,7 @@ print("Hello, World!")
  
  */
 
-let a = NumberComplement_476()
+let a = NextGreaterElementI_496()
 
 let tree = TreeNode.init(1)
 let tree1 = TreeNode.init(2)
@@ -59,5 +59,5 @@ tree1.right = tree4
  "6529364523802684779"
  */
 
-print(a.findComplement(5))
+print(a.nextGreaterElement([2,4], [1,2,3,4]))
 
