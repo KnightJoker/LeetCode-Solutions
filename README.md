@@ -35,7 +35,7 @@ LeetCode
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Objective-C](./LeetCode_Solutions/LeetCode_Solutions/ClimbingStairs_70.m)、[Swift](./LeetCode_Swift/LeetCode_Swift/ClimbingStairs_70.swift)|Easy|
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Objective-C](./LeetCode_Solutions/LeetCode_Solutions/MaximumDepthOfBinaryTree_104.m)、[Swift](./LeetCode_Swift/LeetCode_Swift/MaximumDepthOfBinaryTree_104.swift)|Easy|
 |461|[Hamming Distance](https://leetcode.com/problems/hamming-distance/#/description) | [Objective-C](./LeetCode_Solutions/LeetCode_Solutions/HammingDistance_461.m)、[Swift](./LeetCode_Swift/LeetCode_Swift/HammingDistance_461.swift)|Easy|
-|476|[Number Complement](https://leetcode.com/problems/number-complement/#/description) | [Objective-C](./LeetCode_Solutions/LeetCode_Solutions/NumberComplement_476.m)|Easy|
+|476|[Number Complement](https://leetcode.com/problems/number-complement/#/description) | [Objective-C](./LeetCode_Solutions/LeetCode_Solutions/NumberComplement_476.m)、[Swift](./LeetCode_Swift/LeetCode_Swift/NumberComplement_476.swift)|Easy|
 |496|[Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/#/description) | [Objective-C](./LeetCode_Solutions/LeetCode_Solutions/NextGreaterElement_496.m)|Easy|
 |520|[Detect Capital](https://leetcode.com/problems/detect-capital/#/description) | [Objective-C](./LeetCode_Solutions/LeetCode_Solutions/DetectCapital_520.m)|Easy|
 |371|[Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/#/description) | [Objective-C](./LeetCode_Solutions/LeetCode_Solutions/SumOfTwoIntegers_371.m)|Easy|
