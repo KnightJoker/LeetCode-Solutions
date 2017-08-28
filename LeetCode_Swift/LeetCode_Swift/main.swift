@@ -41,7 +41,7 @@ print("Hello, World!")
  
  */
 
-let a = DetectCapital_520()
+let a = SumOfTwoIntegers_371()
 
 let tree = TreeNode.init(1)
 let tree1 = TreeNode.init(2)
@@ -59,5 +59,5 @@ tree1.right = tree4
  "6529364523802684779"
  */
 
-print(a.detectCapitalUse("USA"))
+print(a.getSum(1, 2))
 
