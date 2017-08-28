@@ -41,7 +41,7 @@ print("Hello, World!")
  
  */
 
-let a = NextGreaterElementI_496()
+let a = DetectCapital_520()
 
 let tree = TreeNode.init(1)
 let tree1 = TreeNode.init(2)
@@ -59,5 +59,5 @@ tree1.right = tree4
  "6529364523802684779"
  */
 
-print(a.nextGreaterElement([2,4], [1,2,3,4]))
+print(a.detectCapitalUse("USA"))
 
