@@ -39,4 +39,5 @@ LeetCode
 |496|[Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/#/description) | [Objective-C](./LeetCode_Solutions/LeetCode_Solutions/NextGreaterElementI_496.m)、[Swift](./LeetCode_Swift/LeetCode_Swift/NextGreaterElementI_496.swift)|Easy|
 |520|[Detect Capital](https://leetcode.com/problems/detect-capital/#/description) | [Objective-C](./LeetCode_Solutions/LeetCode_Solutions/DetectCapital_520.m)、[Swift](./LeetCode_Swift/LeetCode_Swift/DetectCapital_520.swift)|Easy|
 |371|[Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/#/description) | [Objective-C](./LeetCode_Solutions/LeetCode_Solutions/SumOfTwoIntegers_371.m)、[Swift](./LeetCode_Swift/LeetCode_Swift/SumOfTwoIntegers_371.swift)|Easy|
+|657|[Judge Route Circle](https://leetcode.com/problems/judge-route-circle/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/JudgeRouteCircle_657.swift)|Easy|
 |535|[Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/#/description) | [Objective-C](./LeetCode_Solutions/LeetCode_Solutions/EncodeAndDecodeTinyURL_535.m)|Medium|
