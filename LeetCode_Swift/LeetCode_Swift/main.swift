@@ -33,9 +33,9 @@ print("Hello, World!")
 
 
 
-let a = ArrayPartitionI_561()
+let a = KeyboardRow_500()
 
 
 
-print(a.arrayPairSum([1,4,3,2]))
+print(a.findWords(["Hello", "Alaska", "Dad", "Peace"]))
 

@@ -34,6 +34,7 @@
 		B546D8E11F550BC500D045D8 /* JudgeRouteCircle_657.swift in Sources */ = {isa = PBXBuildFile; fileRef = B546D8E01F550BC500D045D8 /* JudgeRouteCircle_657.swift */; };
 		B546D8E31F55110300D045D8 /* MergeTwoBinaryTrees_617.swift in Sources */ = {isa = PBXBuildFile; fileRef = B546D8E21F55110300D045D8 /* MergeTwoBinaryTrees_617.swift */; };
 		B546D8E51F56539F00D045D8 /* ArrayPartitionI_561.swift in Sources */ = {isa = PBXBuildFile; fileRef = B546D8E41F56539F00D045D8 /* ArrayPartitionI_561.swift */; };
+		B546D8E71F56592B00D045D8 /* KeyboardRow_500.swift in Sources */ = {isa = PBXBuildFile; fileRef = B546D8E61F56592B00D045D8 /* KeyboardRow_500.swift */; };
 		B5A00CCD1F3177E30080BBF8 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5A00CCC1F3177E30080BBF8 /* main.swift */; };
 		B5A00CDC1F319F220080BBF8 /* ReverseString_344.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5A00CDB1F319F220080BBF8 /* ReverseString_344.swift */; };
 		B5A00CDE1F31AA210080BBF8 /* AddDigits_258.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5A00CDD1F31AA210080BBF8 /* AddDigits_258.swift */; };
@@ -86,6 +87,7 @@
 		B546D8E01F550BC500D045D8 /* JudgeRouteCircle_657.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = JudgeRouteCircle_657.swift; sourceTree = "<group>"; };
 		B546D8E21F55110300D045D8 /* MergeTwoBinaryTrees_617.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MergeTwoBinaryTrees_617.swift; sourceTree = "<group>"; };
 		B546D8E41F56539F00D045D8 /* ArrayPartitionI_561.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ArrayPartitionI_561.swift; sourceTree = "<group>"; };
+		B546D8E61F56592B00D045D8 /* KeyboardRow_500.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = KeyboardRow_500.swift; sourceTree = "<group>"; };
 		B5A00CC91F3177E30080BBF8 /* LeetCode_Swift */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = LeetCode_Swift; sourceTree = BUILT_PRODUCTS_DIR; };
 		B5A00CCC1F3177E30080BBF8 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		B5A00CDB1F319F220080BBF8 /* ReverseString_344.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ReverseString_344.swift; sourceTree = "<group>"; };
@@ -166,6 +168,7 @@
 				B546D8E01F550BC500D045D8 /* JudgeRouteCircle_657.swift */,
 				B546D8E21F55110300D045D8 /* MergeTwoBinaryTrees_617.swift */,
 				B546D8E41F56539F00D045D8 /* ArrayPartitionI_561.swift */,
+				B546D8E61F56592B00D045D8 /* KeyboardRow_500.swift */,
 			);
 			path = LeetCode_Swift;
 			sourceTree = "<group>";
@@ -245,6 +248,7 @@
 				B538FCD01F428F3800A1BC5C /* IntersectionOfTwoArraysII_350.swift in Sources */,
 				B538FC981F3D4F5C00A1BC5C /* ValidAnagram_242.swift in Sources */,
 				B5A00CDE1F31AA210080BBF8 /* AddDigits_258.swift in Sources */,
+				B546D8E71F56592B00D045D8 /* KeyboardRow_500.swift in Sources */,
 				B5A5520E1F4A84E80032FE78 /* RemoveDuplicatesFromSortedList_83.swift in Sources */,
 				B538FCCE1F428B1500A1BC5C /* ContainsDuplicate_217.swift in Sources */,
 				B51B73651F34781F0082A8FB /* FindTheDifference_389.swift in Sources */,
