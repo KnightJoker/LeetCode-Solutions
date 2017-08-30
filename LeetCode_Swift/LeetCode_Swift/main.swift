@@ -31,33 +31,11 @@ class ListNode {
 
 print("Hello, World!")
 
-/*
- 
- 3
- / \
- 9  20
- /  \
- 15   7
- 
- */
 
-let a = JudgeRouteCircle_657()
 
-let tree = TreeNode.init(1)
-let tree1 = TreeNode.init(2)
-let tree2 = TreeNode.init(3)
-let tree3 = TreeNode.init(4)
-let tree4 = TreeNode.init(5)
+let a = ArrayPartitionI_561()
 
-tree.left = tree1
-tree.right = tree2
-tree1.left = tree3
-tree1.right = tree4
 
-/*
- "3876620623801494171"
- "6529364523802684779"
- */
 
-print(a.judgeCircle("DULR"))
+print(a.arrayPairSum([1,4,3,2]))
 
