@@ -44,4 +44,5 @@ LeetCode
 |561|[Array Partition I](https://leetcode.com/problems/array-partition-i/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/ArrayPartitionI_561.swift)|Easy|
 |500|[Keyboard Row](https://leetcode.com/problems/keyboard-row/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/KeyboardRow_500.swift)|Easy|
 |557|[Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/ReverseWordsInAStringIII_557.swift)|Easy|
+|575|[Distribute Candies](https://leetcode.com/problems/distribute-candies/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/DistributeCandies_575.swift)|Easy|
 |535|[Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/#/description) | [Objective-C](./LeetCode_Solutions/LeetCode_Solutions/EncodeAndDecodeTinyURL_535.m)|Medium|

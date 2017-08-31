@@ -33,9 +33,9 @@ print("Hello, World!")
 
 
 
-let a = ReverseWordsInAStringIII_557()
+let a = DistributeCandies_575()
 
 
 
-print(a.reverseWords("Let's take LeetCode contest"))
+print(a.distributeCandies([1,1,2,2,3,3]))
 
