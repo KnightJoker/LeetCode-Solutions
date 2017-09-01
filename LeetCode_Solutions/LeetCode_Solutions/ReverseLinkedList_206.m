@@ -7,16 +7,6 @@
 //
 
 
-/*  The description of question
- 
- 
- Reverse a singly linked list.
- 
- Hint:
- A linked list can be reversed either iteratively or recursively. Could you implement both?
- 
- */
-
 #import "ReverseLinkedList_206.h"
 
 @implementation ReverseLinkedList_206

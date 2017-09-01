@@ -7,11 +7,6 @@
 //
 
 
-/*  The description of question
- 
- 
- 
- */
 
 
 #import "RansomNote_383.h"

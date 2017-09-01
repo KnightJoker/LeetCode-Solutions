@@ -7,15 +7,6 @@
 //
 
 
-/*  The description of question
- 
- Write a function that takes a string as input and returns the string reversed.
- 
- Example:
- Given s = "hello", return "olleh".
- 
- */
-
 #import "ReverseString_344.h"
 
 @implementation ReverseString_344

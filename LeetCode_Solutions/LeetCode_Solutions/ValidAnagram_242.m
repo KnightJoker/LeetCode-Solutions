@@ -6,16 +6,6 @@
 //  Copyright © 2016年 KnightJoker. All rights reserved.
 //
 
-/*  The description of question
- 
- Given two strings s and t, write a function to determine if t is an anagram of s.
- 
- For example,
- s = "anagram", t = "nagaram", return true.
- s = "rat", t = "car", return false.
- 
- */
-
 #import "ValidAnagram_242.h"
 
 @implementation ValidAnagram_242
