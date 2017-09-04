@@ -3,6 +3,11 @@ LeetCode
 
 ### LeetCode Algorithm
 
+you can use `⌘ + F` to search the answer you want
+
+On non-macOS computers, please substitute `CTRL` for `⌘ `.
+
+
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/) | [Objective-C](./LeetCode_Solutions/LeetCode_Solutions/ReverseString_344.m)、[Swift](./LeetCode_Swift/LeetCode_Swift/ReverseString_344.swift)|Easy|
@@ -47,4 +52,5 @@ LeetCode
 |575|[Distribute Candies](https://leetcode.com/problems/distribute-candies/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/DistributeCandies_575.swift)|Easy|
 |566|[Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/ReshapeTheMatrix_566.swift)|Easy|
 |463|[Island Perimeter](https://leetcode.com/problems/island-perimeter/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/IslandPerimeter_463.swift)|Easy|
+|637|[Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/AverageOfLevelsInBinaryTree_637.swift)|Easy|
 |535|[Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/#/description) | [Objective-C](./LeetCode_Solutions/LeetCode_Solutions/EncodeAndDecodeTinyURL_535.m)|Medium|
