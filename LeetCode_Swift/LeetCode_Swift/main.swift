@@ -33,12 +33,9 @@ print("Hello, World!")
 
 
 
-let a = IslandPerimeter_463()
+let a = LongestUncommonSubsequenceI_521()
 
 
 
-print(a.islandPerimeter([[0,1,0,0],
-                         [1,1,1,0],
-                         [0,1,0,0],
-                         [1,1,0,0]]))
+print(a.findLUSlength("aba", "cdc"))
 
