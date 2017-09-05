@@ -33,9 +33,9 @@ print("Hello, World!")
 
 
 
-let a = MaxConsecutiveOnes_485()
+let a = FindAllNumbersDisappearedInAnArray_448()
 
 
 
-print(a.findMaxConsecutiveOnes([0,1,1,1,1,1,1]))
+print(a.findDisappearedNumbers([4,3,2,7,8,2,3,1]))
 
