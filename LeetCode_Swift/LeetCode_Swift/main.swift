@@ -33,9 +33,9 @@ print("Hello, World!")
 
 
 
-let a = LongestUncommonSubsequenceI_521()
+let a = MaxConsecutiveOnes_485()
 
 
 
-print(a.findLUSlength("aba", "cdc"))
+print(a.findMaxConsecutiveOnes([0,1,1,1,1,1,1]))
 

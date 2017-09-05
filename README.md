@@ -3,7 +3,7 @@ LeetCode
 
 ### LeetCode Algorithm
 
-you can use `⌘ + F` to search the answer you want
+You can use `⌘ + F` to search the answer you want
 
 On non-macOS computers, please substitute `CTRL` for `⌘ `.
 
@@ -54,4 +54,5 @@ On non-macOS computers, please substitute `CTRL` for `⌘ `.
 |463|[Island Perimeter](https://leetcode.com/problems/island-perimeter/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/IslandPerimeter_463.swift)|Easy|
 |637|[Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/AverageOfLevelsInBinaryTree_637.swift)|Easy|
 |521|[Longest Uncommon Subsequence I](https://leetcode.com/problems/longest-uncommon-subsequence-i/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/LongestUncommonSubsequenceI_521.swift)|Easy|
+|485|[Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/MaxConsecutiveOnes_485.swift)|Easy|
 |535|[Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/#/description) | [Objective-C](./LeetCode_Solutions/LeetCode_Solutions/EncodeAndDecodeTinyURL_535.m)|Medium|
