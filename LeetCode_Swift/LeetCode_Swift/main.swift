@@ -33,20 +33,18 @@ print("Hello, World!")
 
 
 
-let a = TwoSumIV_InputIsABST_653()
+let a = ConstructStringFromBinaryTree_606()
 
-let r0 = TreeNode(5)
-let r1 = TreeNode(3)
-let r2 = TreeNode(6)
-let r3 = TreeNode(2)
-let r4 = TreeNode(4)
-let r5 = TreeNode(7)
+let r0 = TreeNode(1)
+let r1 = TreeNode(2)
+let r2 = TreeNode(3)
+let r3 = TreeNode(4)
+
 
 r0.left = r1
 r0.right = r2
-r1.left = r3
-r1.right = r4
-r2.right = r5
+r1.right = r3
 
-print(a.findTarget(r0, 9))
+
+print(a.tree2str(r0))
 

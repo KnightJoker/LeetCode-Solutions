@@ -57,4 +57,5 @@ On non-macOS computers, please substitute `CTRL` for `⌘ `.
 |485|[Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/MaxConsecutiveOnes_485.swift)|Easy|
 |448|[Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/FindAllNumbersDisappearedInAnArray_448.swift)|Easy|
 |653|[Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/TwoSumIV_InputIsABST_653.swift)|Easy|
+|606|[Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/ConstructStringFromBinaryTree_606.swift)|Easy|
 |535|[Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/#/description) | [Objective-C](./LeetCode_Solutions/LeetCode_Solutions/EncodeAndDecodeTinyURL_535.m)|Medium|
