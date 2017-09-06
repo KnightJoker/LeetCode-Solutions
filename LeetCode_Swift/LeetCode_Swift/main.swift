@@ -33,9 +33,20 @@ print("Hello, World!")
 
 
 
-let a = FindAllNumbersDisappearedInAnArray_448()
+let a = TwoSumIV_InputIsABST_653()
 
+let r0 = TreeNode(5)
+let r1 = TreeNode(3)
+let r2 = TreeNode(6)
+let r3 = TreeNode(2)
+let r4 = TreeNode(4)
+let r5 = TreeNode(7)
 
+r0.left = r1
+r0.right = r2
+r1.left = r3
+r1.right = r4
+r2.right = r5
 
-print(a.findDisappearedNumbers([4,3,2,7,8,2,3,1]))
+print(a.findTarget(r0, 9))
 
