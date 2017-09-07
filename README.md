@@ -59,4 +59,5 @@ On non-macOS computers, please substitute `CTRL` for `⌘ `.
 |653|[Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/TwoSumIV_InputIsABST_653.swift)|Easy|
 |606|[Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/ConstructStringFromBinaryTree_606.swift)|Easy|
 |538|[Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/ConvertBSTToGreaterTree_538.swift)|Easy|
+|492|[Construct the Rectangle](https://leetcode.com/problems/construct-the-rectangle/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/ConstructTheRectangle_492.swift)|Easy|
 |535|[Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/#/description) | [Objective-C](./LeetCode_Solutions/LeetCode_Solutions/EncodeAndDecodeTinyURL_535.m)|Medium|

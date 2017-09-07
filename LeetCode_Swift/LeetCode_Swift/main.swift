@@ -33,7 +33,7 @@ print("Hello, World!")
 
 
 
-let a = ConvertBSTToGreaterTree_538()
+let a = ConstructTheRectangle_492()
 
 let r0 = TreeNode(5)
 let r1 = TreeNode(2)
@@ -46,5 +46,5 @@ r0.right = r2
 
 
 
-print(a.convertBST(r0) ?? "")
+print(a.constructRectangle(4))
 
