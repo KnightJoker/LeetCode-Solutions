@@ -33,18 +33,18 @@ print("Hello, World!")
 
 
 
-let a = ConstructStringFromBinaryTree_606()
+let a = ConvertBSTToGreaterTree_538()
 
-let r0 = TreeNode(1)
+let r0 = TreeNode(5)
 let r1 = TreeNode(2)
-let r2 = TreeNode(3)
-let r3 = TreeNode(4)
+let r2 = TreeNode(13)
+
 
 
 r0.left = r1
 r0.right = r2
-r1.right = r3
 
 
-print(a.tree2str(r0))
+
+print(a.convertBST(r0) ?? "")
 
