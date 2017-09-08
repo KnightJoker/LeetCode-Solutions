@@ -61,4 +61,5 @@ On non-macOS computers, please substitute `CTRL` for `⌘ `.
 |538|[Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/ConvertBSTToGreaterTree_538.swift)|Easy|
 |492|[Construct the Rectangle](https://leetcode.com/problems/construct-the-rectangle/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/ConstructTheRectangle_492.swift)|Easy|
 |598|[Range Addition II](https://leetcode.com/problems/range-addition-ii/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/RangeAdditionII_598.swift)|Easy|
+|453|[Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/MinimumMovesToEqualArrayElements_453.swift)|Easy|
 |535|[Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/#/description) | [Objective-C](./LeetCode_Solutions/LeetCode_Solutions/EncodeAndDecodeTinyURL_535.m)|Medium|

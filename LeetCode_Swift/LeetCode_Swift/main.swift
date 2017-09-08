@@ -33,7 +33,7 @@ print("Hello, World!")
 
 
 
-let a = RangeAdditionII_598()
+let a = MinimumMovesToEqualArrayElements_453()
 
 let r0 = TreeNode(5)
 let r1 = TreeNode(2)
@@ -46,5 +46,5 @@ r0.right = r2
 
 
 
-print(a.maxCount(4, 6, [[3,3],[4,2],[2,1],[1,2]]))
+print(a.minMoves([1,2,3]))
 
