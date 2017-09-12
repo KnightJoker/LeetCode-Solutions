@@ -33,20 +33,20 @@ print("Hello, World!")
 
 
 
-let a = TwoSumII_InputArrayIsSorted_167()
+let a = BinaryTreeTilt_563()
 
-let r0 = TreeNode(543)
-let r1 = TreeNode(384)
-let r2 = TreeNode(652)
+let r0 = TreeNode(1)
+let r1 = TreeNode(2)
+let r2 = TreeNode(3)
 let r3 = TreeNode(445)
 let r4 = TreeNode(699)
 
 
 r0.left = r1
 r0.right = r2
-r1.right = r3
-r2.right = r4
+//r1.right = r3
+//r2.right = r4
 
 
-print(a.twoSum([1,2,3,4,4,9,56,90], 8))
+print(a.findTilt(r0))
 
