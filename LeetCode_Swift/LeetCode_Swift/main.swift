@@ -33,7 +33,7 @@ print("Hello, World!")
 
 
 
-let a = BestTimeToBuyAndSellStockII_122()
+let a = TwoSumII_InputArrayIsSorted_167()
 
 let r0 = TreeNode(543)
 let r1 = TreeNode(384)
@@ -48,5 +48,5 @@ r1.right = r3
 r2.right = r4
 
 
-print(a.maxProfit([5,1,2,3,4]))
+print(a.twoSum([1,2,3,4,4,9,56,90], 8))
 

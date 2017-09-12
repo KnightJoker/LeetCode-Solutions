@@ -65,4 +65,5 @@ On non-macOS computers, please substitute `CTRL` for `⌘ `.
 |530|[Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/MinimumAbsoluteDifferenceInBST_530.swift)|Easy|
 |455|[Assign Cookies](https://leetcode.com/problems/assign-cookies/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/AssignCookies_455.swift)|Easy|
 |122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/BestTimeToBuyAndSellStockII_122.swift)|Easy|
+|167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/TwoSumII_InputArrayIsSorted_167.swift)|Easy|
 |535|[Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/#/description) | [Objective-C](./LeetCode_Solutions/LeetCode_Solutions/EncodeAndDecodeTinyURL_535.m)|Medium|
