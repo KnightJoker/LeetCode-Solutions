@@ -33,7 +33,7 @@ print("Hello, World!")
 
 
 
-let a = AssignCookies_455()
+let a = BestTimeToBuyAndSellStockII_122()
 
 let r0 = TreeNode(543)
 let r1 = TreeNode(384)
@@ -48,5 +48,5 @@ r1.right = r3
 r2.right = r4
 
 
-print(a.findContentChildren([1,2], [1,2,3]))
+print(a.maxProfit([5,1,2,3,4]))
 
