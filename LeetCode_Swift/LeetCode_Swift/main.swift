@@ -33,7 +33,7 @@ print("Hello, World!")
 
 
 
-let a = BinaryTreeTilt_563()
+let a = MinimumIndexSumOfTwoLists_599()
 
 let r0 = TreeNode(1)
 let r1 = TreeNode(2)
@@ -48,5 +48,7 @@ r0.right = r2
 //r2.right = r4
 
 
-print(a.findTilt(r0))
+
+
+print(a.findRestaurant(["Shogun","Tapioca Express","Burger King","KFC"], ["KNN","KFC","Burger King","Tapioca Express","Shogun"]))
 
