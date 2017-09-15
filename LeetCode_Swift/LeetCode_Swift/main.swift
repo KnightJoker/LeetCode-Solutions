@@ -33,7 +33,7 @@ print("Hello, World!")
 
 
 
-let a = MinimumIndexSumOfTwoLists_599()
+let a = RelativeRanks_506()
 
 let r0 = TreeNode(1)
 let r1 = TreeNode(2)
@@ -50,5 +50,5 @@ r0.right = r2
 
 
 
-print(a.findRestaurant(["Shogun","Tapioca Express","Burger King","KFC"], ["KNN","KFC","Burger King","Tapioca Express","Shogun"]))
+print(a.findRelativeRanks([5, 4, 3, 2, 1]))
 
