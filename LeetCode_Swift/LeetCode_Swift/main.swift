@@ -33,7 +33,7 @@ print("Hello, World!")
 
 
 
-let a = MaximumProductOfThreeNumbers_628()
+let a = NumberOfBoomerangs_447()
 
 let r0 = TreeNode(1)
 let r1 = TreeNode(2)
@@ -50,5 +50,5 @@ r0.right = r2
 
 
 
-print(a.maximumProduct([-4,-3,-2,-1,60]))
+print(a.numberOfBoomerangs([[0,0],[1,0],[-1,0],[0,1],[0,-1]]))
 
