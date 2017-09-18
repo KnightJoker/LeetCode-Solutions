@@ -14,9 +14,10 @@ int main(int argc, const char * argv[]) {
     @autoreleasepool {
         // insert code here...
     
-        DetectCapital_520 *a = [[DetectCapital_520 alloc] init];
+//        DetectCapital_520 *a = [[DetectCapital_520 alloc] init];
+//        
+//        NSLog(@"~~~~%hhd",[a detectCapitalUse:@"LeetcOde"]);
         
-        NSLog(@"~~~~%hhd",[a detectCapitalUse:@"LeetcOde"]);
 
     }
     return 0;

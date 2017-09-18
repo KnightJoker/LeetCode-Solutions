@@ -33,7 +33,7 @@ print("Hello, World!")
 
 
 
-let a = RelativeRanks_506()
+let a = MaximumProductOfThreeNumbers_628()
 
 let r0 = TreeNode(1)
 let r1 = TreeNode(2)
@@ -50,5 +50,5 @@ r0.right = r2
 
 
 
-print(a.findRelativeRanks([5, 4, 3, 2, 1]))
+print(a.maximumProduct([-4,-3,-2,-1,60]))
 

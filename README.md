@@ -70,4 +70,5 @@ On non-macOS computers, please substitute `CTRL` for `⌘ `.
 |599|[Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/MinimumIndexSumOfTwoLists_599.swift)|Easy|
 |661|[Image Smoother](https://leetcode.com/problems/image-smoother/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/ImageSmoother_661.swift)|Easy|
 |506|[Relative Ranks](https://leetcode.com/problems/relative-ranks/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/RelativeRanks_506.swift)|Easy|
+|628|[Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/MaximumProductOfThreeNumbers_628.swift)|Easy|
 |535|[Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/#/description) | [Objective-C](./LeetCode_Solutions/LeetCode_Solutions/EncodeAndDecodeTinyURL_535.m)|Medium|
