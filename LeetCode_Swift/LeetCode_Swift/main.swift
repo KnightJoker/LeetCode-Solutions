@@ -33,7 +33,7 @@ print("Hello, World!")
 
 
 
-let a = BinaryWatch_401()
+let a = Base7_504()
 
 let r0 = TreeNode(1)
 let r1 = TreeNode(2)
@@ -50,5 +50,5 @@ r0.right = r2
 
 
 
-print(a.readBinaryWatch(1))
+print(a.convertToBase7(-7))
 

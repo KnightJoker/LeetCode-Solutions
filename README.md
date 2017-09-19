@@ -73,4 +73,5 @@ On non-macOS computers, please substitute `CTRL` for `⌘ `.
 |628|[Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/MaximumProductOfThreeNumbers_628.swift)|Easy|
 |447|[Number of Boomerangs](https://leetcode.com/problems/number-of-boomerangs/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/NumberOfBoomerangs_447.swift)|Easy|
 |401|[Binary Watch](https://leetcode.com/problems/binary-watch/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/BinaryWatch_401.swift)|Easy|
+|504|[Base 7](https://leetcode.com/problems/base-7/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/Base7_504.swift)|Easy|
 |535|[Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/#/description) | [Objective-C](./LeetCode_Solutions/LeetCode_Solutions/EncodeAndDecodeTinyURL_535.m)|Medium|
