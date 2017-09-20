@@ -33,7 +33,7 @@ print("Hello, World!")
 
 
 
-let a = MissingNumber_268()
+let a = LongestContinuousIncreasingSubsequence_674()
 
 let r0 = TreeNode(1)
 let r1 = TreeNode(2)
@@ -50,5 +50,5 @@ r0.right = r2
 
 
 
-print(a.missingNumber([0,1,3]))
+print(a.findLengthOfLCIS([1,3,5,7]))
 

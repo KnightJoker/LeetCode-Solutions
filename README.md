@@ -75,4 +75,5 @@ On non-macOS computers, please substitute `CTRL` for `⌘ `.
 |401|[Binary Watch](https://leetcode.com/problems/binary-watch/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/BinaryWatch_401.swift)|Easy|
 |504|[Base 7](https://leetcode.com/problems/base-7/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/Base7_504.swift)|Easy|
 |268|[Missing Number](https://leetcode.com/problems/missing-number/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/MissingNumber_268.swift)|Easy|
+|674|[Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/LongestContinuousIncreasingSubsequence_674.swift)|Easy|
 |535|[Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/#/description) | [Objective-C](./LeetCode_Solutions/LeetCode_Solutions/EncodeAndDecodeTinyURL_535.m)|Medium|
