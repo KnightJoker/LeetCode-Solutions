@@ -29,6 +29,7 @@
 		B5158F2E1F6F6A1500E66F61 /* NumberOfBoomerangs_447.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5158F2D1F6F6A1500E66F61 /* NumberOfBoomerangs_447.swift */; };
 		B5158F491F70B38700E66F61 /* BinaryWatch_401.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5158F481F70B38700E66F61 /* BinaryWatch_401.swift */; };
 		B5158F4B1F70FEBA00E66F61 /* Base7_504.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5158F4A1F70FEBA00E66F61 /* Base7_504.swift */; };
+		B5158F5B1F72031000E66F61 /* MissingNumber_268.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5158F5A1F72031000E66F61 /* MissingNumber_268.swift */; };
 		B51B73651F34781F0082A8FB /* FindTheDifference_389.swift in Sources */ = {isa = PBXBuildFile; fileRef = B51B73641F34781F0082A8FB /* FindTheDifference_389.swift */; };
 		B51B73701F3838E10082A8FB /* InvertBinaryTree_226.swift in Sources */ = {isa = PBXBuildFile; fileRef = B51B736F1F3838E10082A8FB /* InvertBinaryTree_226.swift */; };
 		B51B73721F3958D70082A8FB /* MoveZeroes_283.swift in Sources */ = {isa = PBXBuildFile; fileRef = B51B73711F3958D70082A8FB /* MoveZeroes_283.swift */; };
@@ -108,6 +109,7 @@
 		B5158F2D1F6F6A1500E66F61 /* NumberOfBoomerangs_447.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NumberOfBoomerangs_447.swift; sourceTree = "<group>"; };
 		B5158F481F70B38700E66F61 /* BinaryWatch_401.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BinaryWatch_401.swift; sourceTree = "<group>"; };
 		B5158F4A1F70FEBA00E66F61 /* Base7_504.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Base7_504.swift; sourceTree = "<group>"; };
+		B5158F5A1F72031000E66F61 /* MissingNumber_268.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MissingNumber_268.swift; sourceTree = "<group>"; };
 		B51B73641F34781F0082A8FB /* FindTheDifference_389.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FindTheDifference_389.swift; sourceTree = "<group>"; };
 		B51B736F1F3838E10082A8FB /* InvertBinaryTree_226.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = InvertBinaryTree_226.swift; sourceTree = "<group>"; };
 		B51B73711F3958D70082A8FB /* MoveZeroes_283.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MoveZeroes_283.swift; sourceTree = "<group>"; };
@@ -247,6 +249,7 @@
 				B5158F2D1F6F6A1500E66F61 /* NumberOfBoomerangs_447.swift */,
 				B5158F481F70B38700E66F61 /* BinaryWatch_401.swift */,
 				B5158F4A1F70FEBA00E66F61 /* Base7_504.swift */,
+				B5158F5A1F72031000E66F61 /* MissingNumber_268.swift */,
 			);
 			path = LeetCode_Swift;
 			sourceTree = "<group>";
@@ -357,6 +360,7 @@
 				227914A11F487B590056FE38 /* HappyNumber_202.swift in Sources */,
 				B5158EEE1F5F9B6900E66F61 /* ConstructStringFromBinaryTree_606.swift in Sources */,
 				B5158F2C1F6F5E7800E66F61 /* MaximumProductOfThreeNumbers_628.swift in Sources */,
+				B5158F5B1F72031000E66F61 /* MissingNumber_268.swift in Sources */,
 				B538FC8F1F3B2F3A00A1BC5C /* RansomNote_383.swift in Sources */,
 				B546D8D31F4FC07800D045D8 /* NextGreaterElementI_496.swift in Sources */,
 				B546D8DD1F53AF1A00D045D8 /* DetectCapital_520.swift in Sources */,

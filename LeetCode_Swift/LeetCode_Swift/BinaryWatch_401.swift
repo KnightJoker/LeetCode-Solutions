@@ -8,6 +8,10 @@
 
 import Foundation
 
+/*
+        When you see the code,you will say MDZZ.hahahah~
+ */
+
 class BinaryWatch_401 {
     func readBinaryWatch(_ num: Int) -> [String] {
         let hours = [["0"],
