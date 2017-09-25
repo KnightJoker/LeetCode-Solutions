@@ -79,4 +79,5 @@ On non-macOS computers, please substitute `CTRL` for `⌘ `.
 |674|[Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/LongestContinuousIncreasingSubsequence_674.swift)|Easy|
 |543|[Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/DiameterOfBinaryTree_543.swift)|Easy|
 |551|[Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/StudentAttendanceRecordI_551.swift)|Easy|
+|671|[Second Minimum Node In a Binary Tree](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/SecondMinimumNodeInABinaryTree_671.swift)|Easy|
 |535|[Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/#/description) | [Objective-C](./LeetCode_Solutions/LeetCode_Solutions/EncodeAndDecodeTinyURL_535.m)|Medium|

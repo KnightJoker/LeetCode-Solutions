@@ -33,22 +33,22 @@ print("Hello, World!")
 
 
 
-let a = StudentAttendanceRecordI_551()
+let a = SecondMinimumNodeInABinaryTree_671()
 
-let r0 = TreeNode(1)
+let r0 = TreeNode(2)
 let r1 = TreeNode(2)
-let r2 = TreeNode(3)
-let r3 = TreeNode(445)
-let r4 = TreeNode(699)
+let r2 = TreeNode(2)
+//let r3 = TreeNode(5)
+//let r4 = TreeNode(7)
 
 
 r0.left = r1
 r0.right = r2
-//r1.right = r3
+//r2.left = r3
 //r2.right = r4
 
 
 
 
-print(a.checkRecord("PPALLL"))
+print(a.findSecondMinimumValue(r0))
 
