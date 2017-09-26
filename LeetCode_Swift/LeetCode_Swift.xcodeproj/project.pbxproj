@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		227914A11F487B590056FE38 /* HappyNumber_202.swift in Sources */ = {isa = PBXBuildFile; fileRef = 227914A01F487B590056FE38 /* HappyNumber_202.swift */; };
+		B50BE95F1F79EEB6002ED20E /* ConvertSortedArrayToBinarySearchTree_108.swift in Sources */ = {isa = PBXBuildFile; fileRef = B50BE95E1F79EEB6002ED20E /* ConvertSortedArrayToBinarySearchTree_108.swift */; };
 		B5158EE41F5CFF9200E66F61 /* LongestUncommonSubsequenceI_521.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5158EE31F5CFF9200E66F61 /* LongestUncommonSubsequenceI_521.swift */; };
 		B5158EE81F5E406800E66F61 /* MaxConsecutiveOnes_485.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5158EE71F5E406800E66F61 /* MaxConsecutiveOnes_485.swift */; };
 		B5158EEA1F5E48C700E66F61 /* FindAllNumbersDisappearedInAnArray_448.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5158EE91F5E48C700E66F61 /* FindAllNumbersDisappearedInAnArray_448.swift */; };
@@ -93,6 +94,7 @@
 
 /* Begin PBXFileReference section */
 		227914A01F487B590056FE38 /* HappyNumber_202.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HappyNumber_202.swift; sourceTree = "<group>"; };
+		B50BE95E1F79EEB6002ED20E /* ConvertSortedArrayToBinarySearchTree_108.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ConvertSortedArrayToBinarySearchTree_108.swift; sourceTree = "<group>"; };
 		B5158EE31F5CFF9200E66F61 /* LongestUncommonSubsequenceI_521.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LongestUncommonSubsequenceI_521.swift; sourceTree = "<group>"; };
 		B5158EE71F5E406800E66F61 /* MaxConsecutiveOnes_485.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MaxConsecutiveOnes_485.swift; sourceTree = "<group>"; };
 		B5158EE91F5E48C700E66F61 /* FindAllNumbersDisappearedInAnArray_448.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FindAllNumbersDisappearedInAnArray_448.swift; sourceTree = "<group>"; };
@@ -265,6 +267,7 @@
 				B5158F671F73A03000E66F61 /* StudentAttendanceRecordI_551.swift */,
 				B5158F771F789BC200E66F61 /* ReverseStringII_541.swift */,
 				B5158F791F78A3B500E66F61 /* SecondMinimumNodeInABinaryTree_671.swift */,
+				B50BE95E1F79EEB6002ED20E /* ConvertSortedArrayToBinarySearchTree_108.swift */,
 			);
 			path = LeetCode_Swift;
 			sourceTree = "<group>";
@@ -339,6 +342,7 @@
 				B51B73761F3ABF260082A8FB /* LongestPalindrome_409.swift in Sources */,
 				B5158F681F73A03000E66F61 /* StudentAttendanceRecordI_551.swift in Sources */,
 				B5158EE41F5CFF9200E66F61 /* LongestUncommonSubsequenceI_521.swift in Sources */,
+				B50BE95F1F79EEB6002ED20E /* ConvertSortedArrayToBinarySearchTree_108.swift in Sources */,
 				B5694D081F5CEBA200C6832E /* AverageOfLevelsInBinaryTree_637.swift in Sources */,
 				B5A5522E1F4E76EC0032FE78 /* HammingDistance_461.swift in Sources */,
 				B5158EF31F60DCFB00E66F61 /* ConvertBSTToGreaterTree_538.swift in Sources */,

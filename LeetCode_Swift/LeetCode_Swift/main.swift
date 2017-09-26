@@ -33,7 +33,7 @@ print("Hello, World!")
 
 
 
-let a = SecondMinimumNodeInABinaryTree_671()
+let a = ConvertSortedArrayToBinarySearchTree_108()
 
 let r0 = TreeNode(2)
 let r1 = TreeNode(2)
@@ -50,5 +50,5 @@ r0.right = r2
 
 
 
-print(a.findSecondMinimumValue(r0))
+print(a.sortedArrayToBST([1,3]) ?? 0)
 
