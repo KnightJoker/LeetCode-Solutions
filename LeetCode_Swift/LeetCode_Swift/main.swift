@@ -33,7 +33,7 @@ print("Hello, World!")
 
 
 
-let a = ConvertSortedArrayToBinarySearchTree_108()
+let a = LongestHarmoniousSubsequence_594()
 
 let r0 = TreeNode(2)
 let r1 = TreeNode(2)
@@ -50,5 +50,5 @@ r0.right = r2
 
 
 
-print(a.sortedArrayToBST([1,3]) ?? 0)
+print(a.findLHS([1,3,2,2,5,2,3,7]))
 
