@@ -26,5 +26,6 @@ class LongestHarmoniousSubsequence_594 {
         }
         
         return count
+        
     }
 }

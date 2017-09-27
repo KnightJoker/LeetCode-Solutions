@@ -82,4 +82,5 @@ On non-macOS computers, please substitute `CTRL` for `⌘ `.
 |671|[Second Minimum Node In a Binary Tree](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/SecondMinimumNodeInABinaryTree_671.swift)|Easy|
 |108|[Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/ConvertSortedArrayToBinarySearchTree_108.swift)|Easy|
 |594|[Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/LongestHarmoniousSubsequence_594.swift)|Easy|
+|572|[Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/discuss/) | [Swift](./LeetCode_Swift/LeetCode_Swift/SubtreeOfAnotherTree_572.swift)|Easy|
 |535|[Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/#/description) | [Objective-C](./LeetCode_Solutions/LeetCode_Solutions/EncodeAndDecodeTinyURL_535.m)|Medium|
