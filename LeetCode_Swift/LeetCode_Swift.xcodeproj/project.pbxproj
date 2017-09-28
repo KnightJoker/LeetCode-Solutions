@@ -68,6 +68,7 @@
 		B546D8E71F56592B00D045D8 /* KeyboardRow_500.swift in Sources */ = {isa = PBXBuildFile; fileRef = B546D8E61F56592B00D045D8 /* KeyboardRow_500.swift */; };
 		B546D8F41F57A65E00D045D8 /* ReverseWordsInAStringIII_557.swift in Sources */ = {isa = PBXBuildFile; fileRef = B546D8F31F57A65E00D045D8 /* ReverseWordsInAStringIII_557.swift */; };
 		B546D8F61F57AE0500D045D8 /* DistributeCandies_575.swift in Sources */ = {isa = PBXBuildFile; fileRef = B546D8F51F57AE0500D045D8 /* DistributeCandies_575.swift */; };
+		B568496F1F7D075700E98E53 /* PathSumIII_437.swift in Sources */ = {isa = PBXBuildFile; fileRef = B568496E1F7D075700E98E53 /* PathSumIII_437.swift */; };
 		B5694CFD1F58F4E400C6832E /* ReshapeTheMatrix_566.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5694CFC1F58F4E400C6832E /* ReshapeTheMatrix_566.swift */; };
 		B5694CFF1F58FBBC00C6832E /* IslandPerimeter_463.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5694CFE1F58FBBC00C6832E /* IslandPerimeter_463.swift */; };
 		B5694D081F5CEBA200C6832E /* AverageOfLevelsInBinaryTree_637.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5694D071F5CEBA200C6832E /* AverageOfLevelsInBinaryTree_637.swift */; };
@@ -158,6 +159,7 @@
 		B546D8E61F56592B00D045D8 /* KeyboardRow_500.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = KeyboardRow_500.swift; sourceTree = "<group>"; };
 		B546D8F31F57A65E00D045D8 /* ReverseWordsInAStringIII_557.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ReverseWordsInAStringIII_557.swift; sourceTree = "<group>"; };
 		B546D8F51F57AE0500D045D8 /* DistributeCandies_575.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DistributeCandies_575.swift; sourceTree = "<group>"; };
+		B568496E1F7D075700E98E53 /* PathSumIII_437.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PathSumIII_437.swift; sourceTree = "<group>"; };
 		B5694CFC1F58F4E400C6832E /* ReshapeTheMatrix_566.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ReshapeTheMatrix_566.swift; sourceTree = "<group>"; };
 		B5694CFE1F58FBBC00C6832E /* IslandPerimeter_463.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IslandPerimeter_463.swift; sourceTree = "<group>"; };
 		B5694D071F5CEBA200C6832E /* AverageOfLevelsInBinaryTree_637.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AverageOfLevelsInBinaryTree_637.swift; sourceTree = "<group>"; };
@@ -280,6 +282,7 @@
 				B50BE9651F7B3903002ED20E /* SubtreeOfAnotherTree_572.swift */,
 				B50BE9671F7B45B7002ED20E /* BinaryTreeLevelOrderTraversalII_107.swift */,
 				B5C1DEC21F7C922800830C6F /* SetMismatch_645.swift */,
+				B568496E1F7D075700E98E53 /* PathSumIII_437.swift */,
 			);
 			path = LeetCode_Swift;
 			sourceTree = "<group>";
@@ -311,11 +314,12 @@
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 0830;
-				LastUpgradeCheck = 0830;
+				LastUpgradeCheck = 0900;
 				ORGANIZATIONNAME = KnighhtJoker;
 				TargetAttributes = {
 					B5A00CC81F3177E30080BBF8 = {
 						CreatedOnToolsVersion = 8.3.1;
+						LastSwiftMigration = 0900;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -407,6 +411,7 @@
 				B51B73721F3958D70082A8FB /* MoveZeroes_283.swift in Sources */,
 				B5A00CDC1F319F220080BBF8 /* ReverseString_344.swift in Sources */,
 				B50BE9611F79F582002ED20E /* LongestHarmoniousSubsequence_594.swift in Sources */,
+				B568496F1F7D075700E98E53 /* PathSumIII_437.swift in Sources */,
 				B538FCD51F43E05200A1BC5C /* FizzBuzz_412.swift in Sources */,
 				B538FD1D1F452FB600A1BC5C /* AddStrings_415.swift in Sources */,
 				B5158F071F66238800E66F61 /* MinimumAbsoluteDifferenceInBST_530.swift in Sources */,
@@ -433,7 +438,9 @@
 				CLANG_CXX_LIBRARY = "libc++";
 				CLANG_ENABLE_MODULES = YES;
 				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
 				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
 				CLANG_WARN_CONSTANT_CONVERSION = YES;
 				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
 				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
@@ -441,7 +448,11 @@
 				CLANG_WARN_ENUM_CONVERSION = YES;
 				CLANG_WARN_INFINITE_RECURSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
 				CLANG_WARN_SUSPICIOUS_MOVE = YES;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
@@ -482,7 +493,9 @@
 				CLANG_CXX_LIBRARY = "libc++";
 				CLANG_ENABLE_MODULES = YES;
 				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
 				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
 				CLANG_WARN_CONSTANT_CONVERSION = YES;
 				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
 				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
@@ -490,7 +503,11 @@
 				CLANG_WARN_ENUM_CONVERSION = YES;
 				CLANG_WARN_INFINITE_RECURSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
 				CLANG_WARN_SUSPICIOUS_MOVE = YES;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
@@ -510,6 +527,7 @@
 				MACOSX_DEPLOYMENT_TARGET = 10.12;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				SDKROOT = macosx;
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
 			};
 			name = Release;
 		};
@@ -518,7 +536,8 @@
 			buildSettings = {
 				MACOSX_DEPLOYMENT_TARGET = 10.11;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 3.0;
+				SWIFT_SWIFT3_OBJC_INFERENCE = On;
+				SWIFT_VERSION = 4.0;
 			};
 			name = Debug;
 		};
@@ -527,7 +546,8 @@
 			buildSettings = {
 				MACOSX_DEPLOYMENT_TARGET = 10.11;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 3.0;
+				SWIFT_SWIFT3_OBJC_INFERENCE = On;
+				SWIFT_VERSION = 4.0;
 			};
 			name = Release;
 		};

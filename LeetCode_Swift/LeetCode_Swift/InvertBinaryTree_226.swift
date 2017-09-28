@@ -17,8 +17,8 @@ public class InvertBinaryTree_226 {
             root?.left = root?.right
             root?.right = tempTree
             
-            invertTree(root?.left)
-            invertTree(root?.right)
+           _ = invertTree(root?.left)
+           _ = invertTree(root?.right)
             
         } else {
             return nil
