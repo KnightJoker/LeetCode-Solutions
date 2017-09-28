@@ -33,7 +33,7 @@ print("Hello, World!")
 
 
 
-let a = LongestHarmoniousSubsequence_594()
+let a = SetMismatch_645()
 
 let r0 = TreeNode(2)
 let r1 = TreeNode(2)
@@ -50,5 +50,5 @@ r0.right = r2
 
 
 
-print(a.findLHS([1,3,2,2,5,2,3,7]))
+print(a.findErrorNums([1,2,2,4]))
 
