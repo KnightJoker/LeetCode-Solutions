@@ -33,7 +33,7 @@ print("Hello, World!")
 
 
 
-let a = SetMismatch_645()
+let a = SearchInsertPosition_35()
 
 let r0 = TreeNode(2)
 let r1 = TreeNode(2)
@@ -50,5 +50,5 @@ r0.right = r2
 
 
 
-print(a.findErrorNums([1,2,2,4]))
+print(a.searchInsert([1,3,5,6],0))
 
