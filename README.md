@@ -87,4 +87,5 @@ On non-macOS computers, please substitute `CTRL` for `⌘ `.
 |645|[Set Mismatch](https://leetcode.com/problems/set-mismatch/discuss/) | [Swift](./LeetCode_Swift/LeetCode_Swift/SetMismatch_645.swift)|Easy|
 |437|[Path Sum III](https://leetcode.com/problems/path-sum-iii/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/PathSumIII_437.swift)|Easy|
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/SearchInsertPosition_35.swift)|Easy|
+|53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/ MaximumSubarray_53.swift)|Easy|
 |535|[Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/#/description) | [Objective-C](./LeetCode_Solutions/LeetCode_Solutions/EncodeAndDecodeTinyURL_535.m)|Medium|
