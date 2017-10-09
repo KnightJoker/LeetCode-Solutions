@@ -33,7 +33,7 @@ print("Hello, World!")
 
 
 
-let a = SearchInsertPosition_35()
+let a = RemoveElement_27()
 
 let r0 = TreeNode(2)
 let r1 = TreeNode(2)
@@ -48,7 +48,9 @@ r0.right = r2
 //r2.right = r4
 
 
+var a1 = [3,2,2,3]
 
 
-print(a.searchInsert([1,3,5,6],0))
+print(a.removeElement(&a1, 3))
+
 
