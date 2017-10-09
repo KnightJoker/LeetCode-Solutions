@@ -89,4 +89,5 @@ On non-macOS computers, please substitute `CTRL` for `⌘ `.
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/MaximumSubarray_53.swift)|Easy|
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/SearchInsertPosition_35.swift)|Easy|
 |27|[Remove Element](https://leetcode.com/problems/remove-element/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/RemoveElement_27.swift)|Easy|
+|263|[Ugly Number](https://leetcode.com/problems/ugly-number/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/UglyNumber_263.swift)|Easy|
 |535|[Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/#/description) | [Objective-C](./LeetCode_Solutions/LeetCode_Solutions/EncodeAndDecodeTinyURL_535.m)|Medium|
