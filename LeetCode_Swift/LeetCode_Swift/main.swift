@@ -33,7 +33,7 @@ print("Hello, World!")
 
 
 
-let a = UglyNumber_263()
+let a = HouseRobber_198()
 
 let r0 = TreeNode(2)
 let r1 = TreeNode(2)
@@ -51,6 +51,6 @@ r0.right = r2
 //var a1 = [3,2,2,3]
 
 
-print(a.isUgly(10))
+print(a.rob([2,1,1,2]))
 
 
