@@ -90,4 +90,5 @@ On non-macOS computers, please substitute `CTRL` for `⌘ `.
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/SearchInsertPosition_35.swift)|Easy|
 |27|[Remove Element](https://leetcode.com/problems/remove-element/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/RemoveElement_27.swift)|Easy|
 |263|[Ugly Number](https://leetcode.com/problems/ugly-number/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/UglyNumber_263.swift)|Easy|
+|21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/MergeTwoSortedLists_21.swift)|Easy|
 |535|[Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/#/description) | [Objective-C](./LeetCode_Solutions/LeetCode_Solutions/EncodeAndDecodeTinyURL_535.m)|Medium|
