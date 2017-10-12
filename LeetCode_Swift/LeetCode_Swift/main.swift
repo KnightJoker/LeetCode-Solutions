@@ -33,7 +33,7 @@ print("Hello, World!")
 
 
 
-let a = TwoSum_1()
+let a = PascalsTriangle_118()
 
 let r0 = TreeNode(2)
 let r1 = TreeNode(2)
@@ -50,7 +50,7 @@ r0.right = r2
 
 //var a1 = [3,2,2,3]
 
-
-print(a.twoSum([3,2,4], 6))
+ 
+print(a.generate(5))
 
 

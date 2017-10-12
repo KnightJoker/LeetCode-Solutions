@@ -94,4 +94,5 @@ On non-macOS computers, please substitute `CTRL` for `⌘ `.
 |198|[House Robber](https://leetcode.com/problems/house-robber/discuss/) | [Swift](./LeetCode_Swift/LeetCode_Swift/HouseRobber_198.swift)|Easy|
 |257|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/discuss/) | [Swift](./LeetCode_Swift/LeetCode_Swift/BinaryTreePaths_257.swift)|Easy|
 |1|[Two Sum](https://leetcode.com/problems/two-sum/discuss/) | [Swift](./LeetCode_Swift/LeetCode_Swift/TwoSum_1.swift)|Easy|
+|118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/PascalsTriangle_118.swift)|Easy|
 |535|[Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/#/description) | [Objective-C](./LeetCode_Solutions/LeetCode_Solutions/EncodeAndDecodeTinyURL_535.m)|Medium|
