@@ -33,7 +33,7 @@ print("Hello, World!")
 
 
 
-let a = HouseRobber_198()
+let a = TwoSum_1()
 
 let r0 = TreeNode(2)
 let r1 = TreeNode(2)
@@ -51,6 +51,6 @@ r0.right = r2
 //var a1 = [3,2,2,3]
 
 
-print(a.rob([2,1,1,2]))
+print(a.twoSum([3,2,4], 6))
 
 
