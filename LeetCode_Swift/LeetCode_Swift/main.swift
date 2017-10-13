@@ -33,7 +33,7 @@ print("Hello, World!")
 
 
 
-let a = PascalsTriangle_118()
+let a = PowerOfFour_342()
 
 let r0 = TreeNode(2)
 let r1 = TreeNode(2)
@@ -51,6 +51,6 @@ r0.right = r2
 //var a1 = [3,2,2,3]
 
  
-print(a.generate(5))
+print(a.isPowerOfFour(0))
 
 
