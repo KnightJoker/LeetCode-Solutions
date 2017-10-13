@@ -8,6 +8,8 @@
 
 import Foundation
 
+// 13/10/2017 beat 100%
+
 class PowerOfFour_342 {
     func isPowerOfFour(_ num: Int) -> Bool {
 
