@@ -98,4 +98,5 @@ On non-macOS computers, please substitute `CTRL` for `⌘ `.
 |118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/PascalsTriangle_118.swift)|Easy|
 |342|[Power of Four](https://leetcode.com/problems/power-of-four/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/PowerOfFour_342.swift)|Easy|
 |101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/SymmetricTree_101.swift)|Easy|
+|367|[Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/discuss/) | [Swift](./LeetCode_Swift/LeetCode_Swift/ValidPerfectSquare_367.swift)|Easy|
 |535|[Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/#/description) | [Objective-C](./LeetCode_Solutions/LeetCode_Solutions/EncodeAndDecodeTinyURL_535.m)|Medium|

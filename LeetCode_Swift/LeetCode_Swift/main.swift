@@ -33,7 +33,7 @@ print("Hello, World!")
 
 
 
-let a = PowerOfFour_342()
+let a = ValidPerfectSquare_367()
 
 let r0 = TreeNode(2)
 let r1 = TreeNode(2)
@@ -51,6 +51,6 @@ r0.right = r2
 //var a1 = [3,2,2,3]
 
  
-print(a.isPowerOfFour(0))
+print(a.isPerfectSquare(1))
 
 

@@ -20,7 +20,6 @@ class Solution {
         return judgeTreeIsEqual(p!.left, q!.right) && judgeTreeIsEqual(p!.right, q!.left)
     }
 
-     // 另外一种形式的反转二叉树
     func isSymmetric(_ root: TreeNode?) -> Bool {
         guard let root = root else {
             return true
