@@ -100,4 +100,5 @@ On non-macOS computers, please substitute `CTRL` for `⌘ `.
 |101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/SymmetricTree_101.swift)|Easy|
 |367|[Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/discuss/) | [Swift](./LeetCode_Swift/LeetCode_Swift/ValidPerfectSquare_367.swift)|Easy|
 |66|[Plus One](https://leetcode.com/problems/plus-one/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/PlusOne_66.swift)|Easy|
+|459|[Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/RepeatedSubstringPattern_459.swift)|Easy|
 |535|[Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/#/description) | [Objective-C](./LeetCode_Solutions/LeetCode_Solutions/EncodeAndDecodeTinyURL_535.m)|Medium|

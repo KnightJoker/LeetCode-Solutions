@@ -33,7 +33,7 @@ print("Hello, World!")
 
 
 
-let a = ValidPerfectSquare_367()
+let a = RepeatedSubstringPattern_459()
 
 let r0 = TreeNode(2)
 let r1 = TreeNode(2)
@@ -51,6 +51,6 @@ r0.right = r2
 //var a1 = [3,2,2,3]
 
  
-print(a.isPerfectSquare(1))
+print(a.repeatedSubstringPattern("abcabcabcabc"))
 
 
