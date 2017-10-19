@@ -33,7 +33,7 @@ print("Hello, World!")
 
 
 
-let a = RepeatedSubstringPattern_459()
+let a = RemoveDuplicatesFromSortedArray_26()
 
 let r0 = TreeNode(2)
 let r1 = TreeNode(2)
@@ -48,9 +48,9 @@ r0.right = r2
 //r2.right = r4
 
 
-//var a1 = [3,2,2,3]
+var a1 = [3,2,2,3]
 
  
-print(a.repeatedSubstringPattern("abcabcabcabc"))
+print(a.removeDuplicates(&a1))
 
 
