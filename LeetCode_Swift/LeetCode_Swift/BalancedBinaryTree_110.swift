@@ -11,6 +11,17 @@ import Foundation
 class BalancedBinaryTree_110 {
     func isBalanced(_ root: TreeNode?) -> Bool {
         
-        return true 
+        guard let root = root else {
+            return true
+        }
+        return abs(getDepth(root: root.right) - getDepth(root: root.left)) < 2 && isBalanced(root.left) && isBalanced(root.right)
+    }
+    
+    func getDepth(root: TreeNode?) ->Int {
+        
+        guard let root = root else {
+            return 0
+        }
+        return 1 + max(getDepth(root: root.left), getDepth(root: root.right))
     }
 }

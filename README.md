@@ -102,4 +102,5 @@ On non-macOS computers, please substitute `CTRL` for `⌘ `.
 |66|[Plus One](https://leetcode.com/problems/plus-one/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/PlusOne_66.swift)|Easy|
 |459|[Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/RepeatedSubstringPattern_459.swift)|Easy|
 |9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/discuss/) | [Swift](./LeetCode_Swift/LeetCode_Swift/PalindromeNumber_9.swift)|Easy|
+|110|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/BalancedBinaryTree_110.swift)|Easy|
 |535|[Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/#/description) | [Objective-C](./LeetCode_Solutions/LeetCode_Solutions/EncodeAndDecodeTinyURL_535.m)|Medium|
