@@ -33,7 +33,7 @@ print("Hello, World!")
 
 
 
-let a = RemoveDuplicatesFromSortedArray_26()
+let a = MaximumAverageSubarrayI_643()
 
 let r0 = TreeNode(2)
 let r1 = TreeNode(2)
@@ -51,6 +51,6 @@ r0.right = r2
 var a1 = [3,2,2,3]
 
  
-print(a.removeDuplicates(&a1))
+print(a.findMaxAverage([1,12,-5,-6,50,3], 4))
 
 

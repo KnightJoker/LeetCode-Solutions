@@ -104,4 +104,5 @@ On non-macOS computers, please substitute `CTRL` for `⌘ `.
 |9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/discuss/) | [Swift](./LeetCode_Swift/LeetCode_Swift/PalindromeNumber_9.swift)|Easy|
 |110|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/BalancedBinaryTree_110.swift)|Easy|
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/RemoveDuplicatesFromSortedArray_26.swift)|Easy|
+|643|[Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/MaximumAverageSubarrayI_643.swift)|Easy|
 |535|[Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/#/description) | [Objective-C](./LeetCode_Solutions/LeetCode_Solutions/EncodeAndDecodeTinyURL_535.m)|Medium|
