@@ -106,4 +106,5 @@ On non-macOS computers, please substitute `CTRL` for `⌘ `.
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/RemoveDuplicatesFromSortedArray_26.swift)|Easy|
 |643|[Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/MaximumAverageSubarrayI_643.swift)|Easy|
 |441|[Arranging Coins](https://leetcode.com/problems/arranging-coins/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/ArrangingCoins_441.swift)|Easy|
+|501|[Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/FindModeInBinarySearchTree_501.swift)|Easy|
 |535|[Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/#/description) | [Objective-C](./LeetCode_Solutions/LeetCode_Solutions/EncodeAndDecodeTinyURL_535.m)|Medium|
