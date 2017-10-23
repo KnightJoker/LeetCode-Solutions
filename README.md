@@ -96,6 +96,7 @@ On non-macOS computers, please substitute `CTRL` for `⌘ `.
 |257|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/discuss/) | [Swift](./LeetCode_Swift/LeetCode_Swift/BinaryTreePaths_257.swift)|Easy|
 |1|[Two Sum](https://leetcode.com/problems/two-sum/discuss/) | [Swift](./LeetCode_Swift/LeetCode_Swift/TwoSum_1.swift)|Easy|
 |118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/PascalsTriangle_118.swift)|Easy|
+|119|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/PascalsTriangleII_119.swift)|Easy|
 |342|[Power of Four](https://leetcode.com/problems/power-of-four/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/PowerOfFour_342.swift)|Easy|
 |101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/SymmetricTree_101.swift)|Easy|
 |367|[Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/discuss/) | [Swift](./LeetCode_Swift/LeetCode_Swift/ValidPerfectSquare_367.swift)|Easy|
