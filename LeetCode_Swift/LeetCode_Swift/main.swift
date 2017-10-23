@@ -33,7 +33,7 @@ print("Hello, World!")
 
 
 
-let a = ArrangingCoins_441()
+let a = PascalsTriangleII_119()
 
 let r0 = TreeNode(2)
 let r1 = TreeNode(2)
@@ -51,6 +51,6 @@ r0.right = r2
 var a1 = [3,2,2,3]
 
  
-print(a.arrangeCoins(8))
+print(a.getRow(1))
 
 

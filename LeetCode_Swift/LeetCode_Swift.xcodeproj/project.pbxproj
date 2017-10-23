@@ -73,6 +73,7 @@
 		B53EC55C1F998DBD003122AC /* MaximumAverageSubarrayI_643.swift in Sources */ = {isa = PBXBuildFile; fileRef = B53EC55B1F998DBD003122AC /* MaximumAverageSubarrayI_643.swift */; };
 		B53EC55E1F9998B3003122AC /* ArrangingCoins_441.swift in Sources */ = {isa = PBXBuildFile; fileRef = B53EC55D1F9998B3003122AC /* ArrangingCoins_441.swift */; };
 		B53EC5681F9D8552003122AC /* FindModeInBinarySearchTree_501.swift in Sources */ = {isa = PBXBuildFile; fileRef = B53EC5671F9D8552003122AC /* FindModeInBinarySearchTree_501.swift */; };
+		B53EC56A1F9D8B3F003122AC /* PascalsTriangleII_119.swift in Sources */ = {isa = PBXBuildFile; fileRef = B53EC5691F9D8B3F003122AC /* PascalsTriangleII_119.swift */; };
 		B546D8D11F4FBDB200D045D8 /* NumberComplement_476.swift in Sources */ = {isa = PBXBuildFile; fileRef = B546D8D01F4FBDB200D045D8 /* NumberComplement_476.swift */; };
 		B546D8D31F4FC07800D045D8 /* NextGreaterElementI_496.swift in Sources */ = {isa = PBXBuildFile; fileRef = B546D8D21F4FC07800D045D8 /* NextGreaterElementI_496.swift */; };
 		B546D8DD1F53AF1A00D045D8 /* DetectCapital_520.swift in Sources */ = {isa = PBXBuildFile; fileRef = B546D8DC1F53AF1A00D045D8 /* DetectCapital_520.swift */; };
@@ -185,6 +186,7 @@
 		B53EC55B1F998DBD003122AC /* MaximumAverageSubarrayI_643.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximumAverageSubarrayI_643.swift; sourceTree = "<group>"; };
 		B53EC55D1F9998B3003122AC /* ArrangingCoins_441.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArrangingCoins_441.swift; sourceTree = "<group>"; };
 		B53EC5671F9D8552003122AC /* FindModeInBinarySearchTree_501.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindModeInBinarySearchTree_501.swift; sourceTree = "<group>"; };
+		B53EC5691F9D8B3F003122AC /* PascalsTriangleII_119.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PascalsTriangleII_119.swift; sourceTree = "<group>"; };
 		B546D8D01F4FBDB200D045D8 /* NumberComplement_476.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NumberComplement_476.swift; sourceTree = "<group>"; };
 		B546D8D21F4FC07800D045D8 /* NextGreaterElementI_496.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NextGreaterElementI_496.swift; sourceTree = "<group>"; };
 		B546D8DC1F53AF1A00D045D8 /* DetectCapital_520.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DetectCapital_520.swift; sourceTree = "<group>"; };
@@ -346,6 +348,7 @@
 				B53EC55B1F998DBD003122AC /* MaximumAverageSubarrayI_643.swift */,
 				B53EC55D1F9998B3003122AC /* ArrangingCoins_441.swift */,
 				B53EC5671F9D8552003122AC /* FindModeInBinarySearchTree_501.swift */,
+				B53EC5691F9D8B3F003122AC /* PascalsTriangleII_119.swift */,
 			);
 			path = LeetCode_Swift;
 			sourceTree = "<group>";
@@ -430,6 +433,7 @@
 				B50BE9681F7B45B7002ED20E /* BinaryTreeLevelOrderTraversalII_107.swift in Sources */,
 				B5694D081F5CEBA200C6832E /* AverageOfLevelsInBinaryTree_637.swift in Sources */,
 				B5A5522E1F4E76EC0032FE78 /* HammingDistance_461.swift in Sources */,
+				B53EC56A1F9D8B3F003122AC /* PascalsTriangleII_119.swift in Sources */,
 				B5158EF31F60DCFB00E66F61 /* ConvertBSTToGreaterTree_538.swift in Sources */,
 				B5158F1F1F6A17D000E66F61 /* ImageSmoother_661.swift in Sources */,
 				B5A00CCD1F3177E30080BBF8 /* main.swift in Sources */,
