@@ -110,4 +110,5 @@ On non-macOS computers, please substitute `CTRL` for `⌘ `.
 |501|[Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/FindModeInBinarySearchTree_501.swift)|Easy|
 |434|[Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string/discuss/) | [Swift](./LeetCode_Swift/LeetCode_Swift/NumberOfSegmentsInAString_434.swift)|Easy|
 |172|[Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/discuss/) | [Swift](./LeetCode_Swift/LeetCode_Swift/FactorialTrailingZeroes_172.swift)|Easy|
+|38|[Count and Say](https://leetcode.com/problems/count-and-say/discuss/) | [Swift](./LeetCode_Swift/LeetCode_Swift/CountAndSay_38.swift)|Easy|
 |535|[Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/#/description) | [Objective-C](./LeetCode_Solutions/LeetCode_Solutions/EncodeAndDecodeTinyURL_535.m)|Medium|
