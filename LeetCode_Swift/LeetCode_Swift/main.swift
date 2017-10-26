@@ -33,7 +33,7 @@ print("Hello, World!")
 
 
 
-let a = PathSum_112()
+let a = PerfectNumber_507()
 
 let r0 = TreeNode(1)
 let r1 = TreeNode(2)
@@ -51,6 +51,6 @@ let r2 = TreeNode(2)
 var a1 = [3,2,2,3]
 
  
-print(a.hasPathSum(nil, 0))
+print(a.checkPerfectNumber(496))
 
 
