@@ -34,8 +34,6 @@ class CountAndSay_38 {
             result = temp
             num -= 1
         }
-        
-        
         return result
     }
 }

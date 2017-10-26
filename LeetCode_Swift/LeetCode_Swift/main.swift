@@ -33,17 +33,17 @@ print("Hello, World!")
 
 
 
-let a = CountAndSay_38()
+let a = PathSum_112()
 
-let r0 = TreeNode(2)
+let r0 = TreeNode(1)
 let r1 = TreeNode(2)
 let r2 = TreeNode(2)
 //let r3 = TreeNode(5)
 //let r4 = TreeNode(7)
 
 
-r0.left = r1
-r0.right = r2
+//r0.left = r1
+//r0.right = r2
 //r2.left = r3
 //r2.right = r4
 
@@ -51,6 +51,6 @@ r0.right = r2
 var a1 = [3,2,2,3]
 
  
-print(a.countAndSay(5))
+print(a.hasPathSum(nil, 0))
 
 
