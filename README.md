@@ -115,4 +115,5 @@ On non-macOS computers, please substitute `CTRL` for `⌘ `.
 |507|[Perfect Number](https://leetcode.com/problems/perfect-number/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/PerfectNumber_507.swift)|Easy|
 |205|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/IsomorphicStrings_205.swift)|Easy|
 |438|[Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/FindAllAnagramsInAString_438.swift)|Easy|
+|20|[Vaild Parentheses](https://leetcode.com/problems/valid-parentheses/discuss/) | [Swift](./LeetCode_Swift/LeetCode_Swift/ValidParentheses_20.swift)|Easy|
 |535|[Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/#/description) | [Objective-C](./LeetCode_Solutions/LeetCode_Solutions/EncodeAndDecodeTinyURL_535.m)|Medium|
