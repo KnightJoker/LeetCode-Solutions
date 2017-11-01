@@ -102,6 +102,7 @@
 		B580DFEB1FA191DA00A1D9A8 /* PerfectNumber_507.swift in Sources */ = {isa = PBXBuildFile; fileRef = B580DFEA1FA191DA00A1D9A8 /* PerfectNumber_507.swift */; };
 		B580DFFC1FA6BC0A00A1D9A8 /* FindAllAnagramsInAString_438.swift in Sources */ = {isa = PBXBuildFile; fileRef = B580DFFB1FA6BC0A00A1D9A8 /* FindAllAnagramsInAString_438.swift */; };
 		B580E00D1FA8107500A1D9A8 /* ValidParentheses_20.swift in Sources */ = {isa = PBXBuildFile; fileRef = B580E00C1FA8107500A1D9A8 /* ValidParentheses_20.swift */; };
+		B580E01E1FA96F0A00A1D9A8 /* WordPattern_290.swift in Sources */ = {isa = PBXBuildFile; fileRef = B580E01D1FA96F0A00A1D9A8 /* WordPattern_290.swift */; };
 		B5A00CCD1F3177E30080BBF8 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5A00CCC1F3177E30080BBF8 /* main.swift */; };
 		B5A00CDC1F319F220080BBF8 /* ReverseString_344.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5A00CDB1F319F220080BBF8 /* ReverseString_344.swift */; };
 		B5A00CDE1F31AA210080BBF8 /* AddDigits_258.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5A00CDD1F31AA210080BBF8 /* AddDigits_258.swift */; };
@@ -223,6 +224,7 @@
 		B580DFEA1FA191DA00A1D9A8 /* PerfectNumber_507.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PerfectNumber_507.swift; sourceTree = "<group>"; };
 		B580DFFB1FA6BC0A00A1D9A8 /* FindAllAnagramsInAString_438.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindAllAnagramsInAString_438.swift; sourceTree = "<group>"; };
 		B580E00C1FA8107500A1D9A8 /* ValidParentheses_20.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ValidParentheses_20.swift; sourceTree = "<group>"; };
+		B580E01D1FA96F0A00A1D9A8 /* WordPattern_290.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WordPattern_290.swift; sourceTree = "<group>"; };
 		B5A00CC91F3177E30080BBF8 /* LeetCode_Swift */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = LeetCode_Swift; sourceTree = BUILT_PRODUCTS_DIR; };
 		B5A00CCC1F3177E30080BBF8 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		B5A00CDB1F319F220080BBF8 /* ReverseString_344.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ReverseString_344.swift; sourceTree = "<group>"; };
@@ -373,6 +375,7 @@
 				227A02E11FA4C33100D21791 /* IsomorphicStrings_205.swift */,
 				B580DFFB1FA6BC0A00A1D9A8 /* FindAllAnagramsInAString_438.swift */,
 				B580E00C1FA8107500A1D9A8 /* ValidParentheses_20.swift */,
+				B580E01D1FA96F0A00A1D9A8 /* WordPattern_290.swift */,
 			);
 			path = LeetCode_Swift;
 			sourceTree = "<group>";
@@ -452,6 +455,7 @@
 				B5A5522A1F4C1E7A0032FE78 /* ClimbingStairs_70.swift in Sources */,
 				B5158F7A1F78A3B500E66F61 /* SecondMinimumNodeInABinaryTree_671.swift in Sources */,
 				B51B73741F3AAAB40082A8FB /* SumOfLeftLeaves_404.swift in Sources */,
+				B580E01E1FA96F0A00A1D9A8 /* WordPattern_290.swift in Sources */,
 				B51B73761F3ABF260082A8FB /* LongestPalindrome_409.swift in Sources */,
 				B5158F681F73A03000E66F61 /* StudentAttendanceRecordI_551.swift in Sources */,
 				B5158EE41F5CFF9200E66F61 /* LongestUncommonSubsequenceI_521.swift in Sources */,
