@@ -33,7 +33,7 @@ print("Hello, World!")
 
 
 
-let a = WordPattern_290()
+let a = AddBinary_67()
 
 let r0 = TreeNode(1)
 let r1 = TreeNode(2)
@@ -48,9 +48,7 @@ let r2 = TreeNode(2)
 //r2.right = r4
 
 
-var a1 = [3,2,2,3]
 
- 
-print(a.wordPattern(pattern: "abba", "dog cat cat fish"))
+print(a.addBinary("11", "1"))
 
 
