@@ -28,12 +28,14 @@ class ListNode {
     }
 }
 
+var hello = "Hello, World!"
 
-print("Hello, World!")
+////"Hello, World!".remove(at: "Hello, World!".startIndex)
 
 
+//String()
 
-let a = LongestWordInDictionary_720()
+let a = ValidPalindromeII_680()
 
 let r0 = TreeNode(1)
 let r1 = TreeNode(2)
@@ -49,6 +51,6 @@ let r2 = TreeNode(2)
 
 
 
-print(a.longestWord(["a", "banana", "app", "appl", "ap", "apply", "apple"]))
+print(a.validPalindrome("abcae"))
 
 

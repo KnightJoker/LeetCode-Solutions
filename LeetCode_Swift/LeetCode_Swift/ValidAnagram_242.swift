@@ -10,13 +10,7 @@ import Foundation
 
 public class ValidAnagram_242 {
     func isAnagram(_ s: String, _ t: String) -> Bool {
-        
-        if self.getArrayWithString(s) == self.getArrayWithString(t) {
-            return true
-        } else {
-            return false
-        }
-                
+        return self.getArrayWithString(s) == self.getArrayWithString(t)
     }
     
     func getArrayWithString(_ s:String) -> Array<Character> {

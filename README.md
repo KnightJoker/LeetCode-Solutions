@@ -118,4 +118,5 @@ On non-macOS computers, please substitute `CTRL` for `⌘ `.
 |20|[Vaild Parentheses](https://leetcode.com/problems/valid-parentheses/discuss/) | [Swift](./LeetCode_Swift/LeetCode_Swift/ValidParentheses_20.swift)|Easy|
 |290|[Word Pattern](https://leetcode.com/problems/word-pattern/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/WordPattern_290.swift)|Easy|
 |720|[Longest Word in Dictionary](https://leetcode.com/problems/longest-word-in-dictionary/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/LongestWordInDictionary_720.swift)|Easy|
+|680|[Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/ValidPalindromeII_680.swift)|Easy|
 |535|[Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/#/description) | [Objective-C](./LeetCode_Solutions/LeetCode_Solutions/EncodeAndDecodeTinyURL_535.m)|Medium|
