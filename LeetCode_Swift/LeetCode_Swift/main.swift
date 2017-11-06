@@ -33,7 +33,7 @@ print("Hello, World!")
 
 
 
-let a = AddBinary_67()
+let a = LongestWordInDictionary_720()
 
 let r0 = TreeNode(1)
 let r1 = TreeNode(2)
@@ -49,6 +49,6 @@ let r2 = TreeNode(2)
 
 
 
-print(a.addBinary("11", "1"))
+print(a.longestWord(["a", "banana", "app", "appl", "ap", "apply", "apple"]))
 
 

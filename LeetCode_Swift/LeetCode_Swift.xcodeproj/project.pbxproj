@@ -104,6 +104,7 @@
 		B580E00D1FA8107500A1D9A8 /* ValidParentheses_20.swift in Sources */ = {isa = PBXBuildFile; fileRef = B580E00C1FA8107500A1D9A8 /* ValidParentheses_20.swift */; };
 		B580E01E1FA96F0A00A1D9A8 /* WordPattern_290.swift in Sources */ = {isa = PBXBuildFile; fileRef = B580E01D1FA96F0A00A1D9A8 /* WordPattern_290.swift */; };
 		B580E0381FAAB3D200A1D9A8 /* AddBinary_67.swift in Sources */ = {isa = PBXBuildFile; fileRef = B580E0371FAAB3D200A1D9A8 /* AddBinary_67.swift */; };
+		B580E0511FAFF8FE00A1D9A8 /* LongestWordInDictionary_720.swift in Sources */ = {isa = PBXBuildFile; fileRef = B580E0501FAFF8FE00A1D9A8 /* LongestWordInDictionary_720.swift */; };
 		B5A00CCD1F3177E30080BBF8 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5A00CCC1F3177E30080BBF8 /* main.swift */; };
 		B5A00CDC1F319F220080BBF8 /* ReverseString_344.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5A00CDB1F319F220080BBF8 /* ReverseString_344.swift */; };
 		B5A00CDE1F31AA210080BBF8 /* AddDigits_258.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5A00CDD1F31AA210080BBF8 /* AddDigits_258.swift */; };
@@ -227,6 +228,7 @@
 		B580E00C1FA8107500A1D9A8 /* ValidParentheses_20.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ValidParentheses_20.swift; sourceTree = "<group>"; };
 		B580E01D1FA96F0A00A1D9A8 /* WordPattern_290.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WordPattern_290.swift; sourceTree = "<group>"; };
 		B580E0371FAAB3D200A1D9A8 /* AddBinary_67.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddBinary_67.swift; sourceTree = "<group>"; };
+		B580E0501FAFF8FE00A1D9A8 /* LongestWordInDictionary_720.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongestWordInDictionary_720.swift; sourceTree = "<group>"; };
 		B5A00CC91F3177E30080BBF8 /* LeetCode_Swift */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = LeetCode_Swift; sourceTree = BUILT_PRODUCTS_DIR; };
 		B5A00CCC1F3177E30080BBF8 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		B5A00CDB1F319F220080BBF8 /* ReverseString_344.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ReverseString_344.swift; sourceTree = "<group>"; };
@@ -379,6 +381,7 @@
 				B580E00C1FA8107500A1D9A8 /* ValidParentheses_20.swift */,
 				B580E01D1FA96F0A00A1D9A8 /* WordPattern_290.swift */,
 				B580E0371FAAB3D200A1D9A8 /* AddBinary_67.swift */,
+				B580E0501FAFF8FE00A1D9A8 /* LongestWordInDictionary_720.swift */,
 			);
 			path = LeetCode_Swift;
 			sourceTree = "<group>";
@@ -543,6 +546,7 @@
 				B5158F071F66238800E66F61 /* MinimumAbsoluteDifferenceInBST_530.swift in Sources */,
 				B53EC5191F905AD9003122AC /* PowerOfFour_342.swift in Sources */,
 				B5A552021F4686A20032FE78 /* PowerOfThree_326.swift in Sources */,
+				B580E0511FAFF8FE00A1D9A8 /* LongestWordInDictionary_720.swift in Sources */,
 				B5158F211F6A21E800E66F61 /* RelativeRanks_506.swift in Sources */,
 				B56849881F8C5BE700E98E53 /* MergeTwoSortedLists_21.swift in Sources */,
 				B538FC9F1F41485200A1BC5C /* FirstUniqueCharacterInAString_387.swift in Sources */,
