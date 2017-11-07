@@ -28,14 +28,14 @@ class ListNode {
     }
 }
 
-var hello = "Hello, World!"
+//var hello = "Hello, World!"
 
 ////"Hello, World!".remove(at: "Hello, World!".startIndex)
 
 
 //String()
 
-let a = ValidPalindromeII_680()
+let a = LengthOfLastWord_58()
 
 let r0 = TreeNode(1)
 let r1 = TreeNode(2)
@@ -51,6 +51,6 @@ let r2 = TreeNode(2)
 
 
 
-print(a.validPalindrome("abcae"))
+print(a.lengthOfLastWord("a "))
 
 
