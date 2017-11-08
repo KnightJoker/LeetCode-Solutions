@@ -35,7 +35,7 @@ class ListNode {
 
 //String()
 
-let a = LengthOfLastWord_58()
+let a = MergeSortedArray_88()
 
 let r0 = TreeNode(1)
 let r1 = TreeNode(2)
@@ -50,7 +50,8 @@ let r2 = TreeNode(2)
 //r2.right = r4
 
 
+var a1 = [1,0]
 
-print(a.lengthOfLastWord("a "))
+print(a.merge(&a1, 1, [2], 1))
 
 
