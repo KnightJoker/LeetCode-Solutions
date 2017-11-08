@@ -35,7 +35,7 @@ class ListNode {
 
 //String()
 
-let a = MergeSortedArray_88()
+let a = RemoveLinkedListElements_203()
 
 let r0 = TreeNode(1)
 let r1 = TreeNode(2)
@@ -50,8 +50,18 @@ let r2 = TreeNode(2)
 //r2.right = r4
 
 
-var a1 = [1,0]
+let b1 = ListNode(1)
+let b2 = ListNode(2)
+let b3 = ListNode(3)
+let b4 = ListNode(4)
+let b5 = ListNode(5)
+let b6 = ListNode(6)
+b1.next = b2
+b2.next = b3
+b3.next = b4
+b4.next = b5
+b5.next = b6
 
-print(a.merge(&a1, 1, [2], 1))
+print(a.removeElements(b1, 6))
 
 
