@@ -35,7 +35,7 @@ class ListNode {
 
 //String()
 
-let a = RemoveLinkedListElements_203()
+let a = SumOfSquareNumbers_633()
 
 let r0 = TreeNode(1)
 let r1 = TreeNode(2)
@@ -62,6 +62,6 @@ b3.next = b4
 b4.next = b5
 b5.next = b6
 
-print(a.removeElements(b1, 6))
+print(a.judgeSquareSum(69))
 
 
