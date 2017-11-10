@@ -125,4 +125,5 @@ On non-macOS computers, please substitute `CTRL` for `⌘ `.
 |203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/RemoveLinkedListElements_203.swift)|Easy|
 |633|[Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/SumOfSquareNumbers_633.swift)|Easy|
 |686|[Repeated String Match](https://leetcode.com/problems/repeated-string-match/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/RepeatedStringMatch_686.swift)|Easy|
+|111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/MinimumDepthOfBinaryTree_111.swift)|Easy|
 |535|[Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/#/description) | [Objective-C](./LeetCode_Solutions/LeetCode_Solutions/EncodeAndDecodeTinyURL_535.m)|Medium|
