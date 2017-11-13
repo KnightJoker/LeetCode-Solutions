@@ -127,4 +127,5 @@ On non-macOS computers, please substitute `CTRL` for `⌘ `.
 |686|[Repeated String Match](https://leetcode.com/problems/repeated-string-match/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/RepeatedStringMatch_686.swift)|Easy|
 |111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/MinimumDepthOfBinaryTree_111.swift)|Easy|
 |234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/PalindromeLinkedList_234.swift)|Easy|
+|687|[Longest Univalue Path](https://leetcode.com/problems/longest-univalue-path/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/LongestUnivaluePath_687.swift)|Easy|
 |535|[Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/#/description) | [Objective-C](./LeetCode_Solutions/LeetCode_Solutions/EncodeAndDecodeTinyURL_535.m)|Medium|
