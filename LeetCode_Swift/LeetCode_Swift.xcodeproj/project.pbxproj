@@ -127,6 +127,7 @@
 		B5A5522C1F4E69500032FE78 /* MaximumDepthOfBinaryTree_104.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5A5522B1F4E69500032FE78 /* MaximumDepthOfBinaryTree_104.swift */; };
 		B5A5522E1F4E76EC0032FE78 /* HammingDistance_461.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5A5522D1F4E76EC0032FE78 /* HammingDistance_461.swift */; };
 		B5C1DEC31F7C922800830C6F /* SetMismatch_645.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5C1DEC21F7C922800830C6F /* SetMismatch_645.swift */; };
+		B5E074811FBBDB660060CF90 /* LongestCommonPrefix_14.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5E074801FBBDB660060CF90 /* LongestCommonPrefix_14.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -263,6 +264,7 @@
 		B5A5522B1F4E69500032FE78 /* MaximumDepthOfBinaryTree_104.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MaximumDepthOfBinaryTree_104.swift; sourceTree = "<group>"; };
 		B5A5522D1F4E76EC0032FE78 /* HammingDistance_461.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HammingDistance_461.swift; sourceTree = "<group>"; };
 		B5C1DEC21F7C922800830C6F /* SetMismatch_645.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SetMismatch_645.swift; sourceTree = "<group>"; };
+		B5E074801FBBDB660060CF90 /* LongestCommonPrefix_14.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongestCommonPrefix_14.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -415,6 +417,7 @@
 				B582C88E1FB93AED00F4A767 /* PalindromeLinkedList_234.swift */,
 				B582C8921FB94C5D00F4A767 /* LongestUnivaluePath_687.swift */,
 				B582C8951FBA844600F4A767 /* ReverseInteger_7.swift */,
+				B5E074801FBBDB660060CF90 /* LongestCommonPrefix_14.swift */,
 			);
 			path = LeetCode_Swift;
 			sourceTree = "<group>";
@@ -491,6 +494,7 @@
 				B538FCD31F42E35500A1BC5C /* RomanToInteger_13.swift in Sources */,
 				B5158F661F73950100E66F61 /* DiameterOfBinaryTree_543.swift in Sources */,
 				B53EC5231F94495F003122AC /* SymmetricTree_101.swift in Sources */,
+				B5E074811FBBDB660060CF90 /* LongestCommonPrefix_14.swift in Sources */,
 				B5A5522A1F4C1E7A0032FE78 /* ClimbingStairs_70.swift in Sources */,
 				B5158F7A1F78A3B500E66F61 /* SecondMinimumNodeInABinaryTree_671.swift in Sources */,
 				B51B73741F3AAAB40082A8FB /* SumOfLeftLeaves_404.swift in Sources */,
