@@ -35,7 +35,7 @@ class ListNode {
 
 //String()
 
-let a = ReverseInteger_7()
+let a = ThirdMaximumNumber_414()
 
 let r0 = TreeNode(1)
 let r1 = TreeNode(2)
@@ -62,7 +62,7 @@ b1.next = b2
 //b4.next = b5
 //b5.next = b6
 
-print(a.reverse(1534236469))
+print(a.thirdMax([ 3, 1]))
 //"bb"
 //"bbbbbbb"
 

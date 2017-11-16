@@ -130,4 +130,5 @@ On non-macOS computers, please substitute `CTRL` for `⌘ `.
 |687|[Longest Univalue Path](https://leetcode.com/problems/longest-univalue-path/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/LongestUnivaluePath_687.swift)|Easy|
 |7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/ReverseInteger_7.swift)|Easy|
 |14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/LongestCommonPrefix_14.swift)|Easy|
+|414|[Third Maximum Number](https://leetcode.com/problems/third-maximum-number/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/ThirdMaximumNumber_414.swift)|Easy|
 |535|[Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/#/description) | [Objective-C](./LeetCode_Solutions/LeetCode_Solutions/EncodeAndDecodeTinyURL_535.m)|Medium|
