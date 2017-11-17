@@ -130,6 +130,7 @@
 		B5E074811FBBDB660060CF90 /* LongestCommonPrefix_14.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5E074801FBBDB660060CF90 /* LongestCommonPrefix_14.swift */; };
 		B5E074861FBD27EE0060CF90 /* ThirdMaximumNumber_414.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5E074851FBD27EE0060CF90 /* ThirdMaximumNumber_414.swift */; };
 		B5E074881FBD312C0060CF90 /* CanPlaceFlowers_605.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5E074871FBD312C0060CF90 /* CanPlaceFlowers_605.swift */; };
+		B5E0749C1FBE7CB60060CF90 /* NthDigit_400.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5E0749B1FBE7CB60060CF90 /* NthDigit_400.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -269,6 +270,7 @@
 		B5E074801FBBDB660060CF90 /* LongestCommonPrefix_14.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongestCommonPrefix_14.swift; sourceTree = "<group>"; };
 		B5E074851FBD27EE0060CF90 /* ThirdMaximumNumber_414.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThirdMaximumNumber_414.swift; sourceTree = "<group>"; };
 		B5E074871FBD312C0060CF90 /* CanPlaceFlowers_605.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CanPlaceFlowers_605.swift; sourceTree = "<group>"; };
+		B5E0749B1FBE7CB60060CF90 /* NthDigit_400.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NthDigit_400.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -424,6 +426,7 @@
 				B5E074801FBBDB660060CF90 /* LongestCommonPrefix_14.swift */,
 				B5E074851FBD27EE0060CF90 /* ThirdMaximumNumber_414.swift */,
 				B5E074871FBD312C0060CF90 /* CanPlaceFlowers_605.swift */,
+				B5E0749B1FBE7CB60060CF90 /* NthDigit_400.swift */,
 			);
 			path = LeetCode_Swift;
 			sourceTree = "<group>";
@@ -590,6 +593,7 @@
 				B582C8931FB94C5D00F4A767 /* LongestUnivaluePath_687.swift in Sources */,
 				B538FC931F3C070300A1BC5C /* SameTree_100.swift in Sources */,
 				B51B73721F3958D70082A8FB /* MoveZeroes_283.swift in Sources */,
+				B5E0749C1FBE7CB60060CF90 /* NthDigit_400.swift in Sources */,
 				B5A00CDC1F319F220080BBF8 /* ReverseString_344.swift in Sources */,
 				B50BE9611F79F582002ED20E /* LongestHarmoniousSubsequence_594.swift in Sources */,
 				B53EC50A1F8F11ED003122AC /* PascalsTriangle_118.swift in Sources */,

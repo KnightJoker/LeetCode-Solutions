@@ -35,7 +35,7 @@ class ListNode {
 
 //String()
 
-let a = CanPlaceFlowers_605()
+let a = NthDigit_400()
 
 let r0 = TreeNode(1)
 let r1 = TreeNode(2)
@@ -62,7 +62,7 @@ b1.next = b2
 //b4.next = b5
 //b5.next = b6
 
-print(a.canPlaceFlowers([1,0,0,0,1], 2))
+print(a.findNthDigit(13))
 //"bb"
 //"bbbbbbb"
 
