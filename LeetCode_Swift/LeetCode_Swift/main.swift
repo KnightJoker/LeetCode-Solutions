@@ -35,7 +35,7 @@ class ListNode {
 
 //String()
 
-let a = NthDigit_400()
+let a = Heaters_475()
 
 let r0 = TreeNode(1)
 let r1 = TreeNode(2)
@@ -62,7 +62,7 @@ b1.next = b2
 //b4.next = b5
 //b5.next = b6
 
-print(a.findNthDigit(13))
+print(a.findRadius([1,2,3,4], [1,4]))
 //"bb"
 //"bbbbbbb"
 

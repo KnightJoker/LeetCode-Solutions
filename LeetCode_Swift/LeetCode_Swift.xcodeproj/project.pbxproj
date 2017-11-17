@@ -131,6 +131,7 @@
 		B5E074861FBD27EE0060CF90 /* ThirdMaximumNumber_414.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5E074851FBD27EE0060CF90 /* ThirdMaximumNumber_414.swift */; };
 		B5E074881FBD312C0060CF90 /* CanPlaceFlowers_605.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5E074871FBD312C0060CF90 /* CanPlaceFlowers_605.swift */; };
 		B5E0749C1FBE7CB60060CF90 /* NthDigit_400.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5E0749B1FBE7CB60060CF90 /* NthDigit_400.swift */; };
+		B5E0749E1FBE841C0060CF90 /* Heaters_475.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5E0749D1FBE841C0060CF90 /* Heaters_475.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -271,6 +272,7 @@
 		B5E074851FBD27EE0060CF90 /* ThirdMaximumNumber_414.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThirdMaximumNumber_414.swift; sourceTree = "<group>"; };
 		B5E074871FBD312C0060CF90 /* CanPlaceFlowers_605.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CanPlaceFlowers_605.swift; sourceTree = "<group>"; };
 		B5E0749B1FBE7CB60060CF90 /* NthDigit_400.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NthDigit_400.swift; sourceTree = "<group>"; };
+		B5E0749D1FBE841C0060CF90 /* Heaters_475.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Heaters_475.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -427,6 +429,7 @@
 				B5E074851FBD27EE0060CF90 /* ThirdMaximumNumber_414.swift */,
 				B5E074871FBD312C0060CF90 /* CanPlaceFlowers_605.swift */,
 				B5E0749B1FBE7CB60060CF90 /* NthDigit_400.swift */,
+				B5E0749D1FBE841C0060CF90 /* Heaters_475.swift */,
 			);
 			path = LeetCode_Swift;
 			sourceTree = "<group>";
@@ -492,6 +495,7 @@
 			files = (
 				B53EC55E1F9998B3003122AC /* ArrangingCoins_441.swift in Sources */,
 				B53EC5461F96F016003122AC /* PalindromeNumber_9.swift in Sources */,
+				B5E0749E1FBE841C0060CF90 /* Heaters_475.swift in Sources */,
 				B5158F0E1F67756800E66F61 /* BestTimeToBuyAndSellStockII_122.swift in Sources */,
 				B50BE9661F7B3903002ED20E /* SubtreeOfAnotherTree_572.swift in Sources */,
 				B56849731F7DE9D700E98E53 /* MaximumSubarray_53.swift in Sources */,
