@@ -35,7 +35,7 @@ class ListNode {
 
 //String()
 
-let a = Heaters_475()
+let a = SqrtX_69()
 
 let r0 = TreeNode(1)
 let r1 = TreeNode(2)
@@ -62,7 +62,7 @@ b1.next = b2
 //b4.next = b5
 //b5.next = b6
 
-print(a.findRadius([1,2,3,4], [1,4]))
+print(a.mySqrt(8))
 //"bb"
 //"bbbbbbb"
 
