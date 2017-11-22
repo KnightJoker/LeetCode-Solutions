@@ -35,7 +35,7 @@ class ListNode {
 
 //String()
 
-let a = SqrtX_69()
+let a = CountPrimes_204()
 
 let r0 = TreeNode(1)
 let r1 = TreeNode(2)
@@ -62,7 +62,7 @@ b1.next = b2
 //b4.next = b5
 //b5.next = b6
 
-print(a.mySqrt(8))
+print(a.countPrimes(3))
 //"bb"
 //"bbbbbbb"
 

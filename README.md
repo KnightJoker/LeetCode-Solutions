@@ -135,4 +135,5 @@ On non-macOS computers, please substitute `CTRL` for `⌘ `.
 |400|[Nth Digit](https://leetcode.com/problems/nth-digit/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/NthDigit_400.swift)|Easy|
 |475|[Heaters](https://leetcode.com/problems/heaters/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/Heaters_475.swift)|Easy|
 |69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/SqrtX_69.swift)|Easy|
+|204|[Count Primes](https://leetcode.com/problems/count-primes/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/CountPrimes_204.swift)|Easy|
 |535|[Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/#/description) | [Objective-C](./LeetCode_Solutions/LeetCode_Solutions/EncodeAndDecodeTinyURL_535.m)|Medium|
