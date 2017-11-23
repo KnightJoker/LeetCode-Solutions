@@ -35,7 +35,7 @@ class ListNode {
 
 //String()
 
-let a = CountPrimes_204()
+let a = ImplementStrStr_28()
 
 let r0 = TreeNode(1)
 let r1 = TreeNode(2)
@@ -62,7 +62,8 @@ b1.next = b2
 //b4.next = b5
 //b5.next = b6
 
-print(a.countPrimes(3))
+
+print(a.strStr("aaaaa", "bba"))
 //"bb"
 //"bbbbbbb"
 
