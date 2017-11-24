@@ -135,6 +135,7 @@
 		B5E0749E1FBE841C0060CF90 /* Heaters_475.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5E0749D1FBE841C0060CF90 /* Heaters_475.swift */; };
 		B5E074B31FC273DF0060CF90 /* SqrtX_69.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5E074B21FC273DF0060CF90 /* SqrtX_69.swift */; };
 		B5E553C11FC6662300AEAD4A /* ImplementStrStr_28.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5E553C01FC6662300AEAD4A /* ImplementStrStr_28.swift */; };
+		B5E553D71FC7F32800AEAD4A /* ExcelSheetColumnTitle_168.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5E553D61FC7F32800AEAD4A /* ExcelSheetColumnTitle_168.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -279,6 +280,7 @@
 		B5E0749D1FBE841C0060CF90 /* Heaters_475.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Heaters_475.swift; sourceTree = "<group>"; };
 		B5E074B21FC273DF0060CF90 /* SqrtX_69.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SqrtX_69.swift; sourceTree = "<group>"; };
 		B5E553C01FC6662300AEAD4A /* ImplementStrStr_28.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImplementStrStr_28.swift; sourceTree = "<group>"; };
+		B5E553D61FC7F32800AEAD4A /* ExcelSheetColumnTitle_168.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExcelSheetColumnTitle_168.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -439,6 +441,7 @@
 				B5E074B21FC273DF0060CF90 /* SqrtX_69.swift */,
 				B511366D1FC57F760075C95F /* CountPrimes_204.swift */,
 				B5E553C01FC6662300AEAD4A /* ImplementStrStr_28.swift */,
+				B5E553D61FC7F32800AEAD4A /* ExcelSheetColumnTitle_168.swift */,
 			);
 			path = LeetCode_Swift;
 			sourceTree = "<group>";
@@ -596,6 +599,7 @@
 				B5158F5B1F72031000E66F61 /* MissingNumber_268.swift in Sources */,
 				B538FC8F1F3B2F3A00A1BC5C /* RansomNote_383.swift in Sources */,
 				B53EC53A1F959E0B003122AC /* RepeatedSubstringPattern_459.swift in Sources */,
+				B5E553D71FC7F32800AEAD4A /* ExcelSheetColumnTitle_168.swift in Sources */,
 				B546D8D31F4FC07800D045D8 /* NextGreaterElementI_496.swift in Sources */,
 				B53EC5081F8F053C003122AC /* TwoSum_1.swift in Sources */,
 				B5E553C11FC6662300AEAD4A /* ImplementStrStr_28.swift in Sources */,
