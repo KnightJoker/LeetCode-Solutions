@@ -35,7 +35,7 @@ class ListNode {
 
 //String()
 
-let a = ExcelSheetColumnTitle_168()
+let a = ShortestUnsortedContinuousSubarray_581()
 
 let r0 = TreeNode(1)
 let r1 = TreeNode(2)
@@ -63,7 +63,7 @@ b1.next = b2
 //b5.next = b6
 
 
-print(a.convertToTitle(27))
+print(a.findUnsortedSubarray([1,2,3,4]))
 //"bb"
 //"bbbbbbb"
 

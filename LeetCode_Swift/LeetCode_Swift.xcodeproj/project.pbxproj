@@ -136,6 +136,7 @@
 		B5E074B31FC273DF0060CF90 /* SqrtX_69.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5E074B21FC273DF0060CF90 /* SqrtX_69.swift */; };
 		B5E553C11FC6662300AEAD4A /* ImplementStrStr_28.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5E553C01FC6662300AEAD4A /* ImplementStrStr_28.swift */; };
 		B5E553D71FC7F32800AEAD4A /* ExcelSheetColumnTitle_168.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5E553D61FC7F32800AEAD4A /* ExcelSheetColumnTitle_168.swift */; };
+		B5E553DB1FCBB0E200AEAD4A /* ShortestUnsortedContinuousSubarray_581.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5E553DA1FCBB0E200AEAD4A /* ShortestUnsortedContinuousSubarray_581.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -281,6 +282,7 @@
 		B5E074B21FC273DF0060CF90 /* SqrtX_69.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SqrtX_69.swift; sourceTree = "<group>"; };
 		B5E553C01FC6662300AEAD4A /* ImplementStrStr_28.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImplementStrStr_28.swift; sourceTree = "<group>"; };
 		B5E553D61FC7F32800AEAD4A /* ExcelSheetColumnTitle_168.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExcelSheetColumnTitle_168.swift; sourceTree = "<group>"; };
+		B5E553DA1FCBB0E200AEAD4A /* ShortestUnsortedContinuousSubarray_581.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShortestUnsortedContinuousSubarray_581.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -442,6 +444,7 @@
 				B511366D1FC57F760075C95F /* CountPrimes_204.swift */,
 				B5E553C01FC6662300AEAD4A /* ImplementStrStr_28.swift */,
 				B5E553D61FC7F32800AEAD4A /* ExcelSheetColumnTitle_168.swift */,
+				B5E553DA1FCBB0E200AEAD4A /* ShortestUnsortedContinuousSubarray_581.swift */,
 			);
 			path = LeetCode_Swift;
 			sourceTree = "<group>";
@@ -547,6 +550,7 @@
 				B546D8E31F55110300D045D8 /* MergeTwoBinaryTrees_617.swift in Sources */,
 				B546D8F61F57AE0500D045D8 /* DistributeCandies_575.swift in Sources */,
 				B53E50411FB3F5F500CE361D /* RepeatedStringMatch_686.swift in Sources */,
+				B5E553DB1FCBB0E200AEAD4A /* ShortestUnsortedContinuousSubarray_581.swift in Sources */,
 				B52F933B1FB29F3D00AC4CCC /* MergeSortedArray_88.swift in Sources */,
 				B5158F4B1F70FEBA00E66F61 /* Base7_504.swift in Sources */,
 				B546D8F41F57A65E00D045D8 /* ReverseWordsInAStringIII_557.swift in Sources */,
