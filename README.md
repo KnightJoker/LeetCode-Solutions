@@ -139,4 +139,5 @@ On non-macOS computers, please substitute `CTRL` for `⌘ `.
 |28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/ImplementStrStr_28.swift)|Easy|
 |168|[Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/ExcelSheetColumnTitle_168.swift)|Easy|
 |581|[Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/ShortestUnsortedContinuousSubarray_581.swift)|Easy|
+|125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/ValidPalindrome_125.swift)|Easy|
 |535|[Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/#/description) | [Objective-C](./LeetCode_Solutions/LeetCode_Solutions/EncodeAndDecodeTinyURL_535.m)|Medium|

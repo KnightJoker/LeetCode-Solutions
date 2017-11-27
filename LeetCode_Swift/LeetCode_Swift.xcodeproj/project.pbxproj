@@ -137,6 +137,7 @@
 		B5E553C11FC6662300AEAD4A /* ImplementStrStr_28.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5E553C01FC6662300AEAD4A /* ImplementStrStr_28.swift */; };
 		B5E553D71FC7F32800AEAD4A /* ExcelSheetColumnTitle_168.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5E553D61FC7F32800AEAD4A /* ExcelSheetColumnTitle_168.swift */; };
 		B5E553DB1FCBB0E200AEAD4A /* ShortestUnsortedContinuousSubarray_581.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5E553DA1FCBB0E200AEAD4A /* ShortestUnsortedContinuousSubarray_581.swift */; };
+		B5E553DD1FCBBB3300AEAD4A /* ValidPalindrome_125.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5E553DC1FCBBB3300AEAD4A /* ValidPalindrome_125.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -283,6 +284,7 @@
 		B5E553C01FC6662300AEAD4A /* ImplementStrStr_28.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImplementStrStr_28.swift; sourceTree = "<group>"; };
 		B5E553D61FC7F32800AEAD4A /* ExcelSheetColumnTitle_168.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExcelSheetColumnTitle_168.swift; sourceTree = "<group>"; };
 		B5E553DA1FCBB0E200AEAD4A /* ShortestUnsortedContinuousSubarray_581.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShortestUnsortedContinuousSubarray_581.swift; sourceTree = "<group>"; };
+		B5E553DC1FCBBB3300AEAD4A /* ValidPalindrome_125.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ValidPalindrome_125.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -445,6 +447,7 @@
 				B5E553C01FC6662300AEAD4A /* ImplementStrStr_28.swift */,
 				B5E553D61FC7F32800AEAD4A /* ExcelSheetColumnTitle_168.swift */,
 				B5E553DA1FCBB0E200AEAD4A /* ShortestUnsortedContinuousSubarray_581.swift */,
+				B5E553DC1FCBBB3300AEAD4A /* ValidPalindrome_125.swift */,
 			);
 			path = LeetCode_Swift;
 			sourceTree = "<group>";
@@ -620,6 +623,7 @@
 				B5E0749C1FBE7CB60060CF90 /* NthDigit_400.swift in Sources */,
 				B5A00CDC1F319F220080BBF8 /* ReverseString_344.swift in Sources */,
 				B50BE9611F79F582002ED20E /* LongestHarmoniousSubsequence_594.swift in Sources */,
+				B5E553DD1FCBBB3300AEAD4A /* ValidPalindrome_125.swift in Sources */,
 				B53EC50A1F8F11ED003122AC /* PascalsTriangle_118.swift in Sources */,
 				B582C88F1FB93AED00F4A767 /* PalindromeLinkedList_234.swift in Sources */,
 				B568496F1F7D075700E98E53 /* PathSumIII_437.swift in Sources */,
