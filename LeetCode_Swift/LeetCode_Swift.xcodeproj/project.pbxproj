@@ -138,6 +138,7 @@
 		B5E553D71FC7F32800AEAD4A /* ExcelSheetColumnTitle_168.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5E553D61FC7F32800AEAD4A /* ExcelSheetColumnTitle_168.swift */; };
 		B5E553DB1FCBB0E200AEAD4A /* ShortestUnsortedContinuousSubarray_581.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5E553DA1FCBB0E200AEAD4A /* ShortestUnsortedContinuousSubarray_581.swift */; };
 		B5E553DD1FCBBB3300AEAD4A /* ValidPalindrome_125.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5E553DC1FCBBB3300AEAD4A /* ValidPalindrome_125.swift */; };
+		B5E553EA1FCCFD3600AEAD4A /* RotateArray_189.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5E553E91FCCFD3600AEAD4A /* RotateArray_189.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -285,6 +286,7 @@
 		B5E553D61FC7F32800AEAD4A /* ExcelSheetColumnTitle_168.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExcelSheetColumnTitle_168.swift; sourceTree = "<group>"; };
 		B5E553DA1FCBB0E200AEAD4A /* ShortestUnsortedContinuousSubarray_581.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShortestUnsortedContinuousSubarray_581.swift; sourceTree = "<group>"; };
 		B5E553DC1FCBBB3300AEAD4A /* ValidPalindrome_125.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ValidPalindrome_125.swift; sourceTree = "<group>"; };
+		B5E553E91FCCFD3600AEAD4A /* RotateArray_189.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RotateArray_189.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -448,6 +450,7 @@
 				B5E553D61FC7F32800AEAD4A /* ExcelSheetColumnTitle_168.swift */,
 				B5E553DA1FCBB0E200AEAD4A /* ShortestUnsortedContinuousSubarray_581.swift */,
 				B5E553DC1FCBBB3300AEAD4A /* ValidPalindrome_125.swift */,
+				B5E553E91FCCFD3600AEAD4A /* RotateArray_189.swift */,
 			);
 			path = LeetCode_Swift;
 			sourceTree = "<group>";
@@ -582,6 +585,7 @@
 				B53EC5681F9D8552003122AC /* FindModeInBinarySearchTree_501.swift in Sources */,
 				B5158EF51F60E69300E66F61 /* ConstructTheRectangle_492.swift in Sources */,
 				B538FCCE1F428B1500A1BC5C /* ContainsDuplicate_217.swift in Sources */,
+				B5E553EA1FCCFD3600AEAD4A /* RotateArray_189.swift in Sources */,
 				B51B73651F34781F0082A8FB /* FindTheDifference_389.swift in Sources */,
 				B5A5522C1F4E69500032FE78 /* MaximumDepthOfBinaryTree_104.swift in Sources */,
 				B5158F5D1F7208C400E66F61 /* LongestContinuousIncreasingSubsequence_674.swift in Sources */,

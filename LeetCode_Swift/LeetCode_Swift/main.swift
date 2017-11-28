@@ -35,7 +35,7 @@ class ListNode {
 
 //String()
 
-let a = ShortestUnsortedContinuousSubarray_581()
+let a = RotateArray_189()
 
 let r0 = TreeNode(1)
 let r1 = TreeNode(2)
@@ -62,8 +62,10 @@ b1.next = b2
 //b4.next = b5
 //b5.next = b6
 
+var a1 = [1,2,3,4,5,6,7]
 
-print(a.findUnsortedSubarray([1,2,3,4]))
+
+print(a.rotate(&a1, 3))
 //"bb"
 //"bbbbbbb"
 
