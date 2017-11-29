@@ -140,6 +140,7 @@
 		B5E553DD1FCBBB3300AEAD4A /* ValidPalindrome_125.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5E553DC1FCBBB3300AEAD4A /* ValidPalindrome_125.swift */; };
 		B5E553EA1FCCFD3600AEAD4A /* RotateArray_189.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5E553E91FCCFD3600AEAD4A /* RotateArray_189.swift */; };
 		B5E553EF1FCE4AA800AEAD4A /* Non_decreasingArray_665.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5E553EE1FCE4AA800AEAD4A /* Non_decreasingArray_665.swift */; };
+		B5E553F11FCE544800AEAD4A /* K_diffPairsInAnArray_532.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5E553F01FCE544800AEAD4A /* K_diffPairsInAnArray_532.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -289,6 +290,7 @@
 		B5E553DC1FCBBB3300AEAD4A /* ValidPalindrome_125.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ValidPalindrome_125.swift; sourceTree = "<group>"; };
 		B5E553E91FCCFD3600AEAD4A /* RotateArray_189.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RotateArray_189.swift; sourceTree = "<group>"; };
 		B5E553EE1FCE4AA800AEAD4A /* Non_decreasingArray_665.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Non_decreasingArray_665.swift; sourceTree = "<group>"; };
+		B5E553F01FCE544800AEAD4A /* K_diffPairsInAnArray_532.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = K_diffPairsInAnArray_532.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -454,6 +456,7 @@
 				B5E553DC1FCBBB3300AEAD4A /* ValidPalindrome_125.swift */,
 				B5E553E91FCCFD3600AEAD4A /* RotateArray_189.swift */,
 				B5E553EE1FCE4AA800AEAD4A /* Non_decreasingArray_665.swift */,
+				B5E553F01FCE544800AEAD4A /* K_diffPairsInAnArray_532.swift */,
 			);
 			path = LeetCode_Swift;
 			sourceTree = "<group>";
@@ -558,6 +561,7 @@
 				B546D8E11F550BC500D045D8 /* JudgeRouteCircle_657.swift in Sources */,
 				B546D8E31F55110300D045D8 /* MergeTwoBinaryTrees_617.swift in Sources */,
 				B546D8F61F57AE0500D045D8 /* DistributeCandies_575.swift in Sources */,
+				B5E553F11FCE544800AEAD4A /* K_diffPairsInAnArray_532.swift in Sources */,
 				B53E50411FB3F5F500CE361D /* RepeatedStringMatch_686.swift in Sources */,
 				B5E553DB1FCBB0E200AEAD4A /* ShortestUnsortedContinuousSubarray_581.swift in Sources */,
 				B52F933B1FB29F3D00AC4CCC /* MergeSortedArray_88.swift in Sources */,
