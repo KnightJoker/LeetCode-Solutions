@@ -141,4 +141,5 @@ On non-macOS computers, please substitute `CTRL` for `⌘ `.
 |581|[Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/ShortestUnsortedContinuousSubarray_581.swift)|Easy|
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/ValidPalindrome_125.swift)|Easy|
 |189|[Rotate Array](https://leetcode.com/problems/rotate-array/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/RotateArray_189.swift)|Easy|
+|665|[Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/Non_decreasingArray_665.swift)|Easy|
 |535|[Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/#/description) | [Objective-C](./LeetCode_Solutions/LeetCode_Solutions/EncodeAndDecodeTinyURL_535.m)|Medium|

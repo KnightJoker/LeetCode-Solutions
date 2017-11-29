@@ -139,6 +139,7 @@
 		B5E553DB1FCBB0E200AEAD4A /* ShortestUnsortedContinuousSubarray_581.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5E553DA1FCBB0E200AEAD4A /* ShortestUnsortedContinuousSubarray_581.swift */; };
 		B5E553DD1FCBBB3300AEAD4A /* ValidPalindrome_125.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5E553DC1FCBBB3300AEAD4A /* ValidPalindrome_125.swift */; };
 		B5E553EA1FCCFD3600AEAD4A /* RotateArray_189.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5E553E91FCCFD3600AEAD4A /* RotateArray_189.swift */; };
+		B5E553EF1FCE4AA800AEAD4A /* Non_decreasingArray_665.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5E553EE1FCE4AA800AEAD4A /* Non_decreasingArray_665.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -287,6 +288,7 @@
 		B5E553DA1FCBB0E200AEAD4A /* ShortestUnsortedContinuousSubarray_581.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShortestUnsortedContinuousSubarray_581.swift; sourceTree = "<group>"; };
 		B5E553DC1FCBBB3300AEAD4A /* ValidPalindrome_125.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ValidPalindrome_125.swift; sourceTree = "<group>"; };
 		B5E553E91FCCFD3600AEAD4A /* RotateArray_189.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RotateArray_189.swift; sourceTree = "<group>"; };
+		B5E553EE1FCE4AA800AEAD4A /* Non_decreasingArray_665.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Non_decreasingArray_665.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -451,6 +453,7 @@
 				B5E553DA1FCBB0E200AEAD4A /* ShortestUnsortedContinuousSubarray_581.swift */,
 				B5E553DC1FCBBB3300AEAD4A /* ValidPalindrome_125.swift */,
 				B5E553E91FCCFD3600AEAD4A /* RotateArray_189.swift */,
+				B5E553EE1FCE4AA800AEAD4A /* Non_decreasingArray_665.swift */,
 			);
 			path = LeetCode_Swift;
 			sourceTree = "<group>";
@@ -577,6 +580,7 @@
 				B5158F101F6778CF00E66F61 /* TwoSumII_InputArrayIsSorted_167.swift in Sources */,
 				B5A00CDE1F31AA210080BBF8 /* AddDigits_258.swift in Sources */,
 				B53E50521FB574F400CE361D /* MinimumDepthOfBinaryTree_111.swift in Sources */,
+				B5E553EF1FCE4AA800AEAD4A /* Non_decreasingArray_665.swift in Sources */,
 				B546D8E71F56592B00D045D8 /* KeyboardRow_500.swift in Sources */,
 				B53EC5281F945A36003122AC /* ValidPerfectSquare_367.swift in Sources */,
 				B5A5520E1F4A84E80032FE78 /* RemoveDuplicatesFromSortedList_83.swift in Sources */,
