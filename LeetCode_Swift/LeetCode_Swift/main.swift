@@ -35,7 +35,7 @@ class ListNode {
 
 //String()
 
-let a = K_diffPairsInAnArray_532()
+let a = FindAllDuplicatesInAnArray_442()
 
 let r0 = TreeNode(1)
 let r1 = TreeNode(2)
@@ -65,7 +65,7 @@ b1.next = b2
 //var a1 = [1,2,3,4,5,6,7]
 
 
-print(a.findPairs([1,3,1,5,4], 0))
+print(a.findDuplicates([4,3,2,7,8,2,3,1]))
 //"bb"
 //"bbbbbbb"
 
