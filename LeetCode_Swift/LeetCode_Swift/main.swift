@@ -35,7 +35,7 @@ class ListNode {
 
 //String()
 
-let a = FindAllDuplicatesInAnArray_442()
+let a = SingleElementInASortedArray_540()
 
 let r0 = TreeNode(1)
 let r1 = TreeNode(2)
@@ -65,7 +65,7 @@ b1.next = b2
 //var a1 = [1,2,3,4,5,6,7]
 
 
-print(a.findDuplicates([4,3,2,7,8,2,3,1]))
+print(a.singleNonDuplicate([3,3,7,7,10,11,11]))
 //"bb"
 //"bbbbbbb"
 

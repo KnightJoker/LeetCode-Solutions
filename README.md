@@ -144,4 +144,5 @@ On non-macOS computers, please substitute `CTRL` for `⌘ `.
 |665|[Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/Non_decreasingArray_665.swift)|Easy|
 |532|[K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/K_diffPairsInAnArray_532.swift)|Easy|
 |442|[Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/FindAllDuplicatesInAnArray_442.swift)|Medium|
+|540|[Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/SingleElementInASortedArray_540.swift)|Medium|
 |535|[Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/#/description) | [Objective-C](./LeetCode_Solutions/LeetCode_Solutions/EncodeAndDecodeTinyURL_535.m)|Medium|
