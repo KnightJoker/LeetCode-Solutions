@@ -35,20 +35,24 @@ class ListNode {
 
 //String()
 
-let a = SingleElementInASortedArray_540()
+let a = FindLargestValueInEachTreeRow_515()
 
 let r0 = TreeNode(1)
 let r1 = TreeNode(2)
-let r2 = TreeNode(2)
-//let r3 = TreeNode(5)
+let r2 = TreeNode(3)
+let r3 = TreeNode(4)
+let r4 = TreeNode(5)
+let r5 = TreeNode(6)
+let r6 = TreeNode(7)
+//let r7 = TreeNode(8)
 //let r4 = TreeNode(7)
 
-
-//r0.left = r1
-//r0.right = r2
-//r2.left = r3
-//r2.right = r4
-
+r0.left = r1
+r0.right = r2
+r1.left = r3
+r1.right = r4
+r2.left = r5
+r2.right = r6
 
 let b1 = ListNode(1)
 let b2 = ListNode(2)
@@ -65,7 +69,7 @@ b1.next = b2
 //var a1 = [1,2,3,4,5,6,7]
 
 
-print(a.singleNonDuplicate([3,3,7,7,10,11,11]))
+print(a.largestValues(r0))
 //"bb"
 //"bbbbbbb"
 
