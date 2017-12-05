@@ -147,4 +147,5 @@ On non-macOS computers, please substitute `CTRL` for `⌘ `.
 |540|[Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/SingleElementInASortedArray_540.swift)|Medium|
 |654|[Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/MaximumBinaryTree_654.swift)|Medium|
 |515|[Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/FindLargestValueInEachTreeRow_515.swift)|Medium|
+|260|[Single Number III](https://leetcode.com/problems/single-number-iii/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/SingleNumberIII_260.swift)|Medium|
 |535|[Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/#/description) | [Objective-C](./LeetCode_Solutions/LeetCode_Solutions/EncodeAndDecodeTinyURL_535.m)|Medium|
