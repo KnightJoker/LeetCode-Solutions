@@ -35,10 +35,10 @@ class ListNode {
 
 //String()
 
-let a = SingleNumberIII_260()
+let a = FindBottomLeftTreeValue_513()
 
-let r0 = TreeNode(1)
-let r1 = TreeNode(2)
+let r0 = TreeNode(2)
+let r1 = TreeNode(1)
 let r2 = TreeNode(3)
 let r3 = TreeNode(4)
 let r4 = TreeNode(5)
@@ -49,10 +49,10 @@ let r6 = TreeNode(7)
 
 r0.left = r1
 r0.right = r2
-r1.left = r3
-r1.right = r4
-r2.left = r5
-r2.right = r6
+//r1.left = r3
+//r1.right = r4
+//r2.left = r5
+//r2.right = r6
 
 let b1 = ListNode(1)
 let b2 = ListNode(2)
@@ -69,7 +69,7 @@ b1.next = b2
 //var a1 = [1,2,3,4,5,6,7]
 
 
-print(a.singleNumber([1, 2, 1, 3, 2, 5]))
+print(a.findBottomLeftValue(r0))
 //"bb"
 //"bbbbbbb"
 
