@@ -35,7 +35,7 @@ class ListNode {
 
 //String()
 
-let a = FindBottomLeftTreeValue_513()
+let a = SelfDividingNumbers_728()
 
 let r0 = TreeNode(2)
 let r1 = TreeNode(1)
@@ -69,7 +69,8 @@ b1.next = b2
 //var a1 = [1,2,3,4,5,6,7]
 
 
-print(a.findBottomLeftValue(r0))
+print(a.selfDividingNumbers(66, 708))
 //"bb"
 //"bbbbbbb"
+
 

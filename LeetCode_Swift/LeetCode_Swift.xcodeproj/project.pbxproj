@@ -123,6 +123,7 @@
 		B58E6EE71FD54E5A005274EF /* FindLargestValueInEachTreeRow_515.swift in Sources */ = {isa = PBXBuildFile; fileRef = B58E6EE61FD54E5A005274EF /* FindLargestValueInEachTreeRow_515.swift */; };
 		B58E6EF01FD6C6DE005274EF /* SingleNumberIII_260.swift in Sources */ = {isa = PBXBuildFile; fileRef = B58E6EEF1FD6C6DE005274EF /* SingleNumberIII_260.swift */; };
 		B58E6EF21FD78B2B005274EF /* FindBottomLeftTreeValue_513.swift in Sources */ = {isa = PBXBuildFile; fileRef = B58E6EF11FD78B2B005274EF /* FindBottomLeftTreeValue_513.swift */; };
+		B58E6EF61FD8D68D005274EF /* SelfDividingNumbers_728.swift in Sources */ = {isa = PBXBuildFile; fileRef = B58E6EF51FD8D68D005274EF /* SelfDividingNumbers_728.swift */; };
 		B5A00CCD1F3177E30080BBF8 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5A00CCC1F3177E30080BBF8 /* main.swift */; };
 		B5A00CDC1F319F220080BBF8 /* ReverseString_344.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5A00CDB1F319F220080BBF8 /* ReverseString_344.swift */; };
 		B5A00CDE1F31AA210080BBF8 /* AddDigits_258.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5A00CDD1F31AA210080BBF8 /* AddDigits_258.swift */; };
@@ -278,6 +279,7 @@
 		B58E6EE61FD54E5A005274EF /* FindLargestValueInEachTreeRow_515.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindLargestValueInEachTreeRow_515.swift; sourceTree = "<group>"; };
 		B58E6EEF1FD6C6DE005274EF /* SingleNumberIII_260.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SingleNumberIII_260.swift; sourceTree = "<group>"; };
 		B58E6EF11FD78B2B005274EF /* FindBottomLeftTreeValue_513.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindBottomLeftTreeValue_513.swift; sourceTree = "<group>"; };
+		B58E6EF51FD8D68D005274EF /* SelfDividingNumbers_728.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SelfDividingNumbers_728.swift; sourceTree = "<group>"; };
 		B5A00CC91F3177E30080BBF8 /* LeetCode_Swift */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = LeetCode_Swift; sourceTree = BUILT_PRODUCTS_DIR; };
 		B5A00CCC1F3177E30080BBF8 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		B5A00CDB1F319F220080BBF8 /* ReverseString_344.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ReverseString_344.swift; sourceTree = "<group>"; };
@@ -475,6 +477,7 @@
 				B519CF431FD0F6CF00D1A547 /* MaximumBinaryTree_654.swift */,
 				B58E6EEF1FD6C6DE005274EF /* SingleNumberIII_260.swift */,
 				B58E6EF11FD78B2B005274EF /* FindBottomLeftTreeValue_513.swift */,
+				B58E6EF51FD8D68D005274EF /* SelfDividingNumbers_728.swift */,
 			);
 			path = LeetCode_Swift;
 			sourceTree = "<group>";
@@ -609,6 +612,7 @@
 				B5E553EF1FCE4AA800AEAD4A /* Non_decreasingArray_665.swift in Sources */,
 				B546D8E71F56592B00D045D8 /* KeyboardRow_500.swift in Sources */,
 				B53EC5281F945A36003122AC /* ValidPerfectSquare_367.swift in Sources */,
+				B58E6EF61FD8D68D005274EF /* SelfDividingNumbers_728.swift in Sources */,
 				B5A5520E1F4A84E80032FE78 /* RemoveDuplicatesFromSortedList_83.swift in Sources */,
 				B568498A1F8C6B5300E98E53 /* HouseRobber_198.swift in Sources */,
 				B5158F031F6231DE00E66F61 /* RangeAdditionII_598.swift in Sources */,
