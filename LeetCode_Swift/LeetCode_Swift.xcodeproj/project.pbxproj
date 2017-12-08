@@ -148,6 +148,7 @@
 		B5E553EA1FCCFD3600AEAD4A /* RotateArray_189.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5E553E91FCCFD3600AEAD4A /* RotateArray_189.swift */; };
 		B5E553EF1FCE4AA800AEAD4A /* Non_decreasingArray_665.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5E553EE1FCE4AA800AEAD4A /* Non_decreasingArray_665.swift */; };
 		B5E553F11FCE544800AEAD4A /* K_diffPairsInAnArray_532.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5E553F01FCE544800AEAD4A /* K_diffPairsInAnArray_532.swift */; };
+		B5EEF6CE1FDA317800C69EBF /* ComplexNumberMultiplication_537.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5EEF6CD1FDA317800C69EBF /* ComplexNumberMultiplication_537.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -305,6 +306,7 @@
 		B5E553E91FCCFD3600AEAD4A /* RotateArray_189.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RotateArray_189.swift; sourceTree = "<group>"; };
 		B5E553EE1FCE4AA800AEAD4A /* Non_decreasingArray_665.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Non_decreasingArray_665.swift; sourceTree = "<group>"; };
 		B5E553F01FCE544800AEAD4A /* K_diffPairsInAnArray_532.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = K_diffPairsInAnArray_532.swift; sourceTree = "<group>"; };
+		B5EEF6CD1FDA317800C69EBF /* ComplexNumberMultiplication_537.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ComplexNumberMultiplication_537.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -478,6 +480,7 @@
 				B58E6EEF1FD6C6DE005274EF /* SingleNumberIII_260.swift */,
 				B58E6EF11FD78B2B005274EF /* FindBottomLeftTreeValue_513.swift */,
 				B58E6EF51FD8D68D005274EF /* SelfDividingNumbers_728.swift */,
+				B5EEF6CD1FDA317800C69EBF /* ComplexNumberMultiplication_537.swift */,
 			);
 			path = LeetCode_Swift;
 			sourceTree = "<group>";
@@ -674,6 +677,7 @@
 				B53EC5191F905AD9003122AC /* PowerOfFour_342.swift in Sources */,
 				B5A552021F4686A20032FE78 /* PowerOfThree_326.swift in Sources */,
 				B580E0511FAFF8FE00A1D9A8 /* LongestWordInDictionary_720.swift in Sources */,
+				B5EEF6CE1FDA317800C69EBF /* ComplexNumberMultiplication_537.swift in Sources */,
 				B5158F211F6A21E800E66F61 /* RelativeRanks_506.swift in Sources */,
 				B56849881F8C5BE700E98E53 /* MergeTwoSortedLists_21.swift in Sources */,
 				B538FC9F1F41485200A1BC5C /* FirstUniqueCharacterInAString_387.swift in Sources */,

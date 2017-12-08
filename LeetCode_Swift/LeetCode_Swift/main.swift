@@ -35,7 +35,7 @@ class ListNode {
 
 //String()
 
-let a = SelfDividingNumbers_728()
+let a = ComplexNumberMultiplication_537()
 
 let r0 = TreeNode(2)
 let r1 = TreeNode(1)
@@ -69,7 +69,7 @@ b1.next = b2
 //var a1 = [1,2,3,4,5,6,7]
 
 
-print(a.selfDividingNumbers(66, 708))
+print(a.complexNumberMultiply("1+-1i", "1+-1i"))
 //"bb"
 //"bbbbbbb"
 
