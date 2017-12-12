@@ -35,7 +35,7 @@ class ListNode {
 
 //String()
 
-let a = BattleshipsInABoard_419()
+let a = PalindromicSubstrings_647()
 
 let r0 = TreeNode(2)
 let r1 = TreeNode(1)
@@ -68,9 +68,9 @@ b1.next = b2
 
 //var a1 = [1,2,3,4,5,6,7]
 
-print([["X",".",".","X"],[".",".",".","X"],[".",".",".","X"]])
 
-print(a.countBattleships([["X",".",".","X"],[".",".",".","X"],[".",".",".","X"]]))
+
+print(a.countSubstrings("aaa"))
 
 
 

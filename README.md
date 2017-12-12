@@ -153,4 +153,5 @@ On non-macOS computers, please substitute `CTRL` for `⌘ `.
 |537|[Complex Number Multiplication](https://leetcode.com/problems/complex-number-multiplication/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/ComplexNumberMultiplication_537.swift)|Medium|
 |406|[Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/QueueReconstructionByHeight_406.swift)|Medium|
 |419|[Battleships in a Board](https://leetcode.com/problems/battleships-in-a-board/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/BattleshipsInABoard_419.swift)|Medium|
+|647|[Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/PalindromicSubstrings_647.swift)|Medium|
 |535|[Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/#/description) | [Objective-C](./LeetCode_Solutions/LeetCode_Solutions/EncodeAndDecodeTinyURL_535.m)|Medium|
