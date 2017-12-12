@@ -136,6 +136,7 @@
 		B5A5522C1F4E69500032FE78 /* MaximumDepthOfBinaryTree_104.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5A5522B1F4E69500032FE78 /* MaximumDepthOfBinaryTree_104.swift */; };
 		B5A5522E1F4E76EC0032FE78 /* HammingDistance_461.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5A5522D1F4E76EC0032FE78 /* HammingDistance_461.swift */; };
 		B5C1DEC31F7C922800830C6F /* SetMismatch_645.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5C1DEC21F7C922800830C6F /* SetMismatch_645.swift */; };
+		B5D967AC1FDF7180000396B6 /* BattleshipsInABoard_419.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5D967AB1FDF7180000396B6 /* BattleshipsInABoard_419.swift */; };
 		B5E074811FBBDB660060CF90 /* LongestCommonPrefix_14.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5E074801FBBDB660060CF90 /* LongestCommonPrefix_14.swift */; };
 		B5E074861FBD27EE0060CF90 /* ThirdMaximumNumber_414.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5E074851FBD27EE0060CF90 /* ThirdMaximumNumber_414.swift */; };
 		B5E074881FBD312C0060CF90 /* CanPlaceFlowers_605.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5E074871FBD312C0060CF90 /* CanPlaceFlowers_605.swift */; };
@@ -295,6 +296,7 @@
 		B5A5522B1F4E69500032FE78 /* MaximumDepthOfBinaryTree_104.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MaximumDepthOfBinaryTree_104.swift; sourceTree = "<group>"; };
 		B5A5522D1F4E76EC0032FE78 /* HammingDistance_461.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HammingDistance_461.swift; sourceTree = "<group>"; };
 		B5C1DEC21F7C922800830C6F /* SetMismatch_645.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SetMismatch_645.swift; sourceTree = "<group>"; };
+		B5D967AB1FDF7180000396B6 /* BattleshipsInABoard_419.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BattleshipsInABoard_419.swift; sourceTree = "<group>"; };
 		B5E074801FBBDB660060CF90 /* LongestCommonPrefix_14.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongestCommonPrefix_14.swift; sourceTree = "<group>"; };
 		B5E074851FBD27EE0060CF90 /* ThirdMaximumNumber_414.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThirdMaximumNumber_414.swift; sourceTree = "<group>"; };
 		B5E074871FBD312C0060CF90 /* CanPlaceFlowers_605.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CanPlaceFlowers_605.swift; sourceTree = "<group>"; };
@@ -484,6 +486,7 @@
 				B58E6EF51FD8D68D005274EF /* SelfDividingNumbers_728.swift */,
 				B5EEF6CD1FDA317800C69EBF /* ComplexNumberMultiplication_537.swift */,
 				B54F04891FDE1F2E007E9B55 /* QueueReconstructionByHeight_406.swift */,
+				B5D967AB1FDF7180000396B6 /* BattleshipsInABoard_419.swift */,
 			);
 			path = LeetCode_Swift;
 			sourceTree = "<group>";
@@ -651,6 +654,7 @@
 				B538FC8F1F3B2F3A00A1BC5C /* RansomNote_383.swift in Sources */,
 				B519CF441FD0F6CF00D1A547 /* MaximumBinaryTree_654.swift in Sources */,
 				B54F048A1FDE1F2E007E9B55 /* QueueReconstructionByHeight_406.swift in Sources */,
+				B5D967AC1FDF7180000396B6 /* BattleshipsInABoard_419.swift in Sources */,
 				B53EC53A1F959E0B003122AC /* RepeatedSubstringPattern_459.swift in Sources */,
 				B5E553D71FC7F32800AEAD4A /* ExcelSheetColumnTitle_168.swift in Sources */,
 				B546D8D31F4FC07800D045D8 /* NextGreaterElementI_496.swift in Sources */,
