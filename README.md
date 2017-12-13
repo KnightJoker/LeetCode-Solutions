@@ -154,4 +154,6 @@ On non-macOS computers, please substitute `CTRL` for `⌘ `.
 |406|[Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/QueueReconstructionByHeight_406.swift)|Medium|
 |419|[Battleships in a Board](https://leetcode.com/problems/battleships-in-a-board/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/BattleshipsInABoard_419.swift)|Medium|
 |647|[Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/PalindromicSubstrings_647.swift)|Medium|
+|553|[Optimal Division](https://leetcode.com/problems/optimal-division/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/OptimalDivision_553.swift)|Medium|
+|413|[Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/ArithmeticSlices_413.swift)|Medium|
 |535|[Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/#/description) | [Objective-C](./LeetCode_Solutions/LeetCode_Solutions/EncodeAndDecodeTinyURL_535.m)|Medium|
