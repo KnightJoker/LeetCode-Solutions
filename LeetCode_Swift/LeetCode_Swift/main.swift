@@ -35,7 +35,7 @@ class ListNode {
 
 //String()
 
-let a = PalindromicSubstrings_647()
+let a = ArithmeticSlices_413()
 
 let r0 = TreeNode(2)
 let r1 = TreeNode(1)
@@ -70,7 +70,7 @@ b1.next = b2
 
 
 
-print(a.countSubstrings("aaa"))
+print(a.numberOfArithmeticSlices([1, 2, 3, 4]))
 
 
 
