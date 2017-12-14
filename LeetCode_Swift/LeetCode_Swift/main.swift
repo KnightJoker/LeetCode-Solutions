@@ -35,7 +35,7 @@ class ListNode {
 
 //String()
 
-let a = ArithmeticSlices_413()
+let a = DailyTemperatures_739()
 
 let r0 = TreeNode(2)
 let r1 = TreeNode(1)
@@ -70,7 +70,7 @@ b1.next = b2
 
 
 
-print(a.numberOfArithmeticSlices([1, 2, 3, 4]))
+print(a.dailyTemperatures([70,71,74,75,66,50,71]))
 
 
 
