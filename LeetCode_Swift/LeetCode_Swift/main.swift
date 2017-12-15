@@ -35,11 +35,11 @@ class ListNode {
 
 //String()
 
-let a = DailyTemperatures_739()
+let a = MostFrequentSubtreeSum_508()
 
-let r0 = TreeNode(2)
-let r1 = TreeNode(1)
-let r2 = TreeNode(3)
+let r0 = TreeNode(5)
+let r1 = TreeNode(14)
+let r2 = TreeNode(1)
 let r3 = TreeNode(4)
 let r4 = TreeNode(5)
 let r5 = TreeNode(6)
@@ -48,7 +48,8 @@ let r6 = TreeNode(7)
 //let r4 = TreeNode(7)
 
 r0.left = r1
-r0.right = r2
+//r0.right = r2
+r1.left = r2
 //r1.left = r3
 //r1.right = r4
 //r2.left = r5
@@ -70,7 +71,7 @@ b1.next = b2
 
 
 
-print(a.dailyTemperatures([70,71,74,75,66,50,71]))
+print(a.findFrequentTreeSum(r0))
 
 
 

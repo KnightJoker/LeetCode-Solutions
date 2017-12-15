@@ -109,6 +109,7 @@
 		B5694CFD1F58F4E400C6832E /* ReshapeTheMatrix_566.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5694CFC1F58F4E400C6832E /* ReshapeTheMatrix_566.swift */; };
 		B5694CFF1F58FBBC00C6832E /* IslandPerimeter_463.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5694CFE1F58FBBC00C6832E /* IslandPerimeter_463.swift */; };
 		B5694D081F5CEBA200C6832E /* AverageOfLevelsInBinaryTree_637.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5694D071F5CEBA200C6832E /* AverageOfLevelsInBinaryTree_637.swift */; };
+		B57A97051FE3639600484339 /* MostFrequentSubtreeSum_508.swift in Sources */ = {isa = PBXBuildFile; fileRef = B57A97041FE3639600484339 /* MostFrequentSubtreeSum_508.swift */; };
 		B580DFD51FA033D900A1D9A8 /* CountAndSay_38.swift in Sources */ = {isa = PBXBuildFile; fileRef = B580DFD41FA033D900A1D9A8 /* CountAndSay_38.swift */; };
 		B580DFE61FA179A800A1D9A8 /* PathSum_112.swift in Sources */ = {isa = PBXBuildFile; fileRef = B580DFE51FA179A800A1D9A8 /* PathSum_112.swift */; };
 		B580DFEB1FA191DA00A1D9A8 /* PerfectNumber_507.swift in Sources */ = {isa = PBXBuildFile; fileRef = B580DFEA1FA191DA00A1D9A8 /* PerfectNumber_507.swift */; };
@@ -272,6 +273,7 @@
 		B5694CFC1F58F4E400C6832E /* ReshapeTheMatrix_566.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ReshapeTheMatrix_566.swift; sourceTree = "<group>"; };
 		B5694CFE1F58FBBC00C6832E /* IslandPerimeter_463.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IslandPerimeter_463.swift; sourceTree = "<group>"; };
 		B5694D071F5CEBA200C6832E /* AverageOfLevelsInBinaryTree_637.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AverageOfLevelsInBinaryTree_637.swift; sourceTree = "<group>"; };
+		B57A97041FE3639600484339 /* MostFrequentSubtreeSum_508.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MostFrequentSubtreeSum_508.swift; sourceTree = "<group>"; };
 		B580DFD41FA033D900A1D9A8 /* CountAndSay_38.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountAndSay_38.swift; sourceTree = "<group>"; };
 		B580DFE51FA179A800A1D9A8 /* PathSum_112.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PathSum_112.swift; sourceTree = "<group>"; };
 		B580DFEA1FA191DA00A1D9A8 /* PerfectNumber_507.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PerfectNumber_507.swift; sourceTree = "<group>"; };
@@ -499,6 +501,7 @@
 				B5D967AF1FE0C357000396B6 /* OptimalDivision_553.swift */,
 				B5D967B11FE0C4AC000396B6 /* ArithmeticSlices_413.swift */,
 				B50F3A621FE2147200F0DF12 /* DailyTemperatures_739.swift */,
+				B57A97041FE3639600484339 /* MostFrequentSubtreeSum_508.swift */,
 			);
 			path = LeetCode_Swift;
 			sourceTree = "<group>";
@@ -580,6 +583,7 @@
 				B5158F661F73950100E66F61 /* DiameterOfBinaryTree_543.swift in Sources */,
 				B53EC5231F94495F003122AC /* SymmetricTree_101.swift in Sources */,
 				B5E074811FBBDB660060CF90 /* LongestCommonPrefix_14.swift in Sources */,
+				B57A97051FE3639600484339 /* MostFrequentSubtreeSum_508.swift in Sources */,
 				B5A5522A1F4C1E7A0032FE78 /* ClimbingStairs_70.swift in Sources */,
 				B5158F7A1F78A3B500E66F61 /* SecondMinimumNodeInABinaryTree_671.swift in Sources */,
 				B51B73741F3AAAB40082A8FB /* SumOfLeftLeaves_404.swift in Sources */,
