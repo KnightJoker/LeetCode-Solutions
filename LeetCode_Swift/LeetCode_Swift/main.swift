@@ -35,7 +35,7 @@ class ListNode {
 
 //String()
 
-let a = MostFrequentSubtreeSum_508()
+let a = MinimumMovesToEqualArrayElementsII_462()
 
 let r0 = TreeNode(5)
 let r1 = TreeNode(14)
@@ -71,7 +71,7 @@ b1.next = b2
 
 
 
-print(a.findFrequentTreeSum(r0))
+print(a.minMoves2([1,2,3]))
 
 
 

@@ -158,4 +158,5 @@ On non-macOS computers, please substitute `CTRL` for `⌘ `.
 |413|[Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/ArithmeticSlices_413.swift)|Medium|
 |739|[Daily Temperatures](https://leetcode.com/problems/daily-temperatures/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/DailyTemperatures_739.swift)|Medium|
 |508|[Most Frequent Subtree Sum](https://leetcode.com/problems/most-frequent-subtree-sum/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/MostFrequentSubtreeSum_508.swift)|Medium|
+|462|[Minimum Moves to Equal Array Elements II](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/MinimumMovesToEqualArrayElementsII_462.swift)|Medium|
 |535|[Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/#/description) | [Objective-C](./LeetCode_Solutions/LeetCode_Solutions/EncodeAndDecodeTinyURL_535.m)|Medium|
