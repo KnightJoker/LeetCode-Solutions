@@ -35,7 +35,7 @@ class ListNode {
 
 //String()
 
-let a = MinimumMovesToEqualArrayElementsII_462()
+let a = BeautifulArrangementII_667()
 
 let r0 = TreeNode(5)
 let r1 = TreeNode(14)
@@ -71,7 +71,7 @@ b1.next = b2
 
 
 
-print(a.minMoves2([1,2,3]))
+print(a.constructArray(3, 1))
 
 
 
