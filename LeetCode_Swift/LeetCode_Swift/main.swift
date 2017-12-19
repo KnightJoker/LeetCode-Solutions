@@ -35,7 +35,7 @@ class ListNode {
 
 //String()
 
-let a = BeautifulArrangementII_667()
+let a = TeemoAttacking_495()
 
 let r0 = TreeNode(5)
 let r1 = TreeNode(14)
@@ -71,7 +71,7 @@ b1.next = b2
 
 
 
-print(a.constructArray(3, 1))
+print(a.findPoisonedDuration([1,2], 2))
 
 
 
