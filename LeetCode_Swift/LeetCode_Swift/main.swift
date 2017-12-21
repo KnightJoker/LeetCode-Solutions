@@ -35,7 +35,7 @@ class ListNode {
 
 //String()
 
-let a = SortCharactersByFrequency_451()
+let a = ProductOfArrayExceptSelf_238()
 
 let r0 = TreeNode(5)
 let r1 = TreeNode(14)
@@ -71,7 +71,7 @@ b1.next = b2
 
 
 
-print(a.frequencySort("Aabb"))
+print(a.productExceptSelf([1,0]))
 
 
 
