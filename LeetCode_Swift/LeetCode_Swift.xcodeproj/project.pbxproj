@@ -89,6 +89,8 @@
 		B53EC56F1F9ED546003122AC /* NumberOfSegmentsInAString_434.swift in Sources */ = {isa = PBXBuildFile; fileRef = B53EC56E1F9ED546003122AC /* NumberOfSegmentsInAString_434.swift */; };
 		B53EC5711F9EDB2F003122AC /* FactorialTrailingZeroes_172.swift in Sources */ = {isa = PBXBuildFile; fileRef = B53EC5701F9EDB2F003122AC /* FactorialTrailingZeroes_172.swift */; };
 		B542298E1FEA032300224BBB /* SortCharactersByFrequency_451.swift in Sources */ = {isa = PBXBuildFile; fileRef = B542298D1FEA032300224BBB /* SortCharactersByFrequency_451.swift */; };
+		B54229901FEA136B00224BBB /* MinimumASCIIDeleteSumForTwoStrings_712.swift in Sources */ = {isa = PBXBuildFile; fileRef = B542298F1FEA136B00224BBB /* MinimumASCIIDeleteSumForTwoStrings_712.swift */; };
+		B54229A31FEB4F1A00224BBB /* PrintBinaryTree_655.swift in Sources */ = {isa = PBXBuildFile; fileRef = B54229A21FEB4F1A00224BBB /* PrintBinaryTree_655.swift */; };
 		B546D8D11F4FBDB200D045D8 /* NumberComplement_476.swift in Sources */ = {isa = PBXBuildFile; fileRef = B546D8D01F4FBDB200D045D8 /* NumberComplement_476.swift */; };
 		B546D8D31F4FC07800D045D8 /* NextGreaterElementI_496.swift in Sources */ = {isa = PBXBuildFile; fileRef = B546D8D21F4FC07800D045D8 /* NextGreaterElementI_496.swift */; };
 		B546D8DD1F53AF1A00D045D8 /* DetectCapital_520.swift in Sources */ = {isa = PBXBuildFile; fileRef = B546D8DC1F53AF1A00D045D8 /* DetectCapital_520.swift */; };
@@ -257,6 +259,8 @@
 		B53EC56E1F9ED546003122AC /* NumberOfSegmentsInAString_434.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumberOfSegmentsInAString_434.swift; sourceTree = "<group>"; };
 		B53EC5701F9EDB2F003122AC /* FactorialTrailingZeroes_172.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FactorialTrailingZeroes_172.swift; sourceTree = "<group>"; };
 		B542298D1FEA032300224BBB /* SortCharactersByFrequency_451.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SortCharactersByFrequency_451.swift; sourceTree = "<group>"; };
+		B542298F1FEA136B00224BBB /* MinimumASCIIDeleteSumForTwoStrings_712.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumASCIIDeleteSumForTwoStrings_712.swift; sourceTree = "<group>"; };
+		B54229A21FEB4F1A00224BBB /* PrintBinaryTree_655.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PrintBinaryTree_655.swift; sourceTree = "<group>"; };
 		B546D8D01F4FBDB200D045D8 /* NumberComplement_476.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NumberComplement_476.swift; sourceTree = "<group>"; };
 		B546D8D21F4FC07800D045D8 /* NextGreaterElementI_496.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NextGreaterElementI_496.swift; sourceTree = "<group>"; };
 		B546D8DC1F53AF1A00D045D8 /* DetectCapital_520.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DetectCapital_520.swift; sourceTree = "<group>"; };
@@ -514,6 +518,8 @@
 				B5A841571FE8AE2600423ECE /* BeautifulArrangementII_667.swift */,
 				B5A841591FE8B95500423ECE /* TeemoAttacking_495.swift */,
 				B542298D1FEA032300224BBB /* SortCharactersByFrequency_451.swift */,
+				B542298F1FEA136B00224BBB /* MinimumASCIIDeleteSumForTwoStrings_712.swift */,
+				B54229A21FEB4F1A00224BBB /* PrintBinaryTree_655.swift */,
 			);
 			path = LeetCode_Swift;
 			sourceTree = "<group>";
@@ -590,6 +596,7 @@
 				B538FC961F3D491E00A1BC5C /* ExcelSheetColumnNumber_171.swift in Sources */,
 				B5694CFF1F58FBBC00C6832E /* IslandPerimeter_463.swift in Sources */,
 				B5E074861FBD27EE0060CF90 /* ThirdMaximumNumber_414.swift in Sources */,
+				B54229A31FEB4F1A00224BBB /* PrintBinaryTree_655.swift in Sources */,
 				B580E00D1FA8107500A1D9A8 /* ValidParentheses_20.swift in Sources */,
 				B538FCD31F42E35500A1BC5C /* RomanToInteger_13.swift in Sources */,
 				B5158F661F73950100E66F61 /* DiameterOfBinaryTree_543.swift in Sources */,
@@ -647,6 +654,7 @@
 				B5158F101F6778CF00E66F61 /* TwoSumII_InputArrayIsSorted_167.swift in Sources */,
 				B5A00CDE1F31AA210080BBF8 /* AddDigits_258.swift in Sources */,
 				B53E50521FB574F400CE361D /* MinimumDepthOfBinaryTree_111.swift in Sources */,
+				B54229901FEA136B00224BBB /* MinimumASCIIDeleteSumForTwoStrings_712.swift in Sources */,
 				B5E553EF1FCE4AA800AEAD4A /* Non_decreasingArray_665.swift in Sources */,
 				B546D8E71F56592B00D045D8 /* KeyboardRow_500.swift in Sources */,
 				B53EC5281F945A36003122AC /* ValidPerfectSquare_367.swift in Sources */,
