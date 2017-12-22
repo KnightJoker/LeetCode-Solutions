@@ -35,7 +35,7 @@ class ListNode {
 
 //String()
 
-let a = ProductOfArrayExceptSelf_238()
+let a = MinimumASCIIDeleteSumForTwoStrings_712()
 
 let r0 = TreeNode(5)
 let r1 = TreeNode(14)
@@ -62,16 +62,17 @@ let b4 = ListNode(4)
 let b5 = ListNode(5)
 let b6 = ListNode(6)
 b1.next = b2
-//b2.next = b3
-//b3.next = b4
+b2.next = b3
+b3.next = b4
 //b4.next = b5
 //b5.next = b6
 
 //var a1 = [1,2,3,4,5,6,7]
 
+//print(Int(UnicodeScalar("A")))
 
 
-print(a.productExceptSelf([1,0]))
+print(a.minimumDeleteSum("delete", "leet"))
 
 
 
