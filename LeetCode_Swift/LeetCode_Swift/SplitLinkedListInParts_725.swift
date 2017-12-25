@@ -12,24 +12,34 @@ class SplitLinkedListInParts_725 {
     func splitListToParts(_ root: ListNode?, _ k: Int) -> [ListNode?] {
         
         var curr = root
-        var res = [ListNode](repeating: ListNode(0), count: k)
+        var res = [ListNode?](repeating: nil, count: k)
         var count = 0
         while curr != nil {
             count += 1
             curr = curr?.next
         }
         var node = root
-        var m = count / k , p = count % k
+        var pre : ListNode?
+        let n = count / k
+        var i = 0,r = count % k
+        while node != nil && i < k {
+            res[i] = node!
+            for _ in 0..<(n + (r > 0 ? 1 : 0)) {
+                    pre = node
+                    node = node?.next
+                
+            }
+                pre?.next = nil
 
-//        for i in 0..<k {
-//            res[i] = node!
-//            var cur = (p-=1) > 0 ? m + 1:m
-//
-//        }
+            i += 1
+            r -= 1
+        }
 
         return res
     }
 }
+
+
 
 
 
