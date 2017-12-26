@@ -167,4 +167,5 @@ On non-macOS computers, please substitute `CTRL` for `⌘ `.
 |712|[Minimum ASCII Delete Sum for Two Strings](https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/MinimumASCIIDeleteSumForTwoStrings_712.swift)|Medium|
 |725|[Split Linked List in Parts](https://leetcode.com/problems/split-linked-list-in-parts/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/SplitLinkedListInParts_725.swift)|Medium|
 |565|[Array Nesting](https://leetcode.com/problems/array-nesting/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/ArrayNesting_565.swift)|Medium|
+|347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/TopKFrequentElements_347.swift)|Medium|
 |535|[Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/#/description) | [Objective-C](./LeetCode_Solutions/LeetCode_Solutions/EncodeAndDecodeTinyURL_535.m)|Medium|
