@@ -35,7 +35,7 @@ class ListNode {
 
 //String()
 
-let a = CountBinarySubstrings_696()
+let a = BulbSwitcherII_672()
 
 let r0 = TreeNode(5)
 let r1 = TreeNode(14)
@@ -82,7 +82,7 @@ b2.next = b3
 //print(Int(UnicodeScalar("A")))
 
 //[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
-print(a.countBinarySubstrings("00110011"))
+print(a.flipLights(2, 1))
 
 
 
