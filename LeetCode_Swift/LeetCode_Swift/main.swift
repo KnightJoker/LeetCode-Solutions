@@ -35,11 +35,11 @@ class ListNode {
 
 //String()
 
-let a = BulbSwitcherII_672()
+let a = BinaryTreeInorderTraversal_94()
 
-let r0 = TreeNode(5)
-let r1 = TreeNode(14)
-let r2 = TreeNode(1)
+let r0 = TreeNode(1)
+let r1 = TreeNode(2)
+let r2 = TreeNode(3)
 let r3 = TreeNode(4)
 let r4 = TreeNode(5)
 let r5 = TreeNode(6)
@@ -47,7 +47,7 @@ let r6 = TreeNode(7)
 //let r7 = TreeNode(8)
 //let r4 = TreeNode(7)
 
-r0.left = r1
+r0.right = r1
 //r0.right = r2
 r1.left = r2
 //r1.left = r3
@@ -82,7 +82,7 @@ b2.next = b3
 //print(Int(UnicodeScalar("A")))
 
 //[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
-print(a.flipLights(2, 1))
+print(a.inorderTraversal(r0))
 
 
 

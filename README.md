@@ -171,4 +171,5 @@ On non-macOS computers, please substitute `CTRL` for `⌘ `.
 |565|[Array Nesting](https://leetcode.com/problems/array-nesting/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/ArrayNesting_565.swift)|Medium|
 |347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/TopKFrequentElements_347.swift)|Medium|
 |672|[Bulb Switcher II](https://leetcode.com/problems/bulb-switcher-ii/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/BulbSwitcherII_672.swift)|Medium|
+|94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/BinaryTreeInorderTraversal_94.swift)|Medium|
 |535|[Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/#/description) | [Objective-C](./LeetCode_Solutions/LeetCode_Solutions/EncodeAndDecodeTinyURL_535.m)|Medium|
