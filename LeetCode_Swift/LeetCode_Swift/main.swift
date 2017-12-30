@@ -35,7 +35,7 @@ class ListNode {
 
 //String()
 
-let a = TotalHammingDistance_477()
+let a = NextGreaterElementII_503()
 
 let r0 = TreeNode(1)
 let r1 = TreeNode(2)
@@ -82,7 +82,7 @@ b2.next = b3
 //print(Int(UnicodeScalar("A")))
 
 //[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
-print(a.totalHammingDistance([4,14,2]))
+print(a.nextGreaterElements([1,2,1]))
 
 
 
