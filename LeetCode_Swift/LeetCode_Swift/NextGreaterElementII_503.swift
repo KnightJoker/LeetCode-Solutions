@@ -19,14 +19,14 @@ class NextGreaterElementII_503 {
                 }
                 if index != nums.count - 1{
                     index += 1
-                }else {
+                } else {
                     index = 0
                 }
                 
             }
             if i == index {
                 res.append(-1)
-            }else {
+            } else {
                 res.append(nums[index])
             }
         }

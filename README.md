@@ -145,6 +145,7 @@ On non-macOS computers, please substitute `CTRL` for `⌘ `.
 |532|[K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/K_diffPairsInAnArray_532.swift)|Easy|
 |695|[Max Area of Island](https://leetcode.com/problems/max-area-of-island/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/MaxAreaOfIsland_695.swift)|Easy|
 |696|[Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/CountBinarySubstrings_696.swift)|Easy|
+|748|[Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/LargestNumberAtLeastTwiceOfOthers_748.swift)|Easy|
 |442|[Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/FindAllDuplicatesInAnArray_442.swift)|Medium|
 |540|[Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/SingleElementInASortedArray_540.swift)|Medium|
 |654|[Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/MaximumBinaryTree_654.swift)|Medium|
