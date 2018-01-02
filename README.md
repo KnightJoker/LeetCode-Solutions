@@ -176,4 +176,5 @@ On non-macOS computers, please substitute `CTRL` for `⌘ `.
 |94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/BinaryTreeInorderTraversal_94.swift)|Medium|
 |477|[Total Hamming Distance](https://leetcode.com/problems/total-hamming-distance/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/TotalHammingDistance_477.swift)|Medium|
 |503|[Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/NextGreaterElementII_503.swift)|Medium|
+|646|[Maximum Length of Pair Chain](https://leetcode.com/problems/maximum-length-of-pair-chain/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/MaximumLengthOfPairChain_646.swift)|Medium|
 |535|[Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/#/description) | [Objective-C](./LeetCode_Solutions/LeetCode_Solutions/EncodeAndDecodeTinyURL_535.m)|Medium|
