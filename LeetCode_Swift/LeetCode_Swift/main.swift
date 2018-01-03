@@ -30,7 +30,7 @@ class ListNode {
 
 //String()
 
-let a = MaximumLengthOfPairChain_646()
+let a = DegreeOfAnArray_697()
 
 let r0 = TreeNode(1)
 let r1 = TreeNode(2)
@@ -77,7 +77,7 @@ b2.next = b3
 //print(Int(UnicodeScalar("A")))
 
 //[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
-print(a.findLongestChain([[1,2], [2,3], [3,4]]))
+print(a.findShortestSubArray([1, 2, 2, 3, 1]))
 
 
 

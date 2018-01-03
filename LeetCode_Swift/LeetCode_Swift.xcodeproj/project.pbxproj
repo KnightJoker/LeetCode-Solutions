@@ -175,6 +175,7 @@
 		B5E553EF1FCE4AA800AEAD4A /* Non_decreasingArray_665.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5E553EE1FCE4AA800AEAD4A /* Non_decreasingArray_665.swift */; };
 		B5E553F11FCE544800AEAD4A /* K_diffPairsInAnArray_532.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5E553F01FCE544800AEAD4A /* K_diffPairsInAnArray_532.swift */; };
 		B5EEF6CE1FDA317800C69EBF /* ComplexNumberMultiplication_537.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5EEF6CD1FDA317800C69EBF /* ComplexNumberMultiplication_537.swift */; };
+		B5F1DB981FFCCC5A00ECCC05 /* DegreeOfAnArray_697.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5F1DB971FFCCC5A00ECCC05 /* DegreeOfAnArray_697.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -359,6 +360,7 @@
 		B5E553EE1FCE4AA800AEAD4A /* Non_decreasingArray_665.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Non_decreasingArray_665.swift; sourceTree = "<group>"; };
 		B5E553F01FCE544800AEAD4A /* K_diffPairsInAnArray_532.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = K_diffPairsInAnArray_532.swift; sourceTree = "<group>"; };
 		B5EEF6CD1FDA317800C69EBF /* ComplexNumberMultiplication_537.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ComplexNumberMultiplication_537.swift; sourceTree = "<group>"; };
+		B5F1DB971FFCCC5A00ECCC05 /* DegreeOfAnArray_697.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DegreeOfAnArray_697.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -559,6 +561,7 @@
 				22B8E1D31FF8012E00142E19 /* LargestNumberAtLeastTwiceOfOthers_748.swift */,
 				22E051761FFA755B00D3D215 /* BaseballGame_682.swift */,
 				B512BC601FFB382900FF8016 /* MaximumLengthOfPairChain_646.swift */,
+				B5F1DB971FFCCC5A00ECCC05 /* DegreeOfAnArray_697.swift */,
 			);
 			path = LeetCode_Swift;
 			sourceTree = "<group>";
@@ -777,6 +780,7 @@
 				227A02E21FA4C33100D21791 /* IsomorphicStrings_205.swift in Sources */,
 				B538FCD51F43E05200A1BC5C /* FizzBuzz_412.swift in Sources */,
 				B538FD1D1F452FB600A1BC5C /* AddStrings_415.swift in Sources */,
+				B5F1DB981FFCCC5A00ECCC05 /* DegreeOfAnArray_697.swift in Sources */,
 				B5158F071F66238800E66F61 /* MinimumAbsoluteDifferenceInBST_530.swift in Sources */,
 				B53EC5191F905AD9003122AC /* PowerOfFour_342.swift in Sources */,
 				B5A552021F4686A20032FE78 /* PowerOfThree_326.swift in Sources */,
