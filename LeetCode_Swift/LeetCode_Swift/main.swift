@@ -30,7 +30,7 @@ class ListNode {
 
 //String()
 
-let a = MinCostClimbingStairs_747()
+let a = FindPivotIndex_724()
 
 let r0 = TreeNode(1)
 let r1 = TreeNode(2)
@@ -77,7 +77,7 @@ b2.next = b3
 //print(Int(UnicodeScalar("A")))
 
 //[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
-print(a.minCostClimbingStairs([1, 100, 1, 1, 1, 100, 1, 1, 100, 1]))
+print(a.pivotIndex([-1,-1,0,0,-1,-1]))
 
 
 

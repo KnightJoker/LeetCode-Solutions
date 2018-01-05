@@ -177,6 +177,7 @@
 		B5EEF6CE1FDA317800C69EBF /* ComplexNumberMultiplication_537.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5EEF6CD1FDA317800C69EBF /* ComplexNumberMultiplication_537.swift */; };
 		B5F1DB981FFCCC5A00ECCC05 /* DegreeOfAnArray_697.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5F1DB971FFCCC5A00ECCC05 /* DegreeOfAnArray_697.swift */; };
 		B5F1DBA41FFE29C100ECCC05 /* MinCostClimbingStairs_747.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5F1DBA31FFE29C100ECCC05 /* MinCostClimbingStairs_747.swift */; };
+		B5F1DBA71FFF1A4C00ECCC05 /* FindPivotIndex_724.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5F1DBA61FFF1A4C00ECCC05 /* FindPivotIndex_724.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -363,6 +364,7 @@
 		B5EEF6CD1FDA317800C69EBF /* ComplexNumberMultiplication_537.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ComplexNumberMultiplication_537.swift; sourceTree = "<group>"; };
 		B5F1DB971FFCCC5A00ECCC05 /* DegreeOfAnArray_697.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DegreeOfAnArray_697.swift; sourceTree = "<group>"; };
 		B5F1DBA31FFE29C100ECCC05 /* MinCostClimbingStairs_747.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinCostClimbingStairs_747.swift; sourceTree = "<group>"; };
+		B5F1DBA61FFF1A4C00ECCC05 /* FindPivotIndex_724.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindPivotIndex_724.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -565,6 +567,7 @@
 				B512BC601FFB382900FF8016 /* MaximumLengthOfPairChain_646.swift */,
 				B5F1DB971FFCCC5A00ECCC05 /* DegreeOfAnArray_697.swift */,
 				B5F1DBA31FFE29C100ECCC05 /* MinCostClimbingStairs_747.swift */,
+				B5F1DBA61FFF1A4C00ECCC05 /* FindPivotIndex_724.swift */,
 			);
 			path = LeetCode_Swift;
 			sourceTree = "<group>";
@@ -798,6 +801,7 @@
 				B5C1DEC31F7C922800830C6F /* SetMismatch_645.swift in Sources */,
 				B5A5520C1F4A7C920032FE78 /* BestTimeToBuyAndSellStock_121.swift in Sources */,
 				B5A552001F4682A70032FE78 /* PowerOfTwo_231.swift in Sources */,
+				B5F1DBA71FFF1A4C00ECCC05 /* FindPivotIndex_724.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
