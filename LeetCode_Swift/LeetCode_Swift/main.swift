@@ -30,7 +30,7 @@ class ListNode {
 
 //String()
 
-let a = FindPivotIndex_724()
+let a = BinaryNumberWithAlternatingBits_693()
 
 let r0 = TreeNode(1)
 let r1 = TreeNode(2)
@@ -77,7 +77,7 @@ b2.next = b3
 //print(Int(UnicodeScalar("A")))
 
 //[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
-print(a.pivotIndex([-1,-1,0,0,-1,-1]))
+print(a.hasAlternatingBits(10))
 
 
 

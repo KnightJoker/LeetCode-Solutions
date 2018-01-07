@@ -145,6 +145,7 @@ On non-macOS computers, please substitute `CTRL` for `⌘ `.
 |665|[Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/Non_decreasingArray_665.swift)|Easy|
 |669|[Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/TrimABinarySearchTree_669.swift)|Easy|
 |532|[K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/K_diffPairsInAnArray_532.swift)|Easy|
+|693|[Binary Number with Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/BinaryNumberWithAlternatingBits_693.swift)|Easy|
 |695|[Max Area of Island](https://leetcode.com/problems/max-area-of-island/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/MaxAreaOfIsland_695.swift)|Easy|
 |696|[Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/CountBinarySubstrings_696.swift)|Easy|
 |697|[Degree of an Array](https://leetcode.com/problems/degree-of-an-array/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/DegreeOfAnArray_697.swift)|Easy|
