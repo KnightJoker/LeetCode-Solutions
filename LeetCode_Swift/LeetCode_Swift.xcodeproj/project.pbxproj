@@ -60,6 +60,7 @@
 		B538E251200210220076D287 /* BinaryNumberWithAlternatingBits_693.swift in Sources */ = {isa = PBXBuildFile; fileRef = B538E250200210220076D287 /* BinaryNumberWithAlternatingBits_693.swift */; };
 		B538E253200318BD0076D287 /* One_bitAndTwo_bitCharacters_717.swift in Sources */ = {isa = PBXBuildFile; fileRef = B538E252200318BD0076D287 /* One_bitAndTwo_bitCharacters_717.swift */; };
 		B538E25520031E2D0076D287 /* FloodFill_733.swift in Sources */ = {isa = PBXBuildFile; fileRef = B538E25420031E2D0076D287 /* FloodFill_733.swift */; };
+		B538E25F200366000076D287 /* FindSmallestLetterGreaterThanTarget_744.swift in Sources */ = {isa = PBXBuildFile; fileRef = B538E25E200366000076D287 /* FindSmallestLetterGreaterThanTarget_744.swift */; };
 		B538FC8F1F3B2F3A00A1BC5C /* RansomNote_383.swift in Sources */ = {isa = PBXBuildFile; fileRef = B538FC8E1F3B2F3A00A1BC5C /* RansomNote_383.swift */; };
 		B538FC911F3BFEC200A1BC5C /* IntersectionOfTwoArrays_349.swift in Sources */ = {isa = PBXBuildFile; fileRef = B538FC901F3BFEC200A1BC5C /* IntersectionOfTwoArrays_349.swift */; };
 		B538FC931F3C070300A1BC5C /* SameTree_100.swift in Sources */ = {isa = PBXBuildFile; fileRef = B538FC921F3C070300A1BC5C /* SameTree_100.swift */; };
@@ -250,6 +251,7 @@
 		B538E250200210220076D287 /* BinaryNumberWithAlternatingBits_693.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BinaryNumberWithAlternatingBits_693.swift; sourceTree = "<group>"; };
 		B538E252200318BD0076D287 /* One_bitAndTwo_bitCharacters_717.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = One_bitAndTwo_bitCharacters_717.swift; sourceTree = "<group>"; };
 		B538E25420031E2D0076D287 /* FloodFill_733.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FloodFill_733.swift; sourceTree = "<group>"; };
+		B538E25E200366000076D287 /* FindSmallestLetterGreaterThanTarget_744.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindSmallestLetterGreaterThanTarget_744.swift; sourceTree = "<group>"; };
 		B538FC8E1F3B2F3A00A1BC5C /* RansomNote_383.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RansomNote_383.swift; sourceTree = "<group>"; };
 		B538FC901F3BFEC200A1BC5C /* IntersectionOfTwoArrays_349.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IntersectionOfTwoArrays_349.swift; sourceTree = "<group>"; };
 		B538FC921F3C070300A1BC5C /* SameTree_100.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SameTree_100.swift; sourceTree = "<group>"; };
@@ -580,6 +582,7 @@
 				B538E250200210220076D287 /* BinaryNumberWithAlternatingBits_693.swift */,
 				B538E252200318BD0076D287 /* One_bitAndTwo_bitCharacters_717.swift */,
 				B538E25420031E2D0076D287 /* FloodFill_733.swift */,
+				B538E25E200366000076D287 /* FindSmallestLetterGreaterThanTarget_744.swift */,
 			);
 			path = LeetCode_Swift;
 			sourceTree = "<group>";
@@ -747,6 +750,7 @@
 				B580E0381FAAB3D200A1D9A8 /* AddBinary_67.swift in Sources */,
 				B54229BC1FF4916200224BBB /* BinaryTreeInorderTraversal_94.swift in Sources */,
 				B5158F141F68C87800E66F61 /* MinimumIndexSumOfTwoLists_599.swift in Sources */,
+				B538E25F200366000076D287 /* FindSmallestLetterGreaterThanTarget_744.swift in Sources */,
 				B538E2492000A2650076D287 /* TrimABinarySearchTree_669.swift in Sources */,
 				B546D8D11F4FBDB200D045D8 /* NumberComplement_476.swift in Sources */,
 				B54229A71FECD97200224BBB /* SplitLinkedListInParts_725.swift in Sources */,

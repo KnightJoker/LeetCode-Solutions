@@ -153,6 +153,7 @@ On non-macOS computers, please substitute `CTRL` for `⌘ `.
 |733|[Flood Fill](https://leetcode.com/problems/flood-fill/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/FloodFill_733.swift)|Easy|
 |748|[Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/LargestNumberAtLeastTwiceOfOthers_748.swift)|Easy|
 |682|[Baseball Game](https://leetcode.com/problems/baseball-game/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/BaseballGame_682.swift)|Easy|
+|744|[Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/FindSmallestLetterGreaterThanTarget_744.swift)|Easy|
 |747|[Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/MinCostClimbingStairs_747.swift)|Easy|
 |442|[Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/FindAllDuplicatesInAnArray_442.swift)|Medium|
 |540|[Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/SingleElementInASortedArray_540.swift)|Medium|
