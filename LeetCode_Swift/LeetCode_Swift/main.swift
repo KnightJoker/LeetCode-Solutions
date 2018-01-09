@@ -30,7 +30,7 @@ class ListNode {
 
 //String()
 
-let a = FindSmallestLetterGreaterThanTarget_744()
+let a = LicenseKeyFormatting_482()
 
 let r0 = TreeNode(1)
 let r1 = TreeNode(2)
@@ -77,7 +77,7 @@ b2.next = b3
 //print(Int(UnicodeScalar("A")))
 
 //[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
-print(a.nextGreatestLetter(["c", "f", "j"], "k"))
+print(a.licenseKeyFormatting("5F3Z-2e-9-w", 4))
 
 
 
