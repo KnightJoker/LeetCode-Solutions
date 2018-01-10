@@ -134,6 +134,7 @@ On non-macOS computers, please substitute `CTRL` for `⌘ `.
 |414|[Third Maximum Number](https://leetcode.com/problems/third-maximum-number/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/ThirdMaximumNumber_414.swift)|Easy|
 |605|[Can Place Flowers](https://leetcode.com/problems/can-place-flowers/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/CanPlaceFlowers_605.swift)|Easy|
 |400|[Nth Digit](https://leetcode.com/problems/nth-digit/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/NthDigit_400.swift)|Easy|
+|443|[String Compression](https://leetcode.com/problems/string-compression/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/StringCompression_443.swift)|Easy|
 |475|[Heaters](https://leetcode.com/problems/heaters/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/Heaters_475.swift)|Easy|
 |69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/SqrtX_69.swift)|Easy|
 |204|[Count Primes](https://leetcode.com/problems/count-primes/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/CountPrimes_204.swift)|Easy|
