@@ -154,6 +154,7 @@ On non-macOS computers, please substitute `CTRL` for `⌘ `.
 |733|[Flood Fill](https://leetcode.com/problems/flood-fill/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/FloodFill_733.swift)|Easy|
 |748|[Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/LargestNumberAtLeastTwiceOfOthers_748.swift)|Easy|
 |682|[Baseball Game](https://leetcode.com/problems/baseball-game/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/BaseballGame_682.swift)|Easy|
+|479|[Largest Palindrome Product](https://leetcode.com/problems/largest-palindrome-product/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/LargestPalindromeProduct_479.swift)|Easy|
 |744|[Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/FindSmallestLetterGreaterThanTarget_744.swift)|Easy|
 |747|[Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/MinCostClimbingStairs_747.swift)|Easy|
 |482|[License Key Formatting](https://leetcode.com/problems/license-key-formatting/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/LicenseKeyFormatting_482.swift)|Easy|
