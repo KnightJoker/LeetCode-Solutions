@@ -157,6 +157,7 @@ On non-macOS computers, please substitute `CTRL` for `⌘ `.
 |479|[Largest Palindrome Product](https://leetcode.com/problems/largest-palindrome-product/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/LargestPalindromeProduct_479.swift)|Easy|
 |744|[Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/FindSmallestLetterGreaterThanTarget_744.swift)|Easy|
 |747|[Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/MinCostClimbingStairs_747.swift)|Easy|
+|760|[Find Anagram Mappings](https://leetcode.com/problems/find-anagram-mappings/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/FindAnagramMappings_760.swift)|Easy|
 |482|[License Key Formatting](https://leetcode.com/problems/license-key-formatting/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/LicenseKeyFormatting_482.swift)|Easy|
 |442|[Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/FindAllDuplicatesInAnArray_442.swift)|Medium|
 |540|[Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/SingleElementInASortedArray_540.swift)|Medium|

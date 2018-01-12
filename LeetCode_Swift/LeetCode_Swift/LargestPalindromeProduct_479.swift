@@ -10,10 +10,8 @@ import Foundation
 
 class LargestPalindromeProduct_479 {
     func largestPalindrome(_ n: Int) -> Int {
-//        int rst[] = {9, 987, 123, 597, 677, 1218, 877, 475};
-//        return rst[n-1];
+
         let ret = [9, 987, 123, 597, 677, 1218, 877, 475]
-        
         return ret[n - 1]
     }
 }
