@@ -30,7 +30,7 @@ class ListNode {
 
 //String()
 
-let a = FindAnagramMappings_760()
+let a = BeautifulArrangement_526()
 
 let r0 = TreeNode(1)
 let r1 = TreeNode(2)
@@ -78,7 +78,7 @@ b2.next = b3
 
 var aaa = ["a","a","b","b","c","c","c"] as [Character]
 
-print(a.anagramMappings([12, 28, 46, 32, 50], [50, 12, 32, 46, 28]))
+print(a.countArrangement(2))
 
 
 
