@@ -191,4 +191,5 @@ On non-macOS computers, please substitute `CTRL` for `⌘ `.
 |503|[Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/NextGreaterElementII_503.swift)|Medium|
 |646|[Maximum Length of Pair Chain](https://leetcode.com/problems/maximum-length-of-pair-chain/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/MaximumLengthOfPairChain_646.swift)|Medium|
 |526|[Beautiful Arrangement](https://leetcode.com/problems/beautiful-arrangement/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/BeautifulArrangement_526.swift)|Medium|
+|454|[4Sum II](https://leetcode.com/problems/4sum-ii/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/SumII_4_454.swift)|Medium|
 |535|[Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/#/description) | [Objective-C](./LeetCode_Solutions/LeetCode_Solutions/EncodeAndDecodeTinyURL_535.m)|Medium|
