@@ -30,7 +30,7 @@ class ListNode {
 
 //String()
 
-let a = MaximumXOROfTwoNumbersInAnArray_421()
+let a = ReplaceWords_648()
 
 let r0 = TreeNode(1)
 let r1 = TreeNode(2)
@@ -79,7 +79,7 @@ b2.next = b3
 var aaa = ["a","a","b","b","c","c","c"] as [Character]
 
 
-print(a.findMaximumXOR([3, 10, 5, 25, 2, 8]))
+print(a.replaceWords(["cat", "bat", "rat"], "the cattle was rattled by the battery"))
 
 
 
