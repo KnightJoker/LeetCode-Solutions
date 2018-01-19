@@ -30,7 +30,7 @@ class ListNode {
 
 //String()
 
-let a = ReplaceWords_648()
+let a = GenerateParentheses_22()
 
 let r0 = TreeNode(1)
 let r1 = TreeNode(2)
@@ -79,7 +79,7 @@ b2.next = b3
 var aaa = ["a","a","b","b","c","c","c"] as [Character]
 
 
-print(a.replaceWords(["cat", "bat", "rat"], "the cattle was rattled by the battery"))
+print(a.generateParenthesis(3))
 
 
 

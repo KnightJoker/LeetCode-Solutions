@@ -194,4 +194,5 @@ On non-macOS computers, please substitute `CTRL` for `⌘ `.
 |454|[4Sum II](https://leetcode.com/problems/4sum-ii/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/SumII_4_454.swift)|Medium|
 |421|[Maximum XOR of Two Numbers in an Array](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/MaximumXOROfTwoNumbersInAnArray_421.swift)|Medium|
 |648|[Replace Words](https://leetcode.com/problems/replace-words/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/ReplaceWords_648.swift)|Medium|
+|22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/GenerateParentheses_22.swift)|Medium|
 |535|[Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/#/description) | [Objective-C](./LeetCode_Solutions/LeetCode_Solutions/EncodeAndDecodeTinyURL_535.m)|Medium|
