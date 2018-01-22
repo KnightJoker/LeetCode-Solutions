@@ -167,6 +167,7 @@
 		B5A86B912010420700B07084 /* ReplaceWords_648.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5A86B902010420700B07084 /* ReplaceWords_648.swift */; };
 		B5A86B9320118CB200B07084 /* GenerateParentheses_22.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5A86B9220118CB200B07084 /* GenerateParentheses_22.swift */; };
 		B5A86BAD2015812700B07084 /* CombinationSumIII_216.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5A86BAC2015812700B07084 /* CombinationSumIII_216.swift */; };
+		B5A86BAF20158FF600B07084 /* CombinationSum_39.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5A86BAE20158FF600B07084 /* CombinationSum_39.swift */; };
 		B5C1DEC31F7C922800830C6F /* SetMismatch_645.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5C1DEC21F7C922800830C6F /* SetMismatch_645.swift */; };
 		B5D967AC1FDF7180000396B6 /* BattleshipsInABoard_419.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5D967AB1FDF7180000396B6 /* BattleshipsInABoard_419.swift */; };
 		B5D967AE1FDFDAAD000396B6 /* PalindromicSubstrings_647.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5D967AD1FDFDAAD000396B6 /* PalindromicSubstrings_647.swift */; };
@@ -370,6 +371,7 @@
 		B5A86B902010420700B07084 /* ReplaceWords_648.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReplaceWords_648.swift; sourceTree = "<group>"; };
 		B5A86B9220118CB200B07084 /* GenerateParentheses_22.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GenerateParentheses_22.swift; sourceTree = "<group>"; };
 		B5A86BAC2015812700B07084 /* CombinationSumIII_216.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CombinationSumIII_216.swift; sourceTree = "<group>"; };
+		B5A86BAE20158FF600B07084 /* CombinationSum_39.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CombinationSum_39.swift; sourceTree = "<group>"; };
 		B5C1DEC21F7C922800830C6F /* SetMismatch_645.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SetMismatch_645.swift; sourceTree = "<group>"; };
 		B5D967AB1FDF7180000396B6 /* BattleshipsInABoard_419.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BattleshipsInABoard_419.swift; sourceTree = "<group>"; };
 		B5D967AD1FDFDAAD000396B6 /* PalindromicSubstrings_647.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PalindromicSubstrings_647.swift; sourceTree = "<group>"; };
@@ -616,6 +618,7 @@
 				B5A86B902010420700B07084 /* ReplaceWords_648.swift */,
 				B5A86B9220118CB200B07084 /* GenerateParentheses_22.swift */,
 				B5A86BAC2015812700B07084 /* CombinationSumIII_216.swift */,
+				B5A86BAE20158FF600B07084 /* CombinationSum_39.swift */,
 			);
 			path = LeetCode_Swift;
 			sourceTree = "<group>";
@@ -736,6 +739,7 @@
 				B5E553F11FCE544800AEAD4A /* K_diffPairsInAnArray_532.swift in Sources */,
 				B54229AC1FF1EECB00224BBB /* ArrayNesting_565.swift in Sources */,
 				B53E50411FB3F5F500CE361D /* RepeatedStringMatch_686.swift in Sources */,
+				B5A86BAF20158FF600B07084 /* CombinationSum_39.swift in Sources */,
 				B5E553DB1FCBB0E200AEAD4A /* ShortestUnsortedContinuousSubarray_581.swift in Sources */,
 				B5A86BAD2015812700B07084 /* CombinationSumIII_216.swift in Sources */,
 				B519CF3F1FCFD52700D1A547 /* SingleElementInASortedArray_540.swift in Sources */,
