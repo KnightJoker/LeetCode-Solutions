@@ -197,4 +197,5 @@ On non-macOS computers, please substitute `CTRL` for `⌘ `.
 |22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/GenerateParentheses_22.swift)|Medium|
 |39|[Combination Sum](https://leetcode.com/problems/combination-sum/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/CombinationSum_39.swift)|Medium|
 |216|[Combination Sum III](https://leetcode.com/problems/combination-sum-iii/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/CombinationSumIII_216.swift)|Medium|
+|623|[Add One Row to Tree](https://leetcode.com/problems/add-one-row-to-tree/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/AddOneRowToTree_623.swift)|Medium|
 |535|[Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/#/description) | [Objective-C](./LeetCode_Solutions/LeetCode_Solutions/EncodeAndDecodeTinyURL_535.m)|Medium|

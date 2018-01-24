@@ -168,6 +168,7 @@
 		B5A86B9320118CB200B07084 /* GenerateParentheses_22.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5A86B9220118CB200B07084 /* GenerateParentheses_22.swift */; };
 		B5A86BAD2015812700B07084 /* CombinationSumIII_216.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5A86BAC2015812700B07084 /* CombinationSumIII_216.swift */; };
 		B5A86BAF20158FF600B07084 /* CombinationSum_39.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5A86BAE20158FF600B07084 /* CombinationSum_39.swift */; };
+		B5A86BB12018259600B07084 /* AddOneRowToTree_623.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5A86BB02018259600B07084 /* AddOneRowToTree_623.swift */; };
 		B5C1DEC31F7C922800830C6F /* SetMismatch_645.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5C1DEC21F7C922800830C6F /* SetMismatch_645.swift */; };
 		B5D967AC1FDF7180000396B6 /* BattleshipsInABoard_419.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5D967AB1FDF7180000396B6 /* BattleshipsInABoard_419.swift */; };
 		B5D967AE1FDFDAAD000396B6 /* PalindromicSubstrings_647.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5D967AD1FDFDAAD000396B6 /* PalindromicSubstrings_647.swift */; };
@@ -372,6 +373,7 @@
 		B5A86B9220118CB200B07084 /* GenerateParentheses_22.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GenerateParentheses_22.swift; sourceTree = "<group>"; };
 		B5A86BAC2015812700B07084 /* CombinationSumIII_216.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CombinationSumIII_216.swift; sourceTree = "<group>"; };
 		B5A86BAE20158FF600B07084 /* CombinationSum_39.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CombinationSum_39.swift; sourceTree = "<group>"; };
+		B5A86BB02018259600B07084 /* AddOneRowToTree_623.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddOneRowToTree_623.swift; sourceTree = "<group>"; };
 		B5C1DEC21F7C922800830C6F /* SetMismatch_645.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SetMismatch_645.swift; sourceTree = "<group>"; };
 		B5D967AB1FDF7180000396B6 /* BattleshipsInABoard_419.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BattleshipsInABoard_419.swift; sourceTree = "<group>"; };
 		B5D967AD1FDFDAAD000396B6 /* PalindromicSubstrings_647.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PalindromicSubstrings_647.swift; sourceTree = "<group>"; };
@@ -619,6 +621,7 @@
 				B5A86B9220118CB200B07084 /* GenerateParentheses_22.swift */,
 				B5A86BAC2015812700B07084 /* CombinationSumIII_216.swift */,
 				B5A86BAE20158FF600B07084 /* CombinationSum_39.swift */,
+				B5A86BB02018259600B07084 /* AddOneRowToTree_623.swift */,
 			);
 			path = LeetCode_Swift;
 			sourceTree = "<group>";
@@ -809,6 +812,7 @@
 				B5158F781F789BC200E66F61 /* ReverseStringII_541.swift in Sources */,
 				B5158F2E1F6F6A1500E66F61 /* NumberOfBoomerangs_447.swift in Sources */,
 				B5EDFD42200EEEEB00E07A5A /* SumII_4_454.swift in Sources */,
+				B5A86BB12018259600B07084 /* AddOneRowToTree_623.swift in Sources */,
 				B5158F091F662E2C00E66F61 /* AssignCookies_455.swift in Sources */,
 				B5694CFD1F58F4E400C6832E /* ReshapeTheMatrix_566.swift in Sources */,
 				B568497B1F8B0B8200E98E53 /* RemoveElement_27.swift in Sources */,
