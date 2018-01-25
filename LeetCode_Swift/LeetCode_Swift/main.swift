@@ -29,7 +29,7 @@ class ListNode {
 }
 
 //String()
-let a = AddOneRowToTree_623()
+let a = IntegerBreak_343()
 
 let r0 = TreeNode(4)
 let r1 = TreeNode(2)
@@ -81,7 +81,7 @@ b2.next = b3
 var aaa = ["a","a","b","b","c","c","c"] as [Character]
 
 
-print(a.addOneRow(r0, 1, 2))
+print(a.integerBreak(10))
 
 
 
