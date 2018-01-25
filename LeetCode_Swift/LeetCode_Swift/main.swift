@@ -29,11 +29,11 @@ class ListNode {
 }
 
 //String()
-let a = IntegerBreak_343()
+let a = BinaryTreePreorderTraversal_144()
 
-let r0 = TreeNode(4)
+let r0 = TreeNode(1)
 let r1 = TreeNode(2)
-let r2 = TreeNode(6)
+let r2 = TreeNode(3)
 let r3 = TreeNode(3)
 let r4 = TreeNode(1)
 let r5 = TreeNode(5)
@@ -41,12 +41,12 @@ let r5 = TreeNode(5)
 //let r7 = TreeNode(8)
 //let r4 = TreeNode(7)
 
-r0.left = r1
+r0.right = r1
 //r0.right = r2
-r0.right = r2
-r2.left = r3
-r2.right = r4
-r3.left = r5
+r1.left = r2
+//r2.left = r3
+//r2.right = r4
+//r3.left = r5
 //r1.left = r3
 //r1.right = r4
 //r2.left = r5
@@ -81,7 +81,7 @@ b2.next = b3
 var aaa = ["a","a","b","b","c","c","c"] as [Character]
 
 
-print(a.integerBreak(10))
+print(a.preorderTraversal(r0))
 
 
 
