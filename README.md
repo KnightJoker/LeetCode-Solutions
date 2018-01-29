@@ -201,4 +201,5 @@ On non-macOS computers, please substitute `CTRL` for `⌘ `.
 |343|[Integer Break](https://leetcode.com/problems/integer-break/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/IntegerBreak_343.swift)|Medium|
 |144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/BinaryTreePreorderTraversal_144.swift)|Medium|
 |498|[Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/DiagonalTraverse_498.swift)|Medium|
+|445|[Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/AddTwoNumbersII_445.swift)|Medium|
 |535|[Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/#/description) | [Objective-C](./LeetCode_Solutions/LeetCode_Solutions/EncodeAndDecodeTinyURL_535.m)|Medium|
