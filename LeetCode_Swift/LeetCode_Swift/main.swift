@@ -29,7 +29,7 @@ class ListNode {
 }
 
 //String()
-let a = FractionAdditionAndSubtraction_592()
+let a = MinimumTimeDifference_539()
 
 let r0 = TreeNode(1)
 let r1 = TreeNode(2)
@@ -81,7 +81,7 @@ b2.next = b3
 var aaa = ["a","a","b","b","c","c","c"] as [Character]
 
 
-print(a.fractionAddition("-1/2+1/2"))
+print(a.findMinDifference(["17:41","22:06","20:59","17:37","04:14"]))
 
 
 
