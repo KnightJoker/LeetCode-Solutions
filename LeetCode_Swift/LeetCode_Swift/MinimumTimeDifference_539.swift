@@ -16,16 +16,16 @@ class MinimumTimeDifference_539 {
         
         for time in timePoints {
             let index = time.index(time.startIndex, offsetBy: 2)
-            let hour = time.substring(to: index)
+            let hour = time[..<index]
             
             let index1 = time.index(time.startIndex, offsetBy: 3)
-            let min = time.substring(from: index1)
+            let min = time[index1...]
             
             array.append((Int(hour) == 0 ? 24 : Int(hour)!) * 60 + (Int(min) ?? 0))
         }
         
         var res = Int.max
-
+        
         array = array.sorted()
         for i in 0..<array.count {
             let cur = array[i]

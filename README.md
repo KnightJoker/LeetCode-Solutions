@@ -204,4 +204,5 @@ On non-macOS computers, please substitute `CTRL` for `⌘ `.
 |445|[Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/AddTwoNumbersII_445.swift)|Medium|
 |592|[Fraction Addition and Subtraction](https://leetcode.com/problems/fraction-addition-and-subtraction/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/FractionAdditionAndSubtraction_592.swift)|Medium|
 |539|[Minimum Time Difference](https://leetcode.com/problems/minimum-time-difference/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/MinimumTimeDifference_539.swift)|Medium|
+|12|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/IntegerToRoman_12.swift)|Medium|
 |535|[Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/#/description) | [Objective-C](./LeetCode_Solutions/LeetCode_Solutions/EncodeAndDecodeTinyURL_535.m)|Medium|
