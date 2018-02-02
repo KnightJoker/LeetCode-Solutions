@@ -49,8 +49,10 @@ class DifferentWaysToAddParentheses_241 {
             res.append(Int(input)!)
         }
         
+        
         return res
     }
 }
+
 
 

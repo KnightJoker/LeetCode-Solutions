@@ -29,7 +29,7 @@ class ListNode {
 }
 
 //String()
-let a = DifferentWaysToAddParentheses_241()
+let a = KthSmallestElementInASortedMatrix_378()
 
 let r0 = TreeNode(1)
 let r1 = TreeNode(2)
@@ -80,9 +80,11 @@ b2.next = b3
 
 var aaa = ["a","a","b","b","c","c","c"] as [Character]
 
-
-
-print(a.diffWaysToCompute("2*3-4*5"))
+print(a.kthSmallest([
+    [ 1,  5,  9],
+    [10, 11, 13],
+    [12, 13, 15]
+    ], 8))
 
 
 

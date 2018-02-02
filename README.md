@@ -206,4 +206,5 @@ On non-macOS computers, please substitute `CTRL` for `⌘ `.
 |539|[Minimum Time Difference](https://leetcode.com/problems/minimum-time-difference/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/MinimumTimeDifference_539.swift)|Medium|
 |12|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/IntegerToRoman_12.swift)|Medium|
 |241|[Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/DifferentWaysToAddParentheses_241.swift)|Medium|
+|378|[Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/KthSmallestElementInASortedMatrix_378.swift)|Medium|
 |535|[Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/#/description) | [Objective-C](./LeetCode_Solutions/LeetCode_Solutions/EncodeAndDecodeTinyURL_535.m)|Medium|
