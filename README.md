@@ -208,4 +208,5 @@ On non-macOS computers, please substitute `CTRL` for `⌘ `.
 |241|[Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/DifferentWaysToAddParentheses_241.swift)|Medium|
 |378|[Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/KthSmallestElementInASortedMatrix_378.swift)|Medium|
 |318|[Maximum Product of Word Lengths](https://leetcode.com/problems/maximum-product-of-word-lengths/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/MaximumProductOfWordLengths_318.swift)|Medium|
+|230|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/KthSmallestElementInABST_230.swift)|Medium|
 |535|[Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/#/description) | [Objective-C](./LeetCode_Solutions/LeetCode_Solutions/EncodeAndDecodeTinyURL_535.m)|Medium|
