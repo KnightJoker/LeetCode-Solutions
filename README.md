@@ -210,4 +210,5 @@ On non-macOS computers, please substitute `CTRL` for `⌘ `.
 |318|[Maximum Product of Word Lengths](https://leetcode.com/problems/maximum-product-of-word-lengths/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/MaximumProductOfWordLengths_318.swift)|Medium|
 |230|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/KthSmallestElementInABST_230.swift)|Medium|
 |650|[2 Keys Keyboard](https://leetcode.com/problems/2-keys-keyboard/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/TwoKeysKeyboard_650.swift)|Medium|
+|392|[Is Subsequence](https://leetcode.com/problems/is-subsequence/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/IsSubsequence_392.swift)|Medium|
 |535|[Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/#/description) | [Objective-C](./LeetCode_Solutions/LeetCode_Solutions/EncodeAndDecodeTinyURL_535.m)|Medium|
