@@ -28,7 +28,6 @@ class IsSubsequence_392 {
             indexT += 1
         }
         
-        
         return false
     }
 }
