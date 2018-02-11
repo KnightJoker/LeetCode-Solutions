@@ -110,6 +110,7 @@
 		B53ED0FB202BEB4700DA63FD /* ReconstructOriginalDigitsFromEnglish_423.swift in Sources */ = {isa = PBXBuildFile; fileRef = B53ED0FA202BEB4700DA63FD /* ReconstructOriginalDigitsFromEnglish_423.swift */; };
 		B53ED107202D3CBD00DA63FD /* DeleteOperationForTwoStrings_583.swift in Sources */ = {isa = PBXBuildFile; fileRef = B53ED106202D3CBD00DA63FD /* DeleteOperationForTwoStrings_583.swift */; };
 		B53ED113202FDBAE00DA63FD /* HouseRobberIII_337.swift in Sources */ = {isa = PBXBuildFile; fileRef = B53ED112202FDBAE00DA63FD /* HouseRobberIII_337.swift */; };
+		B53ED115202FE75800DA63FD /* FindTheDuplicateNumber_287.swift in Sources */ = {isa = PBXBuildFile; fileRef = B53ED114202FE75800DA63FD /* FindTheDuplicateNumber_287.swift */; };
 		B542298E1FEA032300224BBB /* SortCharactersByFrequency_451.swift in Sources */ = {isa = PBXBuildFile; fileRef = B542298D1FEA032300224BBB /* SortCharactersByFrequency_451.swift */; };
 		B54229901FEA136B00224BBB /* MinimumASCIIDeleteSumForTwoStrings_712.swift in Sources */ = {isa = PBXBuildFile; fileRef = B542298F1FEA136B00224BBB /* MinimumASCIIDeleteSumForTwoStrings_712.swift */; };
 		B54229A31FEB4F1A00224BBB /* PrintBinaryTree_655.swift in Sources */ = {isa = PBXBuildFile; fileRef = B54229A21FEB4F1A00224BBB /* PrintBinaryTree_655.swift */; };
@@ -330,6 +331,7 @@
 		B53ED0FA202BEB4700DA63FD /* ReconstructOriginalDigitsFromEnglish_423.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReconstructOriginalDigitsFromEnglish_423.swift; sourceTree = "<group>"; };
 		B53ED106202D3CBD00DA63FD /* DeleteOperationForTwoStrings_583.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DeleteOperationForTwoStrings_583.swift; sourceTree = "<group>"; };
 		B53ED112202FDBAE00DA63FD /* HouseRobberIII_337.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HouseRobberIII_337.swift; sourceTree = "<group>"; };
+		B53ED114202FE75800DA63FD /* FindTheDuplicateNumber_287.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindTheDuplicateNumber_287.swift; sourceTree = "<group>"; };
 		B542298D1FEA032300224BBB /* SortCharactersByFrequency_451.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SortCharactersByFrequency_451.swift; sourceTree = "<group>"; };
 		B542298F1FEA136B00224BBB /* MinimumASCIIDeleteSumForTwoStrings_712.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumASCIIDeleteSumForTwoStrings_712.swift; sourceTree = "<group>"; };
 		B54229A21FEB4F1A00224BBB /* PrintBinaryTree_655.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PrintBinaryTree_655.swift; sourceTree = "<group>"; };
@@ -670,6 +672,7 @@
 				B53ED0FA202BEB4700DA63FD /* ReconstructOriginalDigitsFromEnglish_423.swift */,
 				B53ED106202D3CBD00DA63FD /* DeleteOperationForTwoStrings_583.swift */,
 				B53ED112202FDBAE00DA63FD /* HouseRobberIII_337.swift */,
+				B53ED114202FE75800DA63FD /* FindTheDuplicateNumber_287.swift */,
 			);
 			path = LeetCode_Swift;
 			sourceTree = "<group>";
@@ -761,6 +764,7 @@
 				B5A5522A1F4C1E7A0032FE78 /* ClimbingStairs_70.swift in Sources */,
 				B5158F7A1F78A3B500E66F61 /* SecondMinimumNodeInABinaryTree_671.swift in Sources */,
 				B51B73741F3AAAB40082A8FB /* SumOfLeftLeaves_404.swift in Sources */,
+				B53ED115202FE75800DA63FD /* FindTheDuplicateNumber_287.swift in Sources */,
 				B5EDF912200CD25200E07A5A /* PrimeNumberOfSetBitsInBinaryRepresentation_762.swift in Sources */,
 				B580E01E1FA96F0A00A1D9A8 /* WordPattern_290.swift in Sources */,
 				B51B73761F3ABF260082A8FB /* LongestPalindrome_409.swift in Sources */,
