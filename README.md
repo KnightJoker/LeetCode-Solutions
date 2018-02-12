@@ -215,4 +215,5 @@ On non-macOS computers, please substitute `CTRL` for `⌘ `.
 |583|[Delete Operation for Two Strings](https://leetcode.com/problems/delete-operation-for-two-strings/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/DeleteOperationForTwoStrings_583.swift)|Medium|
 |337|[House Robber III](https://leetcode.com/problems/house-robber-iii/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/HouseRobberIII_337.swift)|Medium|
 |287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/FindTheDuplicateNumber_287.swift)|Medium|
+|78|[Subsets](https://leetcode.com/problems/subsets/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/Subsets_78.swift)|Medium|
 |535|[Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/#/description) | [Objective-C](./LeetCode_Solutions/LeetCode_Solutions/EncodeAndDecodeTinyURL_535.m)|Medium|
