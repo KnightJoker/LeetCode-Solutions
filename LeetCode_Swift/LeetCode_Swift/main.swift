@@ -29,7 +29,7 @@ class ListNode {
 }
 
 //String()
-let a = FindTheDuplicateNumber_287()
+let a = DeleteAndEarn_740()
 
 let r0 = TreeNode(1)
 let r1 = TreeNode(2)
@@ -80,7 +80,7 @@ b2.next = b3
 
 var aaa = ["a","a","b","b","c","c","c"] as [Character]
 
-print(a.findDuplicate([1,1]))
+print(a.deleteAndEarn([2, 2, 3, 3, 3, 4]))
 
 
 
