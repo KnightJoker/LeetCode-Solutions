@@ -160,6 +160,7 @@ On non-macOS computers, please substitute `CTRL` for `⌘ `.
 |760|[Find Anagram Mappings](https://leetcode.com/problems/find-anagram-mappings/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/FindAnagramMappings_760.swift)|Easy|
 |762|[Prime Number of Set Bits in Binary Representation](https://leetcode.com/submissions/detail/136259378/) | [Swift](./LeetCode_Swift/LeetCode_Swift/PrimeNumberOfSetBitsInBinaryRepresentation_762.swift)|Easy|
 |482|[License Key Formatting](https://leetcode.com/problems/license-key-formatting/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/LicenseKeyFormatting_482.swift)|Easy|
+|771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/JewelsAndStones_771.swift)|Easy|
 |442|[Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/FindAllDuplicatesInAnArray_442.swift)|Medium|
 |540|[Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/SingleElementInASortedArray_540.swift)|Medium|
 |654|[Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/MaximumBinaryTree_654.swift)|Medium|

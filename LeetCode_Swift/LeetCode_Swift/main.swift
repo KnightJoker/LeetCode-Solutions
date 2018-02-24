@@ -29,7 +29,7 @@ class ListNode {
 }
 
 //String()
-let a = DeleteAndEarn_740()
+let a = JewelsAndStones_771()
 
 let r0 = TreeNode(1)
 let r1 = TreeNode(2)
@@ -80,7 +80,7 @@ b2.next = b3
 
 var aaa = ["a","a","b","b","c","c","c"] as [Character]
 
-print(a.deleteAndEarn([2, 2, 3, 3, 3, 4]))
+print(a.numJewelsInStones("z", "ZZZ"))
 
 
 
