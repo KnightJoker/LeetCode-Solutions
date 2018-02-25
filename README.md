@@ -142,6 +142,7 @@ On non-macOS computers, please substitute `CTRL` for `⌘ `.
 |168|[Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/ExcelSheetColumnTitle_168.swift)|Easy|
 |581|[Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/ShortestUnsortedContinuousSubarray_581.swift)|Easy|
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/ValidPalindrome_125.swift)|Easy|
+|788|[Rotated Digits](https://leetcode.com/problems/rotated-digits/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/RotatedDigits_788.swift)|Easy|
 |189|[Rotate Array](https://leetcode.com/problems/rotate-array/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/RotateArray_189.swift)|Easy|
 |665|[Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/Non_decreasingArray_665.swift)|Easy|
 |669|[Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/TrimABinarySearchTree_669.swift)|Easy|
