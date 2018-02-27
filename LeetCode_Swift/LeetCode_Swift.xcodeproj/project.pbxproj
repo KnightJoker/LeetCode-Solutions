@@ -691,12 +691,10 @@
 				B53ED127203FB35700DA63FD /* DeleteAndEarn_740.swift */,
 				B53ED1332041053400DA63FD /* JewelsAndStones_771.swift */,
 				B53ED1352041086E00DA63FD /* ToeplitzMatrix_766.swift */,
-<<<<<<< HEAD
 				B53ED13D2044F31C00DA63FD /* CustomSortString_791.swift */,
-=======
 				22F6A1CA204290180044F32D /* RotatedDigits_788.swift */,
 				22F6A1CC20444E250044F32D /* FriendCircles_547.swift */,
->>>>>>> df0714f152d0b4c2d12c8a5dc1e7ba5f08d85fcb
+
 			);
 			path = LeetCode_Swift;
 			sourceTree = "<group>";
