@@ -219,4 +219,5 @@ On non-macOS computers, please substitute `CTRL` for `⌘ `.
 |287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/FindTheDuplicateNumber_287.swift)|Medium|
 |78|[Subsets](https://leetcode.com/problems/subsets/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/Subsets_78.swift)|Medium|
 |740|[Delete and Earn](https://leetcode.com/problems/delete-and-earn/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/DeleteAndEarn_740.swift)|Medium|
+|791|[Custom Sort String](https://leetcode.com/problems/custom-sort-string/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/CustomSortString_791.swift)|Medium|
 |535|[Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/#/description) | [Objective-C](./LeetCode_Solutions/LeetCode_Solutions/EncodeAndDecodeTinyURL_535.m)|Medium|
