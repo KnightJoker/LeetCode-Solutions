@@ -29,7 +29,7 @@ class ListNode {
 }
 
 //String()
-let a = CustomSortString_791()
+let a = TargetSum_494()
 
 let r0 = TreeNode(1)
 let r1 = TreeNode(2)
@@ -80,7 +80,7 @@ b2.next = b3
 
 var aaa = ["a","a","b","b","c","c","c"] as [Character]
 
-print(a.customSortString("cba", "abcd"))
+print(a.findTargetSumWays([1, 1, 1, 1, 1], 3))
 
 
 

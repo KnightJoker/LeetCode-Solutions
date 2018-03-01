@@ -223,4 +223,5 @@ On non-macOS computers, please substitute `CTRL` for `⌘ `.
 |791|[Custom Sort String](https://leetcode.com/problems/custom-sort-string/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/CustomSortString_791.swift)|Medium|
 |547|[Friend Circles](https://leetcode.com/problems/friend-circles/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/FriendCircles_547.swift)|Medium|
 |763|[Partition Labels](https://leetcode.com/problems/partition-labels/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/PartitionLabels_763.swift)|Medium|
+|494|[Target Sum](https://leetcode.com/problems/target-sum/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/TargetSum_494.swift)|Medium|
 |535|[Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/#/description) | [Objective-C](./LeetCode_Solutions/LeetCode_Solutions/EncodeAndDecodeTinyURL_535.m)|Medium|
