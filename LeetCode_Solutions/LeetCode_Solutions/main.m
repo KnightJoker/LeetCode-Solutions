@@ -18,6 +18,14 @@ int main(int argc, const char * argv[]) {
 //        
 //        NSLog(@"~~~~%hhd",[a detectCapitalUse:@"LeetcOde"]);
         
+        __block int val = 0;
+        void (^blk)(void) = ^ {
+            printf("in block val = %d\n", val);
+            val = 2;
+        };
+        val = 1;
+        blk();
+        printf("in block val = %d\n", val);
 
     }
     return 0;
