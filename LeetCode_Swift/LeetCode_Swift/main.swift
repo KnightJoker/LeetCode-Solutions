@@ -78,8 +78,6 @@ b2.next = b3
 
 //print(Int(UnicodeScalar("A")))
 
-var aaa = ["a","a","b","b","c","c","c"] as [Character]
-
 print(a.findTargetSumWays([1, 1, 1, 1, 1], 3))
 
 
