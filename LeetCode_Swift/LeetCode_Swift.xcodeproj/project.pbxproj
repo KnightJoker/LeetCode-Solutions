@@ -122,6 +122,7 @@
 		B53ED14620464CC000DA63FD /* PartitionLabels_763.swift in Sources */ = {isa = PBXBuildFile; fileRef = B53ED14520464CC000DA63FD /* PartitionLabels_763.swift */; };
 		B53ED1482046519E00DA63FD /* TargetSum_494.swift in Sources */ = {isa = PBXBuildFile; fileRef = B53ED1472046519E00DA63FD /* TargetSum_494.swift */; };
 		B53ED14D20479E0A00DA63FD /* LongestWordInDictionaryThroughDeleting_524.swift in Sources */ = {isa = PBXBuildFile; fileRef = B53ED14C20479E0A00DA63FD /* LongestWordInDictionaryThroughDeleting_524.swift */; };
+		B53ED1AF204E988400DA63FD /* MajorityElementII_229.swift in Sources */ = {isa = PBXBuildFile; fileRef = B53ED1AE204E988400DA63FD /* MajorityElementII_229.swift */; };
 		B542298E1FEA032300224BBB /* SortCharactersByFrequency_451.swift in Sources */ = {isa = PBXBuildFile; fileRef = B542298D1FEA032300224BBB /* SortCharactersByFrequency_451.swift */; };
 		B54229901FEA136B00224BBB /* MinimumASCIIDeleteSumForTwoStrings_712.swift in Sources */ = {isa = PBXBuildFile; fileRef = B542298F1FEA136B00224BBB /* MinimumASCIIDeleteSumForTwoStrings_712.swift */; };
 		B54229A31FEB4F1A00224BBB /* PrintBinaryTree_655.swift in Sources */ = {isa = PBXBuildFile; fileRef = B54229A21FEB4F1A00224BBB /* PrintBinaryTree_655.swift */; };
@@ -354,6 +355,7 @@
 		B53ED14520464CC000DA63FD /* PartitionLabels_763.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PartitionLabels_763.swift; sourceTree = "<group>"; };
 		B53ED1472046519E00DA63FD /* TargetSum_494.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TargetSum_494.swift; sourceTree = "<group>"; };
 		B53ED14C20479E0A00DA63FD /* LongestWordInDictionaryThroughDeleting_524.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongestWordInDictionaryThroughDeleting_524.swift; sourceTree = "<group>"; };
+		B53ED1AE204E988400DA63FD /* MajorityElementII_229.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MajorityElementII_229.swift; sourceTree = "<group>"; };
 		B542298D1FEA032300224BBB /* SortCharactersByFrequency_451.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SortCharactersByFrequency_451.swift; sourceTree = "<group>"; };
 		B542298F1FEA136B00224BBB /* MinimumASCIIDeleteSumForTwoStrings_712.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumASCIIDeleteSumForTwoStrings_712.swift; sourceTree = "<group>"; };
 		B54229A21FEB4F1A00224BBB /* PrintBinaryTree_655.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PrintBinaryTree_655.swift; sourceTree = "<group>"; };
@@ -706,6 +708,7 @@
 				B53ED1472046519E00DA63FD /* TargetSum_494.swift */,
 				B53ED14C20479E0A00DA63FD /* LongestWordInDictionaryThroughDeleting_524.swift */,
 				22D23145204C4A9A000C9E0F /* Permutations_46.swift */,
+				B53ED1AE204E988400DA63FD /* MajorityElementII_229.swift */,
 			);
 			path = LeetCode_Swift;
 			sourceTree = "<group>";
@@ -860,6 +863,7 @@
 				B5158F491F70B38700E66F61 /* BinaryWatch_401.swift in Sources */,
 				B57A97071FE3BAB100484339 /* MinimumMovesToEqualArrayElementsII_462.swift in Sources */,
 				B53ED0FB202BEB4700DA63FD /* ReconstructOriginalDigitsFromEnglish_423.swift in Sources */,
+				B53ED1AF204E988400DA63FD /* MajorityElementII_229.swift in Sources */,
 				B580DFEB1FA191DA00A1D9A8 /* PerfectNumber_507.swift in Sources */,
 				B538FC981F3D4F5C00A1BC5C /* ValidAnagram_242.swift in Sources */,
 				B54229A51FEB61C900224BBB /* ProductOfArrayExceptSelf_238.swift in Sources */,
