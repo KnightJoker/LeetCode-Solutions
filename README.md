@@ -227,4 +227,5 @@ On non-macOS computers, please substitute `CTRL` for `⌘ `.
 |524|[Longest Word in Dictionary through Deleting](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/LongestWordInDictionaryThroughDeleting_524.swift)|Medium|
 |46|[Permutations](https://leetcode.com/problems/permutations/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/Permutations_46.swift)|Medium|
 |229|[Majority Element II](https://leetcode.com/problems/majority-element-ii/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/MajorityElementII_229.swift)|Medium|
+|319|[Bulb Switcher](https://leetcode.com/problems/bulb-switcher/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/BulbSwitcher_319.swift)|Medium|
 |535|[Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/#/description) | [Objective-C](./LeetCode_Solutions/LeetCode_Solutions/EncodeAndDecodeTinyURL_535.m)|Medium|
