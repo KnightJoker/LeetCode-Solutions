@@ -29,7 +29,7 @@ class ListNode {
 }
 
 //String()
-let a = TargetSum_494()
+let a = LongestRepeatingCharacterReplacement_424()
 
 let r0 = TreeNode(1)
 let r1 = TreeNode(2)
@@ -78,13 +78,10 @@ b2.next = b3
 
 //print(Int(UnicodeScalar("A")))
 
-print(a.findTargetSumWays([1, 1, 1, 1, 1], 3))
+print(a.characterReplacement("ABAB", 2))
 
 
-
-
-
-
+//print(Int("A".hashValue))
 
 
 
