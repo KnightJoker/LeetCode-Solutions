@@ -81,7 +81,7 @@ b2.next = b3
 print(a.characterReplacement("ABAB", 2))
 
 
-//print(Int("A".hashValue))
+print(Int("A".hashValue))
 
 
 
