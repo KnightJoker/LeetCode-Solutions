@@ -229,4 +229,5 @@ On non-macOS computers, please substitute `CTRL` for `⌘ `.
 |229|[Majority Element II](https://leetcode.com/problems/majority-element-ii/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/MajorityElementII_229.swift)|Medium|
 |319|[Bulb Switcher](https://leetcode.com/problems/bulb-switcher/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/BulbSwitcher_319.swift)|Medium|
 |424|[Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/LongestRepeatingCharacterReplacement_424.swift)|Medium|
+|377|[Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/CombinationSumIV_377.swift)|Medium|
 |535|[Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/#/description) | [Objective-C](./LeetCode_Solutions/LeetCode_Solutions/EncodeAndDecodeTinyURL_535.m)|Medium|
