@@ -81,7 +81,7 @@ b2.next = b3
 print(a.combinationSum4([3,33,333], 10000))
 
 
-//print(Int("A".hashValue))
+print(Int("A".hashValue))
 
 
 
