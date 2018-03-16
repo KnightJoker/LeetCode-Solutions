@@ -231,4 +231,5 @@ On non-macOS computers, please substitute `CTRL` for `⌘ `.
 |424|[Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/LongestRepeatingCharacterReplacement_424.swift)|Medium|
 |377|[Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/CombinationSumIV_377.swift)|Medium|
 |137|[Single Number II](https://leetcode.com/problems/single-number-ii/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/SingleNumberII_137.swift)|Medium|
+|516|[Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/LongestPalindromicSubsequence_516.swift)|Medium|
 |535|[Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/#/description) | [Objective-C](./LeetCode_Solutions/LeetCode_Solutions/EncodeAndDecodeTinyURL_535.m)|Medium|
