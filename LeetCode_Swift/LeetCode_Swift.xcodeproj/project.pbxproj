@@ -204,6 +204,7 @@
 		B5C459F22058C086000EE28D /* CombinationSumIV_377.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5C459F12058C086000EE28D /* CombinationSumIV_377.swift */; };
 		B5C459FD205A0D2B000EE28D /* SingleNumberII_137.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5C459FC205A0D2B000EE28D /* SingleNumberII_137.swift */; };
 		B5C45A98205B635E000EE28D /* LongestPalindromicSubsequence_516.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5C45A97205B635E000EE28D /* LongestPalindromicSubsequence_516.swift */; };
+		B5C45A9C205CBC2C000EE28D /* GrayCode_89.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5C45A9B205CBC2C000EE28D /* GrayCode_89.swift */; };
 		B5D967AC1FDF7180000396B6 /* BattleshipsInABoard_419.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5D967AB1FDF7180000396B6 /* BattleshipsInABoard_419.swift */; };
 		B5D967AE1FDFDAAD000396B6 /* PalindromicSubstrings_647.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5D967AD1FDFDAAD000396B6 /* PalindromicSubstrings_647.swift */; };
 		B5D967B01FE0C357000396B6 /* OptimalDivision_553.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5D967AF1FE0C357000396B6 /* OptimalDivision_553.swift */; };
@@ -443,6 +444,7 @@
 		B5C459F12058C086000EE28D /* CombinationSumIV_377.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CombinationSumIV_377.swift; sourceTree = "<group>"; };
 		B5C459FC205A0D2B000EE28D /* SingleNumberII_137.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SingleNumberII_137.swift; sourceTree = "<group>"; };
 		B5C45A97205B635E000EE28D /* LongestPalindromicSubsequence_516.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongestPalindromicSubsequence_516.swift; sourceTree = "<group>"; };
+		B5C45A9B205CBC2C000EE28D /* GrayCode_89.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GrayCode_89.swift; sourceTree = "<group>"; };
 		B5D967AB1FDF7180000396B6 /* BattleshipsInABoard_419.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BattleshipsInABoard_419.swift; sourceTree = "<group>"; };
 		B5D967AD1FDFDAAD000396B6 /* PalindromicSubstrings_647.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PalindromicSubstrings_647.swift; sourceTree = "<group>"; };
 		B5D967AF1FE0C357000396B6 /* OptimalDivision_553.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OptimalDivision_553.swift; sourceTree = "<group>"; };
@@ -724,6 +726,7 @@
 				B5C459F12058C086000EE28D /* CombinationSumIV_377.swift */,
 				B5C459FC205A0D2B000EE28D /* SingleNumberII_137.swift */,
 				B5C45A97205B635E000EE28D /* LongestPalindromicSubsequence_516.swift */,
+				B5C45A9B205CBC2C000EE28D /* GrayCode_89.swift */,
 			);
 			path = LeetCode_Swift;
 			sourceTree = "<group>";
@@ -989,6 +992,7 @@
 				B582C88F1FB93AED00F4A767 /* PalindromeLinkedList_234.swift in Sources */,
 				B568496F1F7D075700E98E53 /* PathSumIII_437.swift in Sources */,
 				227A02E21FA4C33100D21791 /* IsomorphicStrings_205.swift in Sources */,
+				B5C45A9C205CBC2C000EE28D /* GrayCode_89.swift in Sources */,
 				B538FCD51F43E05200A1BC5C /* FizzBuzz_412.swift in Sources */,
 				B53ED1CB2052292F00DA63FD /* BulbSwitcher_319.swift in Sources */,
 				B538FD1D1F452FB600A1BC5C /* AddStrings_415.swift in Sources */,
