@@ -216,6 +216,7 @@
 		B5E0749C1FBE7CB60060CF90 /* NthDigit_400.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5E0749B1FBE7CB60060CF90 /* NthDigit_400.swift */; };
 		B5E0749E1FBE841C0060CF90 /* Heaters_475.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5E0749D1FBE841C0060CF90 /* Heaters_475.swift */; };
 		B5E074B31FC273DF0060CF90 /* SqrtX_69.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5E074B21FC273DF0060CF90 /* SqrtX_69.swift */; };
+		B5E51C442060D76200D7CC73 /* DecodeString_394.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5E51C432060D76200D7CC73 /* DecodeString_394.swift */; };
 		B5E553C11FC6662300AEAD4A /* ImplementStrStr_28.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5E553C01FC6662300AEAD4A /* ImplementStrStr_28.swift */; };
 		B5E553D71FC7F32800AEAD4A /* ExcelSheetColumnTitle_168.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5E553D61FC7F32800AEAD4A /* ExcelSheetColumnTitle_168.swift */; };
 		B5E553DB1FCBB0E200AEAD4A /* ShortestUnsortedContinuousSubarray_581.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5E553DA1FCBB0E200AEAD4A /* ShortestUnsortedContinuousSubarray_581.swift */; };
@@ -457,6 +458,7 @@
 		B5E0749B1FBE7CB60060CF90 /* NthDigit_400.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NthDigit_400.swift; sourceTree = "<group>"; };
 		B5E0749D1FBE841C0060CF90 /* Heaters_475.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Heaters_475.swift; sourceTree = "<group>"; };
 		B5E074B21FC273DF0060CF90 /* SqrtX_69.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SqrtX_69.swift; sourceTree = "<group>"; };
+		B5E51C432060D76200D7CC73 /* DecodeString_394.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DecodeString_394.swift; sourceTree = "<group>"; };
 		B5E553C01FC6662300AEAD4A /* ImplementStrStr_28.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImplementStrStr_28.swift; sourceTree = "<group>"; };
 		B5E553D61FC7F32800AEAD4A /* ExcelSheetColumnTitle_168.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExcelSheetColumnTitle_168.swift; sourceTree = "<group>"; };
 		B5E553DA1FCBB0E200AEAD4A /* ShortestUnsortedContinuousSubarray_581.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShortestUnsortedContinuousSubarray_581.swift; sourceTree = "<group>"; };
@@ -730,6 +732,7 @@
 				B5C45A97205B635E000EE28D /* LongestPalindromicSubsequence_516.swift */,
 				B5C45A9B205CBC2C000EE28D /* GrayCode_89.swift */,
 				B5D934FD205E77D800B7F181 /* OddEvenLinkedList_328.swift */,
+				B5E51C432060D76200D7CC73 /* DecodeString_394.swift */,
 			);
 			path = LeetCode_Swift;
 			sourceTree = "<group>";
@@ -922,6 +925,7 @@
 				B538FCCE1F428B1500A1BC5C /* ContainsDuplicate_217.swift in Sources */,
 				B5E553EA1FCCFD3600AEAD4A /* RotateArray_189.swift in Sources */,
 				22E051771FFA755B00D3D215 /* BaseballGame_682.swift in Sources */,
+				B5E51C442060D76200D7CC73 /* DecodeString_394.swift in Sources */,
 				B50F3A631FE2147200F0DF12 /* DailyTemperatures_739.swift in Sources */,
 				B51B73651F34781F0082A8FB /* FindTheDifference_389.swift in Sources */,
 				B5A5522C1F4E69500032FE78 /* MaximumDepthOfBinaryTree_104.swift in Sources */,
