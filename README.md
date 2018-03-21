@@ -235,4 +235,5 @@ On non-macOS computers, please substitute `CTRL` for `⌘ `.
 |89|[Gray Code](https://leetcode.com/problems/gray-code/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/GrayCode_89.swift)|Medium|
 |328|[Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/OddEvenLinkedList_328.swift)|Medium|
 |394|[Decode String](https://leetcode.com/problems/decode-string/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/DecodeString_394.swift)|Medium|
+|48|[Rotate Image](https://leetcode.com/problems/rotate-image/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/RotateImage_48.swift)|Medium|
 |535|[Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/#/description) | [Objective-C](./LeetCode_Solutions/LeetCode_Solutions/EncodeAndDecodeTinyURL_535.m)|Medium|
