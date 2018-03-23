@@ -29,7 +29,7 @@ class ListNode {
 }
 
 //String()
-let a = RotateImage_48()
+let a = EliminationGame_390()
 
 let r0 = TreeNode(1)
 let r1 = TreeNode(2)
@@ -85,7 +85,7 @@ var v1 = [
 ]
 
 
-print(a.rotate(&v1))
+print(a.lastRemaining(9))
 
 
 //print(Int("A".hashValue))

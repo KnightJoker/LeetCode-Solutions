@@ -237,4 +237,5 @@ On non-macOS computers, please substitute `CTRL` for `⌘ `.
 |394|[Decode String](https://leetcode.com/problems/decode-string/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/DecodeString_394.swift)|Medium|
 |48|[Rotate Image](https://leetcode.com/problems/rotate-image/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/RotateImage_48.swift)|Medium|
 |199|[Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/BinaryTreeRightSideView_199.swift)|Medium|
+|390|[Elimination Game](https://leetcode.com/problems/elimination-game/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/EliminationGame_390.swift)|Medium|
 |535|[Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/#/description) | [Objective-C](./LeetCode_Solutions/LeetCode_Solutions/EncodeAndDecodeTinyURL_535.m)|Medium|
