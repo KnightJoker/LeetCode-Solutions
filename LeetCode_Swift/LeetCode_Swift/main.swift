@@ -29,7 +29,7 @@ class ListNode {
 }
 
 //String()
-let a = CombinationSumIV_377()
+let a = EliminationGame_390()
 
 let r0 = TreeNode(1)
 let r1 = TreeNode(2)
@@ -78,7 +78,14 @@ b2.next = b3
 
 //print(Int(UnicodeScalar("A")))
 
-//print(a.combinationSum4([3,33,333], 10000))
+var v1 = [
+    [1,2,3],
+    [4,5,6],
+    [7,8,9]
+]
+
+
+print(a.lastRemaining(9))
 
 
 //print(Int("A".hashValue))
