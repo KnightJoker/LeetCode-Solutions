@@ -234,4 +234,5 @@ On non-macOS computers, please substitute `CTRL` for `⌘ `.
 |516|[Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/LongestPalindromicSubsequence_516.swift)|Medium|
 |89|[Gray Code](https://leetcode.com/problems/gray-code/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/GrayCode_89.swift)|Medium|
 |328|[Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/OddEvenLinkedList_328.swift)|Medium|
+|102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/BinaryTreeLevelOrderTraversal_102.swift)|Medium|
 |535|[Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/#/description) | [Objective-C](./LeetCode_Solutions/LeetCode_Solutions/EncodeAndDecodeTinyURL_535.m)|Medium|
