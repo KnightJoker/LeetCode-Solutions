@@ -740,14 +740,11 @@
 				B5C45A97205B635E000EE28D /* LongestPalindromicSubsequence_516.swift */,
 				B5C45A9B205CBC2C000EE28D /* GrayCode_89.swift */,
 				B5D934FD205E77D800B7F181 /* OddEvenLinkedList_328.swift */,
-<<<<<<< HEAD
 				2235FE8120660432007ACF15 /* BinaryTreeLevelOrderTraversal_102.swift */,
-=======
 				B5E51C432060D76200D7CC73 /* DecodeString_394.swift */,
 				B57E523C2061F9D300DFDF1B /* RotateImage_48.swift */,
 				B5D35F762063968000210211 /* BinaryTreeRightSideView_199.swift */,
 				B5D35F802064A16F00210211 /* EliminationGame_390.swift */,
->>>>>>> 871513eeefb2e9d99c209fff97ac692b6812c9c7
 			);
 			path = LeetCode_Swift;
 			sourceTree = "<group>";
