@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2235FE8220660432007ACF15 /* BinaryTreeLevelOrderTraversal_102.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2235FE8120660432007ACF15 /* BinaryTreeLevelOrderTraversal_102.swift */; };
 		227914A11F487B590056FE38 /* HappyNumber_202.swift in Sources */ = {isa = PBXBuildFile; fileRef = 227914A01F487B590056FE38 /* HappyNumber_202.swift */; };
 		227A02E21FA4C33100D21791 /* IsomorphicStrings_205.swift in Sources */ = {isa = PBXBuildFile; fileRef = 227A02E11FA4C33100D21791 /* IsomorphicStrings_205.swift */; };
 		22B8E1D01FF7E99800142E19 /* NextGreaterElementII_503.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22B8E1CF1FF7E99800142E19 /* NextGreaterElementII_503.swift */; };
@@ -252,6 +253,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		2235FE8120660432007ACF15 /* BinaryTreeLevelOrderTraversal_102.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BinaryTreeLevelOrderTraversal_102.swift; sourceTree = "<group>"; };
 		227914A01F487B590056FE38 /* HappyNumber_202.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HappyNumber_202.swift; sourceTree = "<group>"; };
 		227A02E11FA4C33100D21791 /* IsomorphicStrings_205.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IsomorphicStrings_205.swift; sourceTree = "<group>"; };
 		22B8E1CF1FF7E99800142E19 /* NextGreaterElementII_503.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NextGreaterElementII_503.swift; sourceTree = "<group>"; };
@@ -740,6 +742,7 @@
 				B5C45A97205B635E000EE28D /* LongestPalindromicSubsequence_516.swift */,
 				B5C45A9B205CBC2C000EE28D /* GrayCode_89.swift */,
 				B5D934FD205E77D800B7F181 /* OddEvenLinkedList_328.swift */,
+				2235FE8120660432007ACF15 /* BinaryTreeLevelOrderTraversal_102.swift */,
 				B5E51C432060D76200D7CC73 /* DecodeString_394.swift */,
 				B57E523C2061F9D300DFDF1B /* RotateImage_48.swift */,
 				B5D35F762063968000210211 /* BinaryTreeRightSideView_199.swift */,
@@ -841,6 +844,7 @@
 				B51B73741F3AAAB40082A8FB /* SumOfLeftLeaves_404.swift in Sources */,
 				B53ED115202FE75800DA63FD /* FindTheDuplicateNumber_287.swift in Sources */,
 				B5EDF912200CD25200E07A5A /* PrimeNumberOfSetBitsInBinaryRepresentation_762.swift in Sources */,
+				2235FE8220660432007ACF15 /* BinaryTreeLevelOrderTraversal_102.swift in Sources */,
 				B580E01E1FA96F0A00A1D9A8 /* WordPattern_290.swift in Sources */,
 				B51B73761F3ABF260082A8FB /* LongestPalindrome_409.swift in Sources */,
 				B538E251200210220076D287 /* BinaryNumberWithAlternatingBits_693.swift in Sources */,
