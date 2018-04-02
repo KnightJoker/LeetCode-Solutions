@@ -242,4 +242,5 @@ On non-macOS computers, please substitute `CTRL` for `⌘ `.
 |636|[Exclusive Time of Functions](https://leetcode.com/problems/exclusive-time-of-functions/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/ExclusiveTimeOfFunctions_636.swift)|Medium|
 |96|[Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/UniqueBinarySearchTrees_96.swift)|Medium|
 |62|[Unique Paths](https://leetcode.com/problems/unique-paths/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/UniquePaths_62.swift)|Medium|
+|807|[Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/MaxIncreaseToKeepCitySkyline_807.swift)|Medium|
 |535|[Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/#/description) | [Objective-C](./LeetCode_Solutions/LeetCode_Solutions/EncodeAndDecodeTinyURL_535.m)|Medium|
