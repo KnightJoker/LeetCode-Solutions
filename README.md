@@ -240,4 +240,5 @@ On non-macOS computers, please substitute `CTRL` for `⌘ `.
 |199|[Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/BinaryTreeRightSideView_199.swift)|Medium|
 |390|[Elimination Game](https://leetcode.com/problems/elimination-game/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/EliminationGame_390.swift)|Medium|
 |636|[Exclusive Time of Functions](https://leetcode.com/problems/exclusive-time-of-functions/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/ExclusiveTimeOfFunctions_636.swift)|Medium|
+|684|[Redundant Connection](https://leetcode.com/problems/redundant-connection/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/RedundantConnection_684.swift)|Medium|
 |535|[Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/#/description) | [Objective-C](./LeetCode_Solutions/LeetCode_Solutions/EncodeAndDecodeTinyURL_535.m)|Medium|
