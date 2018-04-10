@@ -183,6 +183,7 @@
 		B58E6EF01FD6C6DE005274EF /* SingleNumberIII_260.swift in Sources */ = {isa = PBXBuildFile; fileRef = B58E6EEF1FD6C6DE005274EF /* SingleNumberIII_260.swift */; };
 		B58E6EF21FD78B2B005274EF /* FindBottomLeftTreeValue_513.swift in Sources */ = {isa = PBXBuildFile; fileRef = B58E6EF11FD78B2B005274EF /* FindBottomLeftTreeValue_513.swift */; };
 		B58E6EF61FD8D68D005274EF /* SelfDividingNumbers_728.swift in Sources */ = {isa = PBXBuildFile; fileRef = B58E6EF51FD8D68D005274EF /* SelfDividingNumbers_728.swift */; };
+		B5906B49207CA66D00995D1B /* TopKFrequentWords_692.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5906B48207CA66D00995D1B /* TopKFrequentWords_692.swift */; };
 		B5A00CCD1F3177E30080BBF8 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5A00CCC1F3177E30080BBF8 /* main.swift */; };
 		B5A00CDC1F319F220080BBF8 /* ReverseString_344.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5A00CDB1F319F220080BBF8 /* ReverseString_344.swift */; };
 		B5A00CDE1F31AA210080BBF8 /* AddDigits_258.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5A00CDD1F31AA210080BBF8 /* AddDigits_258.swift */; };
@@ -434,6 +435,7 @@
 		B58E6EEF1FD6C6DE005274EF /* SingleNumberIII_260.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SingleNumberIII_260.swift; sourceTree = "<group>"; };
 		B58E6EF11FD78B2B005274EF /* FindBottomLeftTreeValue_513.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindBottomLeftTreeValue_513.swift; sourceTree = "<group>"; };
 		B58E6EF51FD8D68D005274EF /* SelfDividingNumbers_728.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SelfDividingNumbers_728.swift; sourceTree = "<group>"; };
+		B5906B48207CA66D00995D1B /* TopKFrequentWords_692.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TopKFrequentWords_692.swift; sourceTree = "<group>"; };
 		B5A00CC91F3177E30080BBF8 /* LeetCode_Swift */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = LeetCode_Swift; sourceTree = BUILT_PRODUCTS_DIR; };
 		B5A00CCC1F3177E30080BBF8 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		B5A00CDB1F319F220080BBF8 /* ReverseString_344.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ReverseString_344.swift; sourceTree = "<group>"; };
@@ -763,6 +765,7 @@
 				B533A6EA206D114000B14082 /* UniquePaths_62.swift */,
 				B5BEFE822072457A004FC46E /* MaxIncreaseToKeepCitySkyline_807.swift */,
 				B55ECECB207A23AF0090DB58 /* BestTimeToBuyAndSellStockWithCooldown_309.swift */,
+				B5906B48207CA66D00995D1B /* TopKFrequentWords_692.swift */,
 			);
 			path = LeetCode_Swift;
 			sourceTree = "<group>";
@@ -904,6 +907,7 @@
 				B5A86BAD2015812700B07084 /* CombinationSumIII_216.swift in Sources */,
 				B519CF3F1FCFD52700D1A547 /* SingleElementInASortedArray_540.swift in Sources */,
 				B52F933B1FB29F3D00AC4CCC /* MergeSortedArray_88.swift in Sources */,
+				B5906B49207CA66D00995D1B /* TopKFrequentWords_692.swift in Sources */,
 				B5158F4B1F70FEBA00E66F61 /* Base7_504.swift in Sources */,
 				B546D8F41F57A65E00D045D8 /* ReverseWordsInAStringIII_557.swift in Sources */,
 				B538E253200318BD0076D287 /* One_bitAndTwo_bitCharacters_717.swift in Sources */,

@@ -29,7 +29,7 @@ class ListNode {
 }
 
 //String()
-let a = EliminationGame_390()
+let a = TopKFrequentWords_692()
 
 let r0 = TreeNode(1)
 let r1 = TreeNode(2)
@@ -85,7 +85,7 @@ var v1 = [
 ]
 
 
-print(a.lastRemaining(9))
+print(a.topKFrequent(["i", "love", "leetcode", "i", "love", "coding"], 2))
 
 
 
