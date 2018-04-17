@@ -11,8 +11,8 @@ import Foundation
 class CustomSortString_791 {
     func customSortString(_ S: String, _ T: String) -> String {
         
-        let sArray = Array(S.characters)
-        var tArray = Array(T.characters)
+        let sArray = Array(S)
+        var tArray = Array(T)
         
         
         var index = 0
