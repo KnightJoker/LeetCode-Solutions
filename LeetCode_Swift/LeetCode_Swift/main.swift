@@ -28,6 +28,15 @@ class ListNode {
     }
 }
 
+public class Interval {
+    public var start: Int
+    public var end: Int
+    public init(_ start: Int, _ end: Int) {
+        self.start = start
+        self.end = end
+    }
+}
+
 //String()
 let a = Combinations_77()
 
