@@ -238,6 +238,7 @@
 		B5E5640620859385009739E8 /* ContiguousArray_525.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5E5640520859385009739E8 /* ContiguousArray_525.swift */; };
 		B5E5640B2086EAAF009739E8 /* Combinations_77.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5E5640A2086EAAF009739E8 /* Combinations_77.swift */; };
 		B5E5640D20886C2E009739E8 /* Non_overlappingIntervals_435.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5E5640C20886C2E009739E8 /* Non_overlappingIntervals_435.swift */; };
+		B5E5640F2089C73B009739E8 /* SpiralMatrixII_59.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5E5640E2089C73B009739E8 /* SpiralMatrixII_59.swift */; };
 		B5EDF89C20070F4200E07A5A /* LargestPalindromeProduct_479.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5EDF89B20070F4200E07A5A /* LargestPalindromeProduct_479.swift */; };
 		B5EDF8A5200863EE00E07A5A /* FindAnagramMappings_760.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5EDF8A4200863EE00E07A5A /* FindAnagramMappings_760.swift */; };
 		B5EDF912200CD25200E07A5A /* PrimeNumberOfSetBitsInBinaryRepresentation_762.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5EDF911200CD25200E07A5A /* PrimeNumberOfSetBitsInBinaryRepresentation_762.swift */; };
@@ -494,6 +495,7 @@
 		B5E5640520859385009739E8 /* ContiguousArray_525.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContiguousArray_525.swift; sourceTree = "<group>"; };
 		B5E5640A2086EAAF009739E8 /* Combinations_77.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Combinations_77.swift; sourceTree = "<group>"; };
 		B5E5640C20886C2E009739E8 /* Non_overlappingIntervals_435.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Non_overlappingIntervals_435.swift; sourceTree = "<group>"; };
+		B5E5640E2089C73B009739E8 /* SpiralMatrixII_59.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpiralMatrixII_59.swift; sourceTree = "<group>"; };
 		B5EDF89B20070F4200E07A5A /* LargestPalindromeProduct_479.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LargestPalindromeProduct_479.swift; sourceTree = "<group>"; };
 		B5EDF8A4200863EE00E07A5A /* FindAnagramMappings_760.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindAnagramMappings_760.swift; sourceTree = "<group>"; };
 		B5EDF911200CD25200E07A5A /* PrimeNumberOfSetBitsInBinaryRepresentation_762.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PrimeNumberOfSetBitsInBinaryRepresentation_762.swift; sourceTree = "<group>"; };
@@ -775,6 +777,7 @@
 				B5E5640520859385009739E8 /* ContiguousArray_525.swift */,
 				B5E5640A2086EAAF009739E8 /* Combinations_77.swift */,
 				B5E5640C20886C2E009739E8 /* Non_overlappingIntervals_435.swift */,
+				B5E5640E2089C73B009739E8 /* SpiralMatrixII_59.swift */,
 			);
 			path = LeetCode_Swift;
 			sourceTree = "<group>";
@@ -881,6 +884,7 @@
 				22F6A1CB204290180044F32D /* RotatedDigits_788.swift in Sources */,
 				B58E6EE71FD54E5A005274EF /* FindLargestValueInEachTreeRow_515.swift in Sources */,
 				B50BE95F1F79EEB6002ED20E /* ConvertSortedArrayToBinarySearchTree_108.swift in Sources */,
+				B5E5640F2089C73B009739E8 /* SpiralMatrixII_59.swift in Sources */,
 				B5A86B8F20103D0E00B07084 /* MaximumXOROfTwoNumbersInAnArray_421.swift in Sources */,
 				B580DFD51FA033D900A1D9A8 /* CountAndSay_38.swift in Sources */,
 				22B8E1D41FF8012E00142E19 /* LargestNumberAtLeastTwiceOfOthers_748.swift in Sources */,
