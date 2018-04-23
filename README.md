@@ -250,4 +250,5 @@ On non-macOS computers, please substitute `CTRL` for `⌘ `.
 |77|[Combinations](https://leetcode.com/problems/combinations/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/Combinations_77.swift)|Medium|
 |435|[Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/Non_overlappingIntervals_435.swift)|Medium|
 |59|[Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/SpiralMatrixII_59.swift)|Medium|
+|64|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/MinimumPathSum_64.swift)|Medium|
 |535|[Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/#/description) | [Objective-C](./LeetCode_Solutions/LeetCode_Solutions/EncodeAndDecodeTinyURL_535.m)|Medium|

@@ -151,6 +151,7 @@
 		B546D8E71F56592B00D045D8 /* KeyboardRow_500.swift in Sources */ = {isa = PBXBuildFile; fileRef = B546D8E61F56592B00D045D8 /* KeyboardRow_500.swift */; };
 		B546D8F41F57A65E00D045D8 /* ReverseWordsInAStringIII_557.swift in Sources */ = {isa = PBXBuildFile; fileRef = B546D8F31F57A65E00D045D8 /* ReverseWordsInAStringIII_557.swift */; };
 		B546D8F61F57AE0500D045D8 /* DistributeCandies_575.swift in Sources */ = {isa = PBXBuildFile; fileRef = B546D8F51F57AE0500D045D8 /* DistributeCandies_575.swift */; };
+		B54D51C9208DD15D004AFA90 /* MinimumPathSum_64.swift in Sources */ = {isa = PBXBuildFile; fileRef = B54D51C8208DD15D004AFA90 /* MinimumPathSum_64.swift */; };
 		B54F048A1FDE1F2E007E9B55 /* QueueReconstructionByHeight_406.swift in Sources */ = {isa = PBXBuildFile; fileRef = B54F04891FDE1F2E007E9B55 /* QueueReconstructionByHeight_406.swift */; };
 		B55ECECC207A23AF0090DB58 /* BestTimeToBuyAndSellStockWithCooldown_309.swift in Sources */ = {isa = PBXBuildFile; fileRef = B55ECECB207A23AF0090DB58 /* BestTimeToBuyAndSellStockWithCooldown_309.swift */; };
 		B568496F1F7D075700E98E53 /* PathSumIII_437.swift in Sources */ = {isa = PBXBuildFile; fileRef = B568496E1F7D075700E98E53 /* PathSumIII_437.swift */; };
@@ -407,6 +408,7 @@
 		B546D8E61F56592B00D045D8 /* KeyboardRow_500.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = KeyboardRow_500.swift; sourceTree = "<group>"; };
 		B546D8F31F57A65E00D045D8 /* ReverseWordsInAStringIII_557.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ReverseWordsInAStringIII_557.swift; sourceTree = "<group>"; };
 		B546D8F51F57AE0500D045D8 /* DistributeCandies_575.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DistributeCandies_575.swift; sourceTree = "<group>"; };
+		B54D51C8208DD15D004AFA90 /* MinimumPathSum_64.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumPathSum_64.swift; sourceTree = "<group>"; };
 		B54F04891FDE1F2E007E9B55 /* QueueReconstructionByHeight_406.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QueueReconstructionByHeight_406.swift; sourceTree = "<group>"; };
 		B55ECECB207A23AF0090DB58 /* BestTimeToBuyAndSellStockWithCooldown_309.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BestTimeToBuyAndSellStockWithCooldown_309.swift; sourceTree = "<group>"; };
 		B568496E1F7D075700E98E53 /* PathSumIII_437.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PathSumIII_437.swift; sourceTree = "<group>"; };
@@ -778,6 +780,7 @@
 				B5E5640A2086EAAF009739E8 /* Combinations_77.swift */,
 				B5E5640C20886C2E009739E8 /* Non_overlappingIntervals_435.swift */,
 				B5E5640E2089C73B009739E8 /* SpiralMatrixII_59.swift */,
+				B54D51C8208DD15D004AFA90 /* MinimumPathSum_64.swift */,
 			);
 			path = LeetCode_Swift;
 			sourceTree = "<group>";
@@ -1042,6 +1045,7 @@
 				B54229AE1FF1FCE100224BBB /* TopKFrequentElements_347.swift in Sources */,
 				B538FC931F3C070300A1BC5C /* SameTree_100.swift in Sources */,
 				B51B73721F3958D70082A8FB /* MoveZeroes_283.swift in Sources */,
+				B54D51C9208DD15D004AFA90 /* MinimumPathSum_64.swift in Sources */,
 				B53ED113202FDBAE00DA63FD /* HouseRobberIII_337.swift in Sources */,
 				B5E0749C1FBE7CB60060CF90 /* NthDigit_400.swift in Sources */,
 				B5D967B01FE0C357000396B6 /* OptimalDivision_553.swift in Sources */,
