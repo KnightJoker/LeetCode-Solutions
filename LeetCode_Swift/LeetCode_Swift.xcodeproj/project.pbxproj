@@ -152,6 +152,7 @@
 		B546D8F41F57A65E00D045D8 /* ReverseWordsInAStringIII_557.swift in Sources */ = {isa = PBXBuildFile; fileRef = B546D8F31F57A65E00D045D8 /* ReverseWordsInAStringIII_557.swift */; };
 		B546D8F61F57AE0500D045D8 /* DistributeCandies_575.swift in Sources */ = {isa = PBXBuildFile; fileRef = B546D8F51F57AE0500D045D8 /* DistributeCandies_575.swift */; };
 		B54D51C9208DD15D004AFA90 /* MinimumPathSum_64.swift in Sources */ = {isa = PBXBuildFile; fileRef = B54D51C8208DD15D004AFA90 /* MinimumPathSum_64.swift */; };
+		B54D51CB208F1780004AFA90 /* FindMinimumInRotatedSortedArray_153.swift in Sources */ = {isa = PBXBuildFile; fileRef = B54D51CA208F1780004AFA90 /* FindMinimumInRotatedSortedArray_153.swift */; };
 		B54F048A1FDE1F2E007E9B55 /* QueueReconstructionByHeight_406.swift in Sources */ = {isa = PBXBuildFile; fileRef = B54F04891FDE1F2E007E9B55 /* QueueReconstructionByHeight_406.swift */; };
 		B55ECECC207A23AF0090DB58 /* BestTimeToBuyAndSellStockWithCooldown_309.swift in Sources */ = {isa = PBXBuildFile; fileRef = B55ECECB207A23AF0090DB58 /* BestTimeToBuyAndSellStockWithCooldown_309.swift */; };
 		B568496F1F7D075700E98E53 /* PathSumIII_437.swift in Sources */ = {isa = PBXBuildFile; fileRef = B568496E1F7D075700E98E53 /* PathSumIII_437.swift */; };
@@ -409,6 +410,7 @@
 		B546D8F31F57A65E00D045D8 /* ReverseWordsInAStringIII_557.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ReverseWordsInAStringIII_557.swift; sourceTree = "<group>"; };
 		B546D8F51F57AE0500D045D8 /* DistributeCandies_575.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DistributeCandies_575.swift; sourceTree = "<group>"; };
 		B54D51C8208DD15D004AFA90 /* MinimumPathSum_64.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumPathSum_64.swift; sourceTree = "<group>"; };
+		B54D51CA208F1780004AFA90 /* FindMinimumInRotatedSortedArray_153.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindMinimumInRotatedSortedArray_153.swift; sourceTree = "<group>"; };
 		B54F04891FDE1F2E007E9B55 /* QueueReconstructionByHeight_406.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QueueReconstructionByHeight_406.swift; sourceTree = "<group>"; };
 		B55ECECB207A23AF0090DB58 /* BestTimeToBuyAndSellStockWithCooldown_309.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BestTimeToBuyAndSellStockWithCooldown_309.swift; sourceTree = "<group>"; };
 		B568496E1F7D075700E98E53 /* PathSumIII_437.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PathSumIII_437.swift; sourceTree = "<group>"; };
@@ -781,6 +783,7 @@
 				B5E5640C20886C2E009739E8 /* Non_overlappingIntervals_435.swift */,
 				B5E5640E2089C73B009739E8 /* SpiralMatrixII_59.swift */,
 				B54D51C8208DD15D004AFA90 /* MinimumPathSum_64.swift */,
+				B54D51CA208F1780004AFA90 /* FindMinimumInRotatedSortedArray_153.swift */,
 			);
 			path = LeetCode_Swift;
 			sourceTree = "<group>";
@@ -868,6 +871,7 @@
 				B538FCD31F42E35500A1BC5C /* RomanToInteger_13.swift in Sources */,
 				B5158F661F73950100E66F61 /* DiameterOfBinaryTree_543.swift in Sources */,
 				B53EC5231F94495F003122AC /* SymmetricTree_101.swift in Sources */,
+				B54D51CB208F1780004AFA90 /* FindMinimumInRotatedSortedArray_153.swift in Sources */,
 				B5D35F772063968000210211 /* BinaryTreeRightSideView_199.swift in Sources */,
 				B5EDF89C20070F4200E07A5A /* LargestPalindromeProduct_479.swift in Sources */,
 				B5E074811FBBDB660060CF90 /* LongestCommonPrefix_14.swift in Sources */,
