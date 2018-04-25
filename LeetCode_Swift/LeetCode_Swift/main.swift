@@ -28,8 +28,17 @@ class ListNode {
     }
 }
 
+public class Interval {
+    public var start: Int
+    public var end: Int
+    public init(_ start: Int, _ end: Int) {
+        self.start = start
+        self.end = end
+    }
+}
+
 //String()
-let a = TopKFrequentWords_692()
+let a = Combinations_77()
 
 let r0 = TreeNode(1)
 let r1 = TreeNode(2)
@@ -85,7 +94,7 @@ var v1 = [
 ]
 
 
-print(a.topKFrequent(["i", "love", "leetcode", "i", "love", "coding"], 2))
+print(a.combine(4, 2))
 
 
 
