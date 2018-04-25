@@ -11,7 +11,7 @@ import Foundation
 class LongestRepeatingCharacterReplacement_424 {
     func characterReplacement(_ s: String, _ k: Int) -> Int {
 
-        let len = s.characters.count
+        let len = s.count
         var sArray = Array(s.unicodeScalars)
         
         var count = Array<Int>(repeatElement(0, count: 26))

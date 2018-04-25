@@ -14,7 +14,7 @@ class WordPattern_290 {
         var charDict = [Character: String]()
         let strs = str.components(separatedBy: " ")
         
-        let patterns = [Character](pattern.characters)
+        let patterns = [Character](pattern)
         
         guard patterns.count == strs.count else {
             return false

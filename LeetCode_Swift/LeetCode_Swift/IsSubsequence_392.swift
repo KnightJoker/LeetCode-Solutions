@@ -11,11 +11,11 @@ import Foundation
 class IsSubsequence_392 {
     func isSubsequence(_ s: String, _ t: String) -> Bool {
         
-        if s.characters.count == 0 {
+        if s.count == 0 {
             return true
         }
         
-        let sArray = Array(s.characters), tArray = Array(t.characters)
+        let sArray = Array(s), tArray = Array(t)
         
         var indexS = 0, indexT = 0
         while indexT < tArray.count {

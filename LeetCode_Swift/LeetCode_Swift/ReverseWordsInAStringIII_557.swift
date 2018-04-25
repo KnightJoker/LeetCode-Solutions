@@ -15,7 +15,7 @@ class ReverseWordsInAStringIII_557 {
         
         var resultArray = Array<String>()
         for str in stringArray {
-            resultArray.append(String(str.characters.reversed()))
+            resultArray.append(String(str.reversed()))
         }
         
         return resultArray.joined(separator:" ")

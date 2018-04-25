@@ -25,8 +25,8 @@ class AddBinary_67 {
     
     func addBinary(_ a: String, _ b: String) -> String {
         var res = "",carry = 0
-        var aIndex = a.characters.count - 1,bIndex = b.characters.count - 1
-        var aArray = Array<Character>(a.characters), bArray = Array<Character>(b.characters)
+        var aIndex = a.count - 1,bIndex = b.count - 1
+        var aArray = Array<Character>(a), bArray = Array<Character>(b)
         while aIndex >= 0 || bIndex >= 0 || carry == 1 {
             if aIndex >= 0 {
                 carry += Int(String(aArray[aIndex])) ?? 0

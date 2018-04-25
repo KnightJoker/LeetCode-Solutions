@@ -15,7 +15,7 @@ public class JudgeRouteCircle_657 {
         var count = 0
         var temp = 0
         
-        for char in moves.characters {
+        for char in moves {
             switch char {
             case "R":
                 temp = -1

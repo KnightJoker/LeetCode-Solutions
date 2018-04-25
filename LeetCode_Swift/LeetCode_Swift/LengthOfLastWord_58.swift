@@ -14,6 +14,6 @@ class LengthOfLastWord_58 {
         while (sArray.last?.isEmpty)! && sArray.count != 1 {
             sArray.remove(at: sArray.count - 1)
         }
-        return (sArray.last?.characters.count)!
+        return (sArray.last?.count)!
     }
 }

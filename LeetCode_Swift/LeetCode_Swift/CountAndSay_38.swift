@@ -21,7 +21,7 @@ class CountAndSay_38 {
             var last = result[result.startIndex]
             var count = 0
             var temp = ""
-            for i in result.characters {
+            for i in result {
                 if last == i {
                     count += 1
                 } else {

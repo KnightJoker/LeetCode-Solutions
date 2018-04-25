@@ -14,7 +14,7 @@ class LicenseKeyFormatting_482 {
         
         let S = S.replacingOccurrences(of: "-", with: "")
         let s = S.uppercased()
-        var sArray = Array(s.characters)
+        var sArray = Array(s)
         let count = sArray.count
         var index = K
         while index < count {

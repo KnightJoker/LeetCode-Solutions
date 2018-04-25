@@ -13,7 +13,7 @@ class ReplaceWords_648 {
         if (dict.count == 0) {return sentence}
         let rootSet = Set(dict)
         
-        let words = sentence.characters.split(separator: " ").map(String.init)
+        let words = sentence.split(separator: " ").map(String.init)
         
         var res = [String]()
         for word in words {

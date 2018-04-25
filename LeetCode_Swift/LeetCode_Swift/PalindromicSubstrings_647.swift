@@ -11,10 +11,10 @@ import Foundation
 class PalindromicSubstrings_647 {
     func countSubstrings(_ s: String) -> Int {
         
-        if s.characters.count == 0 {
+        if s.count == 0 {
             return 0
         }
-        var count = 0,sArray = Array(s.characters)
+        var count = 0,sArray = Array(s)
         
         func extendPalindrome(_ s:Array<Character>,_ left:Int,_ right:Int) {
             var left = left,right = right

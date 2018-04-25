@@ -14,16 +14,16 @@ public class DetectCapital_520 {
         
         var count = 0
         
-        for char in word.characters {
+        for char in word {
             
             if char >= "a" && char <= "z" {
                 count += 1
             }
         }
         
-        if count == word.characters.count || count == 0 {
+        if count == word.count || count == 0 {
             return true
-        } else if count == word.characters.count - 1 && word.characters[word.characters.startIndex] >= "A" && word.characters[word.characters.startIndex] <= "Z" {
+        } else if count == word.count - 1 && word[word.startIndex] >= "A" && word[word.startIndex] <= "Z" {
             return true
         } else {
             return false

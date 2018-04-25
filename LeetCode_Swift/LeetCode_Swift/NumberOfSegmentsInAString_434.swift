@@ -11,7 +11,7 @@ import Foundation
 class NumberOfSegmentsInAString_434 {
     func countSegments(_ s: String) -> Int {
         var count = 0,stringArray = Array<Character>()
-        for char in s.characters {
+        for char in s {
             stringArray.append(char)
         }
         

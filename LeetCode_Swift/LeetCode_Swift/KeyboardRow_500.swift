@@ -22,8 +22,8 @@ class KeyboardRow_500 {
 
         func checkWords(word: String) -> Bool {
             
-            let rule = rules.filter { $0.range(of: String(word.characters.first!)) != nil }
-            for c in word.characters {
+            let rule = rules.filter { $0.range(of: String(word.first!)) != nil }
+            for c in word {
                 if (rule.first!.range(of: String(c))) == nil {
                     return true
                 }

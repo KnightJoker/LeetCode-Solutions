@@ -11,7 +11,7 @@ import Foundation
 class ReverseStringII_541 {
     func reverseStr(_ s: String, _ k: Int) -> String {
         
-        var s = Array(s.characters)
+        var s = Array(s)
         
         for i in stride(from: 0, to: s.count, by: 2 * k) {
             

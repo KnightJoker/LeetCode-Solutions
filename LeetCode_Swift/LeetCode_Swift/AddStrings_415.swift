@@ -12,7 +12,7 @@ public class AddStrings_415 {
 
     func addStrings(_ num1: String, _ num2: String) -> String {
         var returnString = ""
-        var count = 0,i = num1.characters.count - 1,j = num2.characters.count - 1
+        var count = 0,i = num1.count - 1,j = num2.count - 1
         while i >= 0 || j >= 0 || count > 0 {
             var cur = count
             cur += (i >= 0 ? Int(String(num1[num1.index(num1.startIndex, offsetBy: i)]))! :0)
@@ -23,7 +23,7 @@ public class AddStrings_415 {
             i -= 1
             j -= 1
         }
-        return String(returnString.characters.reversed())
+        return String(returnString.reversed())
     }
 }
 

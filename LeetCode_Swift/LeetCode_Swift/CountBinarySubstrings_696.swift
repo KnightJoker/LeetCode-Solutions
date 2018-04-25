@@ -13,7 +13,7 @@ class CountBinarySubstrings_696 {
     func countBinarySubstrings(_ s: String) -> Int {
         
         var prev = 0,cur = 1,res = 0
-        let sAarray = Array(s.characters)
+        let sAarray = Array(s)
         for i in 1..<sAarray.count {
             if sAarray[i] == sAarray[i - 1] {
                 cur += 1

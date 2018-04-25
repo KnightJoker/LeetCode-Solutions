@@ -13,6 +13,6 @@ class LongestUncommonSubsequenceI_521 {
         if a == b {
             return -1
         }
-        return a.characters.count == b.characters.count ? a.characters.count : max(a.characters.count, b.characters.count)
+        return a.count == b.count ? a.count : max(a.count, b.count)
     }
 }

@@ -14,7 +14,7 @@ class SortCharactersByFrequency_451 {
         var dic = Dictionary<Character, Int>()
         var res = String()
         
-        for c in s.characters {
+        for c in s {
             dic[c] = (dic[c] ?? 0) + 1
         }
         

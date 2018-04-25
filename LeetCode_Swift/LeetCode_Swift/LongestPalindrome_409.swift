@@ -31,7 +31,7 @@ public class LongestPalindrome_409 {
             }
         }
         
-        if res == s.characters.count {
+        if res == s.count {
             return res
         }
         return res + 1;

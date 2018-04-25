@@ -10,8 +10,8 @@ import Foundation
 
 class MinimumASCIIDeleteSumForTwoStrings_712 {
     func minimumDeleteSum(_ s1: String, _ s2: String) -> Int {
-        let m = s1.characters.count,n = s2.characters.count,max = Int.max
-        var a = Array(s1.characters),b = Array(s2.characters)
+        let m = s1.count,n = s2.count,max = Int.max
+        var a = Array(s1),b = Array(s2)
         var res = [[Int]](repeating: [Int](repeating: 0, count: n + 1), count: m + 1)
         for i in stride(from:m, through:0, by:-1) {
             for j in stride(from: n, through: 0, by: -1) {

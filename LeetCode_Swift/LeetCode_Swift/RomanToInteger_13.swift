@@ -13,7 +13,7 @@ public class RomanToInteger_13 {
     func romanToInt(_ s: String) -> Int {
         
         var count = 0
-        for char in s.characters.reversed() {
+        for char in s.reversed() {
             count += self.romanToIntWithCharacter(char,count)
         }
         return count

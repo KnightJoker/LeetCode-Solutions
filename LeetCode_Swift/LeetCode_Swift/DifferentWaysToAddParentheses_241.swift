@@ -13,7 +13,7 @@ class DifferentWaysToAddParentheses_241 {
         
         var res = Array<Int>()
         
-        let inputA = Array(input.characters)
+        let inputA = Array(input)
         
         for i in 0..<inputA.count {
             let c = inputA[i]

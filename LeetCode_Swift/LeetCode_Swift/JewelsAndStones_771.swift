@@ -14,12 +14,12 @@ class JewelsAndStones_771 {
         var dic = Dictionary<Character, Int>()
         var count = 0
         
-        for s in S.characters {
+        for s in S {
             dic[s] = (dic[s] ?? 0) + 1
         }
         
-        for j in J.characters {
-            if S.characters.contains(j) {
+        for j in J {
+            if S.contains(j) {
                 count += dic[j]!
             }
         }
