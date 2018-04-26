@@ -38,7 +38,7 @@ public class RansomNote_383{
         
         var array = [Character]()
         
-        for (_,char) in s.characters.enumerated() {
+        for (_,char) in s.enumerated() {
             array.append(char)
         }
         

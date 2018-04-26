@@ -12,7 +12,7 @@ import Foundation
 class ReconstructOriginalDigitsFromEnglish_423 {
     func originalDigits(_ s: String) -> String {
         var nums = [Int](repeating:0,count:10)
-        for char in s.characters {
+        for char in s {
             if char == "z" {nums[0] += 1}
             if char == "o" {nums[1] += 1}
             if char == "w" {nums[2] += 1}

@@ -17,7 +17,7 @@ class GenerateParentheses_22 {
     }
     
     private func backTrack(resArray:inout [String], str:String, left:Int, right:Int, max:Int) {
-        if str.characters.count == max * 2 {
+        if str.count == max * 2 {
             resArray.append(str)
             return
         }

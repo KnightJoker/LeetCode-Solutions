@@ -21,7 +21,7 @@ class ComplexNumberMultiplication_537 {
     func stringToint(_ str:String) -> (Int,Int) {
         var real = ""
         var vir = ""
-        for (i,k) in str.characters.enumerated() {
+        for (i,k) in str.enumerated() {
             if k == "+" {
                 real = String(str[..<str.index(str.startIndex, offsetBy:i)])
                 vir = String(str[str.index(str.startIndex, offsetBy: i + 1)..<str.index(before: str.endIndex)])

@@ -17,7 +17,7 @@ public class ValidAnagram_242 {
         
         var array = [Character]()
         
-        for (_,char) in s.characters.enumerated() {
+        for (_,char) in s.enumerated() {
             array.append(char)
         }
         

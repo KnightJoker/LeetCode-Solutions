@@ -12,8 +12,8 @@ class IsomorphicStrings_205 {
     func isIsomorphic(_ s: String, _ t: String) -> Bool {
         
         var dic = [Character: Character]()
-        let ss = Array(s.characters)
-        let tt = Array(t.characters)
+        let ss = Array(s)
+        let tt = Array(t)
         for i in 0..<ss.count {
             if let value = dic[ss[i]] {
                 if value != tt[i] {

@@ -11,8 +11,8 @@ import Foundation
 class ImplementStrStr_28 {
     func strStr(_ haystack: String, _ needle: String) -> Int {
         
-        let hayArray = Array(haystack.characters)
-        let needleArray = Array(needle.characters)
+        let hayArray = Array(haystack)
+        let needleArray = Array(needle)
         
         for i in 0... {
             for j in 0... {

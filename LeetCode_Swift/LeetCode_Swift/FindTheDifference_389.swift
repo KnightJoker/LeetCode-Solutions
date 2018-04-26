@@ -12,20 +12,20 @@ public class FindTheDifference_389 {
     func findTheDifference(_ s: String, _ t: String) -> Character {
         
         var tt = t,ss = s
-        for (_,charA) in t.characters.enumerated() {
+        for (_,charA) in t.enumerated() {
 
-            for (_,charB) in s.characters.enumerated() {
+            for (_,charB) in s.enumerated() {
 
                 if charA == charB {
-                    let tempA = tt.characters.index(of: charA)
+                    let tempA = tt.index(of: charA)
                     tt.remove(at: tempA!)
-                    let tempB = ss.characters.index(of: charB)
+                    let tempB = ss.index(of: charB)
                     ss.remove(at: tempB!)
                     return (self .findTheDifference(ss, tt))
                 }
             }
         }
     
-        return tt.characters.first!
+        return tt.first!
     }
 }

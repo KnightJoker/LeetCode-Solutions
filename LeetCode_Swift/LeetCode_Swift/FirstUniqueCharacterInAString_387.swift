@@ -10,7 +10,7 @@ import Foundation
 
 class FirstUniqueCharacterInAString_387 {
     func firstUniqChar(_ s: String) -> Int {
-        let stringArray = s.characters.map({ String($0) })
+        let stringArray = s.map({ String($0) })
         var array:[String:Int] = [:]
         var ans:Int!
         

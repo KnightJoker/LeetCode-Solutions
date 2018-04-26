@@ -16,7 +16,7 @@ class LongestCommonPrefix_14 {
         var result = strs[0]
         for str in strs {
             while !str.hasPrefix(result) {
-                if result.isEmpty || result.characters.count == 1{
+                if result.isEmpty || result.count == 1{
                     return ""
                 }
                 result.remove(at: result.index(before: result.endIndex))

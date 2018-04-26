@@ -12,11 +12,11 @@ public class ExcelSheetColumnNumber_171 {
 
     func titleToNumber(_ s: String) -> Int {
         
-        if s.characters.count == 0 {
+        if s.count == 0 {
             return 0
         }
         var sum = 0
-        for char in s.characters {
+        for char in s {
             sum = 26 * sum + Int(String(char).unicodeScalars[String(char).unicodeScalars.startIndex].value - "A".unicodeScalars["A".unicodeScalars.startIndex].value) + 1;
         }
         return sum

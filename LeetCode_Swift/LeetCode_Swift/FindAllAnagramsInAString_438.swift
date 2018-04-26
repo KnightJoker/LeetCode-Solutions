@@ -10,8 +10,8 @@ import Foundation
 
 class FindAllAnagramsInAString_438 {
     func findAnagrams(_ s: String, _ p: String) -> [Int] {
-        let m = p.characters.count
-        let n = s.characters.count
+        let m = p.count
+        let n = s.count
         var result = [Int]()
         if n < m {
             return result
