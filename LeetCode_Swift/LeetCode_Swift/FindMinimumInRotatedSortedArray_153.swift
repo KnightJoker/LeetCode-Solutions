@@ -19,10 +19,11 @@ class FindMinimumInRotatedSortedArray_153 {
             let mid = (left + right) / 2
             if nums[mid] >= nums[left] {
                 left = mid + 1
-            }else {
+            } else {
                 right = mid
             }
         }
         return nums[left]
+        
     }
 }
