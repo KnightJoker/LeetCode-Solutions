@@ -204,6 +204,7 @@ On non-macOS computers, please substitute `CTRL` for `⌘ `.
 |343|[Integer Break](https://leetcode.com/problems/integer-break/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/IntegerBreak_343.swift)|Medium|
 |144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/BinaryTreePreorderTraversal_144.swift)|Medium|
 |498|[Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/DiagonalTraverse_498.swift)|Medium|
+|2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/AddTwoNumbers_2.swift)|Medium|
 |445|[Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/AddTwoNumbersII_445.swift)|Medium|
 |592|[Fraction Addition and Subtraction](https://leetcode.com/problems/fraction-addition-and-subtraction/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/FractionAdditionAndSubtraction_592.swift)|Medium|
 |539|[Minimum Time Difference](https://leetcode.com/problems/minimum-time-difference/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/MinimumTimeDifference_539.swift)|Medium|
@@ -253,5 +254,4 @@ On non-macOS computers, please substitute `CTRL` for `⌘ `.
 |64|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/MinimumPathSum_64.swift)|Medium|
 |153|[Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/FindMinimumInRotatedSortedArray_153.swift)|Medium|
 |738|[Monotone Increasing Digits](https://leetcode.com/submissions/detail/151693884/) | [Swift](./LeetCode_Swift/LeetCode_Swift/MonotoneIncreasingDigits_738.swift)|Medium|
-|2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/AddTwoNumbers_2.swift)|Medium|
 |535|[Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/#/description) | [Objective-C](./LeetCode_Solutions/LeetCode_Solutions/EncodeAndDecodeTinyURL_535.m)|Medium|
