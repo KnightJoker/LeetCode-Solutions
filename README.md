@@ -256,4 +256,5 @@ On non-macOS computers, please substitute `CTRL` for `⌘ `.
 |738|[Monotone Increasing Digits](https://leetcode.com/submissions/detail/151693884/) | [Swift](./LeetCode_Swift/LeetCode_Swift/MonotoneIncreasingDigits_738.swift)|Medium|
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/LongestSubstringWithoutRepeatingCharacters_3.swift)|Medium|
 |5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/LongestPalindromicSubstring_5.swift)|Medium|
+|6|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/description/) | [Swift](./LeetCode_Swift/LeetCode_Swift/ZigZagConversion_6.swift)|Medium|
 |535|[Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/#/description) | [Objective-C](./LeetCode_Solutions/LeetCode_Solutions/EncodeAndDecodeTinyURL_535.m)|Medium|
